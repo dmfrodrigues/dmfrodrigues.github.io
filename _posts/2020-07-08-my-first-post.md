@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My first post"
+date: 2020-07-08 19:07:44 +0100
 ---
 
 Hello and welcome to my first post! This is also my first blog/website so please bear with me.

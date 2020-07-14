@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paranoid C/C++ warnings"
+date: 2020-07-08 23:37:22 +0100
 ---
 
 I started programming in C++ around the summer of 2016, essentially because I knew that, however useful it could be for my academic life, the knowledge I had about TI-BASIC would not be of much use for the things I aspired most: learning a fast and useful language, that would be practical for my small projects as well as a starting point for my endeavour into competitive programming.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ubuntu tips & tricks"
+date: 2020-07-14 18:37:37 +0100
 ---
 
 Ubuntu is an open-source Linux distribution based on Debian. It is one of the *giants* among Linux distributions for several reasons, including user-friendliness, low system requirements (minimum 1GB RAM and 10GB disk space, recommended 4GB RAM and 25GB disk space), a supportive community with a wide user base, and lots of free software available through the Ubuntu Software Center or otherwise via commands `apt` or `snap`.
