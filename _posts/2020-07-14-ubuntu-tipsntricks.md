@@ -48,7 +48,7 @@ Then run `sudo update-grub` as advised in the beginning of `/etc/default/grub` t
 4. Run `sudo update-grub`.
 5. Reboot the computer.
 
-## Add git branch name to shell prompt
+## Add Git branch name to shell prompt
 
 While git is already supported across several IDEs and programs in a graphical way, the shell interface still has a certain charm to it, aside from the fact you actually get to understand what those helpful IDE extensions are doing under the hood.
 
@@ -124,3 +124,41 @@ fi
 ```
 4. Save the file and close gedit.
 5. Run `source ~/.bashrc`
+
+## Disable Apache on startup
+
+Apache is a free and open-source cross platform web server software. From personal experience this is by far the best server for small- and medium-sized projects, mostly due to its simplicity and ease to setup. It is also one of the most important parts of the well-known LAMP web service stack (Linux OS, Apache server, MySQL database and PHP server language).
+
+You can install Apache by running `sudo apt install apache2`, and a more detailed guide is available [here](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview).
+
+Notice that Apache only makes a browser work properly with the files you provide for it, as it does not automatically make files available over the internet. It makes your computer IP available for access over a local network, to access your website in your browser just go to the address `localhost` and you should see the classic Apache landing page.
+
+<div style="text-align: center">
+    <figure>
+        <img src="https://binyod.com/linux/intro-to-apache-server/attachment/apache/" alt="Apache default landing page">
+        <figcaption>Apache default landing page</figcaption>
+    </figure>
+</div>
+
+By default the Apache server makes available the directory `/var/www` via web. The landing page also mentions this fact, stating
+
+> By default, Ubuntu does not allow access through the web browser to any file apart of those located in `/var/www`, `public_html` directories (when enabled) and `/usr/share` (for web applications).
+
+> The default Ubuntu document root is /var/www/html. You can make your own virtual hosts under /var/www.
+
+As I found out from personal experience, (at least locally) you can create in `/var/www/html` a [symbolic link](https://linuxize.com/post/how-to-create-symbolic-links-in-linux-using-the-ln-command/) to any directory in you computer and then access it via browser, which is very convenient. If you create a link called `dir1` in `/var/www/html` targeting `/home/user1/some-folder`, you can access `some-folder` via address `localhost/dir1`.
+
+But that's just going over the topic. When you install Apache it automatically sets itself to start the service on computer startup. As far as I know, having the Apache server running while not using it did not cause any noticeable overhead so it is not much of a problem. However, you will probably not need the Apache server everytime you use your computer, and it reduces startup performance a bit.
+
+Here are some commands you can use to manage Apache.
+
+```bash
+sudo service apache2 status     # Chech service status
+sudo service apache2 restart    # Restart service
+sudo service apache2 stop       # Stop service
+sudo service apache2 start      # Start service
+sudo systemctl disable apache2  # Disable service on startup
+sudo systemctl enable apache2   # Enable service on startup
+```
+
+Once you disable the service and reboot your computer, you can run `sudo service apache2 status` to check that it is not running. If you go to your browser and access `localhost`, you may notice it still displays the Apache landing page; just clear your browser cache and try accessing `localhost` again (you will see that the browser is unable to connect to `localhost`).
