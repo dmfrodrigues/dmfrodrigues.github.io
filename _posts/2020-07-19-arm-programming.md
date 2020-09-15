@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "ARM rocks! A short guide for assembly programming"
+title:  "How to (and why you should) program for ARM"
 date: 2020-07-19 19:41:00 +0100
 ---
 
-ARM (Advanced RISC Machine) is a family of RISC architectures, initially developed by defunct British company Acorn Computers Ltd. and now maintained by British (Japanese-owned) [Arm Holdings](https://www.arm.com/). It is one of the most influential processor architectures, along with x86 instruction set architecture by Intel.
+ARM (Advanced RISC Machine) is a family of RISC architectures, initially developed by defunct British company Acorn Computers Ltd. and now maintained by British [Arm Holdings](https://www.arm.com/). It is one of the most influential processor architectures, along with x86 instruction set architecture by Intel.
 
 Each CPU can have its own instruction set, that's why all these high-level programming languages: you don't have to bother with hard-to-read assembly code, you don't have to learn several processor instruction sets and you can develop cross-platform code, because compilers will handle the rest for you. However, some tasks require aggressive optimization of certain sections, or your programs may run in critical environments, so you'd like to program in assembly to have better performance or more control over the process. Or perhaps you just want to compile your C/C++ program for an ARM processor.
 
@@ -13,12 +13,13 @@ Here is a short guide on how you can (and why you should) start programming in C
 ## How
 
 There are two major ARM versions you should know about:
-- ARMv7 is the last, most recent 32-bit address space ARM implementation.
+- ARMv7 is the most recent (and last) 32-bit address space ARM implementation.
 - ARMv8 is the first (and currently only) 64-bit address space ARM architecture, which is also why it is also one of the most used ARM implementations. It has a 32-bit state AArch32 with backwards compatibility, as well as a 64-bit state AArch64 which is the most interesting part about ARMv8.
 
 ### ARMv8
 
 ARMv8 in an AArch64 state is the instruction set you are most likely to find out there, as well as the one that will most likely be useful to you. First of all, you are going to need special software to compile and run code in an ARM architecture. This includes:
+
 - **Compilers**: you will need two compilers, one for C and another for C++ (both also support assembly). We will use compilers targetting a 64-bit ARMv8 Cortex-A, little-endian CPU. The [Linaro toolchain](https://www.linaro.org/) is a free and open-source ARM toolchain, available for both Linux and Windows. It will make available compilers `aarch64-linux-gnu-gcc` and `aarch64-linux-gnu-g++` for C and C++ respectively, and they are used in ways similar to `gcc` and `g++`.
     - Under **Ubuntu/Debian**, you can run `sudo apt install aarch64-linux-gnu-gcc aarch64-linux-gnu-g++` to install the compilers.
     - Under **Microsoft Windows**, you can download the binaries from [here](https://www.linaro.org/downloads/) and then unzip them (you will probably want to add the `bin` folder inside the unzipped folder to your `PATH` so you can freely compile from anywhere the command line is without having to use the compiler full path). Choose `aarch64-elf` to target the right ARM architecture.
@@ -32,7 +33,7 @@ TODO
 
 ## Why
 
-The ARM achitecture is gaining ground in several areas (*ARM rocks*) for a number of reasons. Even large companies like Apple and Microsoft have recently announced they will [further embrace ARM-based processors](https://siliconangle.com/2020/06/26/exiting-x86-apple-microsoft-embracing-arm-based-pc/).
+The ARM achitecture is winning the race in so many areas that one can certainly say Intel will be through hardships to recover from this. Even large companies like Apple and Microsoft have recently announced they will [further embrace ARM-based processors](https://siliconangle.com/2020/06/26/exiting-x86-apple-microsoft-embracing-arm-based-pc/). This recently-found fame of ARM is owed to a number of reasons.
 
 ### RISC vs CISC
 
@@ -43,12 +44,15 @@ As it is known (or would be inferrable from their names), CISC architectures req
 ### Smartphones
 
 If you have a smartphone, it is most likely equipped with an ARM-based CPU running its OS natively.
-- Samsung uses [Exynos](https://en.wikipedia.org/wiki/Exynos) ARM-based system-on-chips.
+
+- Samsung uses [Qualcomm Snapdragon](https://en.wikipedia.org/wiki/Qualcomm_Snapdragon) CPUs and [Exynos](https://en.wikipedia.org/wiki/Exynos) ARM-based system-on-chips.
 - Apple uses [Apple Silicon](https://en.wikipedia.org/wiki/Apple_Silicon) ARM-architecture system-on-chip and system-in-package processors.
 - Huawei uses Kirin CPUs via [HiSilicon](https://en.wikipedia.org/wiki/HiSilicon), all of which use ARM instruction set architectures.
 - Xiaomi uses [ARM CPUs](https://www.arm.com/products/silicon-ip-cpu) directly, or [Qualcomm Snapdragon](https://en.wikipedia.org/wiki/Qualcomm_Snapdragon) CPUs using the ARM instruction set.
 
-This is one of the reasons why the number of shipped ARM-based processors is [10 times greater](https://siliconangle.com/2020/06/26/exiting-x86-apple-microsoft-embracing-arm-based-pc/) than x86 processors. This will allow Apple to have all its mobile apps running on PC as well.
+This is one of the reasons why the number of shipped ARM-based processors is [10 times greater](https://siliconangle.com/2020/06/26/exiting-x86-apple-microsoft-embracing-arm-based-pc/) than x86 processors.
+
+The fact Apple is also preparing to use ARM on PC will allow using all its mobile apps on PC as well.
 
 ### Power consumption
 
@@ -58,8 +62,8 @@ There has been joint research between Microsoft and Qualcomm, which has in part 
 
 Since ARM uses RISC it requires less transistors and its instructions require less complex hardware support than CISC architectures, so ARM CPUs end up being less expensive.
 
-Also, Arm Holdings does not produce most ARM processors, it mostly licenses ARM architectures to other manufacturers. This fact can help in reducing market prices since Intel cannot charge as much as they wish any longer and the CPU market will be much more competitive once several CPU manufacturers start producing their own ARM-based CPUs.
+Also, Arm Holdings does not produce most ARM processors, as it mostly licenses ARM architectures to other manufacturers. This fact can help in reducing market prices since Intel cannot charge as much as they wish any longer and the CPU market will be much more competitive once several CPU manufacturers start producing their own ARM-based CPUs.
 
 ### Safety
 
-The [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)) and [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)) security flaws, affecting mostly Intel processors, are still quite fresh since they were first disclosed in January 2018. These specific security flaws lead us to a more general conclusion that CPU architectures developed, maintained and manufactured by a single company like Intel are not subject to as much scrutiny as open-source/licensed, widespread architectures being developed by many companies like ARM.
+The [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)) and [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)) security flaws, affecting mostly Intel processors, are still quite fresh since they were first disclosed in January 2018. These specific security flaws lead us to a more general conclusion that CPU architectures developed, maintained and manufactured by a single company like Intel are not subject to as much scrutiny as open-source/licensed, widespread architectures being developed by many companies, like ARM architectures.

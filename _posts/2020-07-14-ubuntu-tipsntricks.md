@@ -16,7 +16,7 @@ The splash screen was probably adopted by Canonical in the line of recent develo
 
 <div style="text-align: center">
     <figure>
-        <img src="https://miro.medium.com/max/700/1*h3RuU3wg_hq6605CnvbugA.jpeg" alt="Ubuntu splash screen" width="49%" height="49%" style="display: inline">
+        <img src="https://miro.medium.com/max/700/1*h3RuU3wg_hq6605CnvbugA.jpeg" alt="Ubuntu splash screen" width="49.4%" height="49.4%" style="display: inline">
         <img src="https://i.stack.imgur.com/jR65l.jpg" alt="Ubuntu kernel messages" width="48.2%" height="48.2%" style="display: inline">
         <figcaption>Ubuntu splash screen and kernel messages</figcaption>
     </figure>
