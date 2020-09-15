@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import "travel";
+
+img {
+    margin: 2px;
+}
+
+table.table-of-images {
+    border: 0;
+    margin-bottom: 0px;
+}
+table.table-of-images tr {
+    background-color: transparent;
+}
+table.table-of-images td {
+    padding: 2px;
+    border: 0;
+}
+
+p {
+    text-align: justify;
+}

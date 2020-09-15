@@ -1,0 +1,22 @@
+---
+layout: default
+custom_css:
+- post
+---
+
+<article class="post h-entry" itemscope="" itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+        <h1 class="post-title p-name" itemprop="name headline">
+            {{ page.country }}
+        </h1>
+        <p class="post-subtitle">
+            {{ page.where }}
+        </p>
+        <p class="post-meta">
+            {{ page.when }}
+        </p>
+    </header>
+    <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+    </div>
+</article>
