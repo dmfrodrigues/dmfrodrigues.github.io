@@ -14,9 +14,9 @@ However, some particular customizations are not readily available and of great u
 
 The splash screen was probably adopted by Canonical in the line of recent developments in Linux distributions, with the intention of showing Linux distibutions are not niche operating systems for developers only. Thus, they are taking an understandable approach similar to Microsoft Windows, which prefers to hide errors and text messages that might scare the average user and rather try to solve them by itself.
 
-<div style="text-align: center">
+<div class="div-of-images">
     <figure>
-        <img src="https://miro.medium.com/max/700/1*h3RuU3wg_hq6605CnvbugA.jpeg" alt="Ubuntu splash screen" width="49.4%" height="49.4%" style="display: inline">
+        <img src="https://miro.medium.com/max/700/1*h3RuU3wg_hq6605CnvbugA.jpeg" alt="Ubuntu splash screen" class="half" height="49.4%" style="display: inline">
         <img src="https://i.stack.imgur.com/jR65l.jpg" alt="Ubuntu kernel messages" width="48.2%" height="48.2%" style="display: inline">
         <figcaption>Ubuntu splash screen and kernel messages</figcaption>
     </figure>
@@ -133,7 +133,7 @@ You can install Apache by running `sudo apt install apache2`, and a more detaile
 
 Notice that Apache only makes a browser work properly with the files you provide for it, as it does not automatically make files available over the internet. It makes your computer IP available for access over a local network, to access your website in your browser just go to the address `localhost` and you should see the classic Apache landing page.
 
-<div style="text-align: center">
+<div class="div-of-images">
     <figure>
         <img src="https://binyod.com/linux/intro-to-apache-server/attachment/apache/" alt="Apache default landing page">
         <figcaption>Apache default landing page</figcaption>
