@@ -29,7 +29,35 @@ ARMv8 in an AArch64 state is the instruction set you are most likely to find out
     - Under **Ubuntu/Debian**, you can install QEMU by running `sudo apt install qemu` (for other Linux distributions see [this link](https://www.qemu.org/download/#linux)).
     - Under **Microsoft Windows**, you can download [binaries and installers for 32/64-bit Windows](https://www.qemu.org/download/#windows). I have not installed QEMU under Windows so you're on your own in this one.
 
-TODO
+#### Getting started
+
+To get you started right away, check [this sample repository](https://github.com/dmfrodrigues/arm-programming-sample), and clone it using
+
+```sh
+git clone https://github.com/dmfrodrigues/arm-programming-sample.git
+```
+
+This is a short program for determining the euclidean distance between two points in the plane. We will in a first stage compile both files into their respective object files, and then link all the object files into an executable for ARM compiler architecture.
+
+```sh
+aarch64-linux-gnu-gcc -static -c main.c -o main.o           # Compile the main C file
+aarch64-linux-gnu-gcc -static -c main_asm.s -o main_asm.o   # Compile the assembly file
+aarch64-linux-gnu-gcc -static main.o main_asm.o -o main     # Link these two files
+```
+
+Finally, you have to start the emulator and run the resulting `main` executable
+
+```sh
+qemu-aarch64 main
+```
+
+and it will output the euclidean distance between (3, 4) and (2, 1), which is
+
+```
+3.162278
+```
+
+On a brief note, assembly files do not have universally defined extensions, but one usually either uses no extension, or uses the `.s` extension. As a way to prevent problems with object files having similar names, avoid having two files, one in C and one in assembly, with the same name (e.g. avoid having `main.c` and `main.s`, as you will probably forget and eventually have both files compile into the same object file `main.o`).
 
 ## Why
 
