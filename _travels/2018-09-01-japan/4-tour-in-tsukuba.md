@@ -59,8 +59,18 @@ We visited the Exhibition Hall, which is the Tsukuba Space Center visitors venue
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=1zYuY5lyXMMCPofewZZj675f8YzRw0D9O" style="display: inline" class="third"><img src="https://drive.google.com/uc?export=download&id=1nSPPwHK8fZG8MQX0AKmlWChbC3ikIWWg" style="display: inline" class="third"><img src="https://drive.google.com/uc?export=download&id=1IHO1RbYSmOvsLmFj75C1ELBJBFK8Gk0a" style="display: inline" class="third">
-        <figcaption><a link="https://en.wikipedia.org/wiki/H-II_Transfer_Vehicle">H-II Transfer Vehicle</a>, also called <i>Kounotori</i>, is the expendable automated cargo spacecraft designed to ressuply the Kibō module</figcaption>
+        <div class="flex-image-stripe">
+            <div class="flex-image">
+                <img src="https://drive.google.com/uc?export=download&id=1zYuY5lyXMMCPofewZZj675f8YzRw0D9O" style="display: inline">
+            </div>
+            <div class="flex-image">
+                <img src="https://drive.google.com/uc?export=download&id=1nSPPwHK8fZG8MQX0AKmlWChbC3ikIWWg" style="display: inline">
+            </div>
+            <div class="flex-image">
+                <img src="https://drive.google.com/uc?export=download&id=1IHO1RbYSmOvsLmFj75C1ELBJBFK8Gk0a" style="display: inline">
+            </div>
+        </div>
+        <figcaption><a href="https://en.wikipedia.org/wiki/H-II_Transfer_Vehicle">H-II Transfer Vehicle</a>, also called <i>Kounotori</i>, is the expendable automated cargo spacecraft designed to ressuply the Kibō module</figcaption>
     </figure>
 </div>
 
