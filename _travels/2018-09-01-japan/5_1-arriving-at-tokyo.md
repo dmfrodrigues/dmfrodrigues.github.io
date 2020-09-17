@@ -6,7 +6,7 @@ And so we did.
 
 #### Bus trip
 
-The plan was to leave NITS in the morning, and somehow travel the 8km to [Tsukuba Station](https://en.m.wikipedia.org/wiki/Tsukuba_Station) to meet the teachers. The day before we scouted the area, to try and find a bus stop where we could catch any bus to Tsukuba. We eventually found one, quite small and seemingly abandoned, but we still decided to stick with it.
+The plan was to leave NITS in the morning, and somehow travel the 8km to [Tsukuba Station](https://en.wikipedia.org/wiki/Tsukuba_Station) to meet the teachers. The day before we scouted the area, to try and find a bus stop where we could catch any bus to Tsukuba. We eventually found one, quite small and seemingly abandoned, but we still decided to stick with it.
 
 So, the next day we went to that bus stop, and waited for about 15min for any bus to pass, but nothing happened. As we were starting to find the whole situation a bit strange, a random citizen was walking by, a short middle-aged man in a shirt, with a black backpack and in some hurry. We decided to ask him (in English) where the nearest bus stop was to catch a bus to Tsukuba, and he kindly tried to explain it to us, in some sort of very broken English. As we were nowhere near understanding him, we tried to use a map we had gotten from a hotel where we had already asked for directions the day before, but before I could pull the map out this man opened his backpack, got an open envelope and a pen and *drew* the map of the area in the back of the envelope, literally in the middle of the street. If there is any better example of how kind the Japanese are, I can't think of a better one.
 
@@ -28,7 +28,7 @@ We took a bus from the [Tsuku-Bus]( https://ja.m.wikipedia.org/wiki/%E3%81%A4%E3
 
 Before going into details, let me just mention the Japanese railroads and metro system are highly efficient and quite comfortable. First of all, there is some sort of distinction between train and metro, but both are underground in Tokyo, and quite similar in operation and trains. Besides, all train stations had restricted access, and to travel we used cards charged with money which was reduced every time we travelled (similar to [Viva Viagem cards](https://www.metrolisboa.pt/en/buy/viva-viagem-card/) in Lisbon, or the [Oyster cards](https://tfl.gov.uk/fares/how-to-pay-and-where-to-buy-tickets-and-oyster/pay-as-you-go/oyster-pay-as-you-go) in London). I believe I charged the card twice, with a total of about ¥3000. Each individual trip was relatively inexpensive, but given the size of Tokyo we frequently needed to travel by train/metro, so I ended up spending almost all the money I had charged. Finally, there was not a single time I had to wait for more than 2-3min for a train/metro.
 
-Resuming: we eventually arrived at the Tsukuba Station, where we met our teachers. We bought and charged our cards, and then took the [Tsukuba Express](https://en.m.wikipedia.org/wiki/Tsukuba_Express) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Tsukuba_Express_mark.svg" class="inline"> to [Akihabara Station](https://en.m.wikipedia.org/wiki/Akihabara_Station) (¥1,205).
+Resuming: we eventually arrived at the Tsukuba Station, where we met our teachers. We bought and charged our cards, and then took the [Tsukuba Express](https://en.wikipedia.org/wiki/Tsukuba_Express) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Tsukuba_Express_mark.svg" class="inline"> to [Akihabara Station](https://en.wikipedia.org/wiki/Akihabara_Station) (¥1,205).
 
 <div class="div-of-images">
 	<figure>
@@ -52,7 +52,7 @@ One typical feature of the Japanese suburb is that almost all cables are placed 
 <div class="div-of-images">
     <figure>
         <img src="https://www.spoon-tamago.com/wp-content/uploads/2015/06/hachioji-electric-cables-2.jpg" alt="Overhead cables in Japan" style="display: inline" width="80%">
-        <figcaption><a link="https://www.spoon-tamago.com/2015/06/24/chaotic-photographs-of-electric-cables-suspended-over-japanese-streets/">Overhead cables in Hachioji, Japan</a></figcaption>
+        <figcaption><a href="https://www.spoon-tamago.com/2015/06/24/chaotic-photographs-of-electric-cables-suspended-over-japanese-streets/">Overhead cables in Hachioji, Japan</a></figcaption>
     </figure>
 </div>
 

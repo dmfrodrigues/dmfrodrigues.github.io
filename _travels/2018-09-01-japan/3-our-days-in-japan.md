@@ -66,12 +66,12 @@ During my stay at NITS I had right to a small room with a bed, a desk, a drying 
 
 We had free WiFi all over NITS, and in some places I even had [eduroam](https://en.wikipedia.org/wiki/Eduroam).
 
-However there was an important detail missing: most rooms had no showers. And since there were far less girls than boys at the IOI the rooms with showers were allocated to girls, while boys had to use the public baths (referred to as *Daiyokujō*, literally 'big bath'). And I should say it was one of the most bizarre yet surprising experiences I had abroad; I won't go into much detail as you can read more about [public baths in Japan](https://en.m.wikipedia.org/wiki/Sent%C5%8D), I'll just say it had around 25 seated places lined up in 4 rows and a large hot bath.
+However there was an important detail missing: most rooms had no showers. And since there were far less girls than boys at the IOI the rooms with showers were allocated to girls, while boys had to use the public baths (referred to as *Daiyokujō*, literally 'big bath'). And I should say it was one of the most bizarre yet surprising experiences I had abroad; I won't go into much detail as you can read more about [public baths in Japan](https://en.wikipedia.org/wiki/Sent%C5%8D), I'll just say it had around 25 seated places lined up in 4 rows and a large hot bath.
 
 <div class="div-of-images">
     <figure>
-        <img src="https://www.nits.go.jp/en/about/images/directories_pic_023.jpg" alt="Public baths at NITS" style="display: inline">
-        <figcaption><a link="https://www.nits.go.jp/en/about/directories.html">Public baths at NITS</a></figcaption>
+        <img src="https://drive.google.com/uc?export=download&id=1VJzDqUaVSyGEDZEuNpeZasIBKCBvbwuy" alt="Public baths at NITS" style="display: inline" width="80%">
+        <figcaption><a href="https://www.nits.go.jp/en/about/directories.html">Public baths at NITS</a></figcaption>
     </figure>
 </div>
 
@@ -256,7 +256,7 @@ The next night, another earthquake happened, this time at 6 Sep 3:08. I was abou
     <figure>
         <img src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg" alt="jebi sat photo" style="display: inline" width="50.0%">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg" alt="jebi sat photo" style="display: inline" width="47.5%">
-    	<figcaption>USGS intensity map of <a link="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/dyfi/intensity">Ibaraki Sep 5 earthquake</a> (left) and shakemap of <a link="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive#dyfi">Hokkaido Sep 6 earthquake</a> (right)</figcaption>
+    	<figcaption>USGS intensity map of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/dyfi/intensity">Ibaraki Sep 5 earthquake</a> (left) and shakemap of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive#dyfi">Hokkaido Sep 6 earthquake</a> (right)</figcaption>
     </figure>
 </div>
 
@@ -268,8 +268,7 @@ During the second part of the competition, I had to use the toilet. First of all
 
 <div class="div-of-images">
     <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg" alt="washlet" style="display: inline" width="50%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg" alt="squat toilet" style="display: inline" width="28.13%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg" alt="washlet" style="display: inline" width="50%"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg" alt="squat toilet" style="display: inline" width="28.13%">
     	<figcaption>A washlet and a Japanese squat toilet. From the public domain</figcaption>
     </figure>
 </div>

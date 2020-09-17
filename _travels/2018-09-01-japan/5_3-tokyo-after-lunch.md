@@ -1,6 +1,6 @@
 #### Takeshita Street
 
-We took the [Chūō Line (Rapid)](https://en.m.wikipedia.org/wiki/Ch%C5%AB%C5%8D_Line_(Rapid)) <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/JR_JC_line_symbol.svg" class="inline"> to [Yoyogi Station](https://en.m.wikipedia.org/wiki/Yoyogi_Station), and then the [Yamanote Line](https://en.wikipedia.org/wiki/Yamanote_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/JR_JY_line_symbol.svg" class="inline"> to [Harajuku Station](https://en.m.wikipedia.org/wiki/Harajuku_Station), in the [Harajuku district](https://en.m.wikipedia.org/wiki/Harajuku). This district is known for being a center of youth culture (in some cases alternative culture and counter-culture).
+We took the [Chūō Line (Rapid)](https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D_Line_(Rapid)) <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/JR_JC_line_symbol.svg" class="inline"> to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), and then the [Yamanote Line](https://en.wikipedia.org/wiki/Yamanote_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/JR_JY_line_symbol.svg" class="inline"> to [Harajuku Station](https://en.wikipedia.org/wiki/Harajuku_Station), in the [Harajuku district](https://en.wikipedia.org/wiki/Harajuku). This district is known for being a center of youth culture (in some cases alternative culture and counter-culture).
 
 We started by visiting [Takeshita Street](https://en.wikipedia.org/wiki/Takeshita_Street), a narrow pedestrian street with all kinds of shops, restaurants and boutiques. It has some well-known shops, but most are independent businesses with varying styles. It was known in the 1990's as a reliable place to purchase counterfeit Japanese and American brand goods; similarly for [Loureiro Street](https://pt.wikipedia.org/wiki/Rua_do_Loureiro) in Porto, which was known for its many electronics shops and counterfeit quality products.
 
@@ -9,7 +9,7 @@ I didn't see anything particular, aside from the fact the street is a bit narrow
 <div class="div-of-images">
     <figure>
         <img src="https://drive.google.com/uc?export=download&id=1R9LLW76JzJzdxYE02I5D-JtGyPNevBdu" alt="Takeshita Street" style="display: inline" width="80%">
-        <figcaption>West side of <a link="https://en.wikipedia.org/wiki/Takeshita_Street">Takeshita Street</a>.</figcaption>
+        <figcaption>West side of <a href="https://en.wikipedia.org/wiki/Takeshita_Street">Takeshita Street</a>.</figcaption>
     </figure>
 </div>
 
@@ -67,24 +67,24 @@ https://drive.google.com/uc?export=download&id=18Ew9-Fgz1KBYEDRwOD9oT_e22gRDhJyh
         <img src="
 https://drive.google.com/uc?export=download&id=1CTQe-ag96CfCpSPSZe5v0AXRqZea2UYb" style="display: inline" width="60%">
 		<figcaption>
-        	At the crossing of <a link="https://en.wikipedia.org/wiki/Kita-sando_Station">Kita-sando</a> entrance 3. I am below the viaduct of <a link="https://en.wikipedia.org/wiki/Shinjuku_Route">Shinjuku Route</a>, and to my right (not on the photo) is the railway bridge that connects Yoyogi to Harajuku. In the background is the <a link="https://en.wikipedia.org/wiki/NTT_Docomo_Yoyogi_Building">Docomo Building</a> (formally <i>NTT Docomo Yoyogi Building</i>), the fourth tallest building in Tokyo.
+        	At the crossing of <a href="https://en.wikipedia.org/wiki/Kita-sando_Station">Kita-sando</a> entrance 3. I am below the viaduct of <a href="https://en.wikipedia.org/wiki/Shinjuku_Route">Shinjuku Route</a>, and to my right (not on the photo) is the railway bridge that connects Yoyogi to Harajuku. In the background is the <a href="https://en.wikipedia.org/wiki/NTT_Docomo_Yoyogi_Building">Docomo Building</a> (formally <i>NTT Docomo Yoyogi Building</i>), the fourth tallest building in Tokyo.
         </figcaption>
     </figure>
 </div>
 
-We left the Meiji Shrine through the north gate, near the Harajuku Fire Station Branch (or otherwise at [Kita-sando Station](https://en.wikipedia.org/wiki/Kita-sando_Station) entrance 3). We were headed to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), but we decided to made a short detour to try and enter the [Shinjuku Gyo-en National Garden](https://en.m.wikipedia.org/wiki/Shinjuku_Gyo-en). Unfortunately it was already closed; a real shame we couldn't visit as it is a beautiful garden, a true escape from the bustling life of Tokyo.
+We left the Meiji Shrine through the north gate, near the Harajuku Fire Station Branch (or otherwise at [Kita-sando Station](https://en.wikipedia.org/wiki/Kita-sando_Station) entrance 3). We were headed to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), but we decided to made a short detour to try and enter the [Shinjuku Gyo-en National Garden](https://en.wikipedia.org/wiki/Shinjuku_Gyo-en). Unfortunately it was already closed; a real shame we couldn't visit as it is a beautiful garden, a true escape from the bustling life of Tokyo.
 
-On the other hand I was quite amused to find a vending machine in a residential street adjacent to the garden entry. And it did not sell just any drinks: it had [Dr Pepper](https://en.m.wikipedia.org/wiki/Dr_Pepper), one of the mythical soft drinks. I was quite curious to taste it, as it is one of those American products that really sticked in some parts of Japan (and a common appearance in [Steins;Gate](https://en.wikipedia.org/wiki/Steins;Gate)), so I got a 75ml bottle of Dr Pepper for ¥120. It had such an unimaginable amount of sugar I almost couldn't finish it (even for a 7up appreciator like myself, criticized by some for being too sweet already), and although it tasted decent it was nothing special really, so I can say it was worth but merely to satisfy my curiosity.
+On the other hand I was quite amused to find a vending machine in a residential street adjacent to the garden entry. And it did not sell just any drinks: it had [Dr Pepper](https://en.wikipedia.org/wiki/Dr_Pepper), one of the mythical soft drinks. I was quite curious to taste it, as it is one of those American products that really sticked in some parts of Japan (and a common appearance in [Steins;Gate](https://en.wikipedia.org/wiki/Steins;Gate)), so I got a 75ml bottle of Dr Pepper for ¥120. It had such an unimaginable amount of sugar I almost couldn't finish it (even for a 7up appreciator like myself, criticized by some for being too sweet already), and although it tasted decent it was nothing special really, so I can say it was worth but merely to satisfy my curiosity.
 
-Having taken a short rest, we continued our way to [Yoyogi Station](https://en.m.wikipedia.org/wiki/Yoyogi_Station), where we caught a metro of the [Ōedo Line](https://en.m.wikipedia.org/wiki/Toei_%C5%8Cedo_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Toei_Oedo_line_symbol.svg" class="inline"> to [Akabanebashi Station](https://en.m.wikipedia.org/wiki/Akabanebashi_Station), in Shiba.
+Having taken a short rest, we continued our way to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), where we caught a metro of the [Ōedo Line](https://en.wikipedia.org/wiki/Toei_%C5%8Cedo_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Toei_Oedo_line_symbol.svg" class="inline"> to [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Station), in Shiba.
 
 #### Shiba
 
-[Minato](https://en.m.wikipedia.org/wiki/Minato,_Tokyo) (港, 'harbor') is a special ward of Tokyo, corresponding to the original commercial centre of Edo/Tokyo. Many important companies are headquartered there, aside from several embassies and consulates, as well as an important part of the huge [Port of Tokyo](https://en.wikipedia.org/wiki/Port_of_Tokyo). Minato has recently seen a very rapid development, mostly due to the massive projects undertaken in the current century in the ward, including several kinds of infrastructure but most importantly residential towers and skyscrapers.
+[Minato](https://en.wikipedia.org/wiki/Minato,_Tokyo) (港, 'harbor') is a special ward of Tokyo, corresponding to the original commercial centre of Edo/Tokyo. Many important companies are headquartered there, aside from several embassies and consulates, as well as an important part of the huge [Port of Tokyo](https://en.wikipedia.org/wiki/Port_of_Tokyo). Minato has recently seen a very rapid development, mostly due to the massive projects undertaken in the current century in the ward, including several kinds of infrastructure but most importantly residential towers and skyscrapers.
 
-[Shiba](https://en.m.wikipedia.org/wiki/Shiba,_Tokyo) is one of the five administrative areas of [Minato ward](https://en.m.wikipedia.org/wiki/Minato,_Tokyo), and is mostly known for its tall skyscrapers and the [Shiba Park](https://en.m.wikipedia.org/wiki/Shiba_Park).
+[Shiba](https://en.wikipedia.org/wiki/Shiba,_Tokyo) is one of the five administrative areas of [Minato ward](https://en.wikipedia.org/wiki/Minato,_Tokyo), and is mostly known for its tall skyscrapers and the [Shiba Park](https://en.wikipedia.org/wiki/Shiba_Park).
 
-We left [Akabanebashi Station](https://en.m.wikipedia.org/wiki/Akabanebashi_Station) through the north, and continued to the east, up to Akabane Bridge (or *Akabane-Bashi* in Romaji), where we had our first sight of the iconic [Tokyo Tower](https://en.m.wikipedia.org/wiki/Tokyo_Tower). In old times it was topped by television and radio broadcast antennas, but given most surrounding buildings are now at least as tall as the tower it was mostly repurposed as an observatory. It is built in an Eiffel Tower-like lattice style, and painted white and international orange to comply with air safety regulations.
+We left [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Station) through the north, and continued to the east, up to Akabane Bridge (or *Akabane-Bashi* in Romaji), where we had our first sight of the iconic [Tokyo Tower](https://en.wikipedia.org/wiki/Tokyo_Tower). In old times it was topped by television and radio broadcast antennas, but given most surrounding buildings are now at least as tall as the tower it was mostly repurposed as an observatory. It is built in an Eiffel Tower-like lattice style, and painted white and international orange to comply with air safety regulations.
 
 <div class="div-of-images">
     <figure>
@@ -93,7 +93,7 @@ https://drive.google.com/uc?export=download&id=1CiF22wuKqB1ATlLg6y8AZOfDMpmj4H9P
 https://drive.google.com/uc?export=download&id=18DeSPIxf-7SnKNpC0uZhacjt1cvsOrS7" style="display: inline" class="half">
 		<figcaption>
         	At Akabane Bridge.<br>
-        	On the left, the <a link="https://en.m.wikipedia.org/wiki/Tokyo_Tower">Tokyo Tower</a> (slightly to the right are some of Minato's skyscrapers; from left to right: <a link="https://en.wikipedia.org/wiki/Toranomon_Hills">Toranomon Hills</a>, <a link="https://en.wikipedia.org/wiki/Atago_Green_Hills#Mori_Tower">Agato Green Hills</a> Mori Tower and Forest Tower, all of which built by the powerful Mori family).<br>
+        	On the left, the <a href="https://en.wikipedia.org/wiki/Tokyo_Tower">Tokyo Tower</a> (slightly to the right are some of Minato's skyscrapers; from left to right: <a href="https://en.wikipedia.org/wiki/Toranomon_Hills">Toranomon Hills</a>, <a href="https://en.wikipedia.org/wiki/Atago_Green_Hills#Mori_Tower">Agato Green Hills</a> Mori Tower and Forest Tower, all of which built by the powerful Mori family).<br>
         	On the right, the Sakurada-Dori Avenue crossing Akabane Bridge (facing south).
         </figcaption>
     </figure>
@@ -107,7 +107,7 @@ We then kept going east, and entered the [Shiba Park](https://en.wikipedia.org/w
 https://drive.google.com/uc?export=download&id=1Hxr5mNhU8KYPSUo8aEBUESjG48IFT5TH" style="display: inline" class="vertical"><img src="
 https://drive.google.com/uc?export=download&id=1kkupuFjUigbbl1eK9GAoDRSWqi12fPBI" style="display: inline" class="horizontal">
 		<figcaption>
-        	Views from Shiba Park. On the left, the Tokyo Tower from the southeast; on the right, the <a link="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> from the south.
+        	Views from Shiba Park. On the left, the Tokyo Tower from the southeast; on the right, the <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> from the south.
         </figcaption>
     </figure>
 </div>
@@ -132,8 +132,8 @@ After a quite long metro trip, we decided to have a quick look around the perime
 https://drive.google.com/uc?export=download&id=1ch8NT_Mhr4JBBqDPOIbVeBfWvmsJAmWv" style="display: inline" class="half"><img src="
 https://drive.google.com/uc?export=download&id=1BuPt__cG9IcIQOnhu7_anpe12X7aZ4C_" style="display: inline" class="half">
 		<figcaption>
-        	On the left, the Gate of <a link="https://en.wikipedia.org/wiki/Taitoku-in_Mausoleum">Taitoku-in Mausoleum</a>.<br>
-        	On the right, the <a link="https://thegate12.com/article/57">Kuromon</a> (黒門, 'Black Gate'), not so appealing for its apparent lack of restoration, but definitely important as it was built in 1652 and survived the air raids.
+        	On the left, the Gate of <a href="https://en.wikipedia.org/wiki/Taitoku-in_Mausoleum">Taitoku-in Mausoleum</a>.<br>
+        	On the right, the <a href="https://thegate12.com/article/57">Kuromon</a> (黒門, 'Black Gate'), not so appealing for its apparent lack of restoration, but definitely important as it was built in 1652 and survived the air raids.
         </figcaption>
     </figure>
 </div>
@@ -164,7 +164,7 @@ https://drive.google.com/uc?export=download&id=109pLfrqn0sPOxVAGZewxmaE9QeNbBRxw
 https://drive.google.com/uc?export=download&id=1e9CVwgz5XKMV_tS25abbS2_Tab3tPFIv" style="display: inline" width="25.9%"><img src="
 https://drive.google.com/uc?export=download&id=16FGd1M9xDH5VpUT0eUZUA2bnojrnevL6" style="display: inline" width="25.9%">
 		<figcaption>
-        	<a link="https://en.wikipedia.org/wiki/Jiz%C5%8D">Jizō</a> statues at <a link="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji</a>
+        	<a href="https://en.wikipedia.org/wiki/Jiz%C5%8D">Jizō</a> statues at <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji</a>
         </figcaption>
     </figure>
 </div>
@@ -175,7 +175,7 @@ We left the temple grounds through a side gate, and went around the perimeter of
     <figure>
         <img src="https://drive.google.com/uc?export=download&id=1WdiU2PpEdqsh7L3fpcM5FEte0sD-WoKo" style="display: inline" width="80%">
 		<figcaption>
-        	<a link="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> main gate (<i>Sangedatsumon</i>). It did not fit in a single photo because of its size (and how much I could walk into the street before I was at risk of being run over).
+        	<a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> main gate (<i>Sangedatsumon</i>). It did not fit in a single photo because of its size (and how much I could walk into the street before I was at risk of being run over).
         </figcaption>
     </figure>
 </div>
@@ -197,13 +197,13 @@ We then entered [Hamamatsuchō Station](https://en.wikipedia.org/wiki/Hamamatsuc
 
 [Shibuya](https://en.wikipedia.org/wiki/Shibuya) is a special ward of Tokyo, and a major commercial and business centre (if not even the business heart of Tokyo). Particularly, the Shibuya district (small area surrounding [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station)) is known as a fashion centre of Japan for young people.
 
-As we arrived at [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station), I was just amazed at how tall and densely packed buildings were in that area, as well as the sea of people in Hachikō Square (just in front of the station). It is named after Hachikō (1923-1935), a Japanese [Akita](https://en.wikipedia.org/wiki/Akita_Inu) dog, adopted by agricultural scientist [Hidesaburō Ueno](https://en.wikipedia.org/wiki/Hidesabur%C5%8D_Ueno), which loyally awaited his owner everyday after work at [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station); after his owner's death in 1925 at work, Hachikō kept waiting everyday by the station for his owner's return until his own death in 1935, earning this good boy the respect of the Japanese as a symbol of loyalty and fidelity.
+As we arrived at [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station), I was just amazed at how tall and densely packed buildings were in that area, as well as the sea of people in Hachikō Square (just in front of the station). It is named after [Hachikō](https://en.wikipedia.org/wiki/Hachik%C5%8D) (1923-1935), a Japanese [Akita](https://en.wikipedia.org/wiki/Akita_Inu) dog, adopted by agricultural scientist [Hidesaburō Ueno](https://en.wikipedia.org/wiki/Hidesabur%C5%8D_Ueno), which loyally awaited his owner everyday after work at [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station); after his owner's death in 1925 at work, Hachikō kept waiting everyday by the station for his owner's return until his own death in 1935, earning this good boy the respect of the Japanese as a symbol of loyalty and fidelity.
 
 <div class="div-of-images">
     <figure>
         <img src="https://drive.google.com/uc?export=download&id=1bm4ptvLxkrZUdz7mp6uw0LP_7dPnVvm6" style="display: inline" width="60%">
         <figcaption>
-        	Hachikō statue in front of <a link="https://en.wikipedia.org/wiki/Shibuya_Station">Shibuya Station</a>
+        	Hachikō statue in front of <a href="https://en.wikipedia.org/wiki/Shibuya_Station">Shibuya Station</a>
         </figcaption>
     </figure>
 </div>
@@ -214,7 +214,7 @@ As we were in Shibuya we could not miss the [Shibuya Crossing](https://en.wikipe
     <figure>
         <img src="https://drive.google.com/uc?export=download&id=1xYhHuNjhV69zuHeZ-xXyLcnFCjfifxZw" style="display: inline" class="half"><img src="https://drive.google.com/uc?export=download&id=13DER87qiAWTU-5Bj2RfbCSonWPEoRr3H" style="display: inline" class="half">
         <figcaption>
-        	Some more photos from Hachikō Square. On the left, the sea of people just hanging around apparently; on the right, the buildings surrounding <a link="https://en.wikipedia.org/wiki/Shibuya_Crossing">Shibuya Crossing.</a>
+        	Some more photos from Hachikō Square. On the left, the sea of people just hanging around apparently; on the right, the buildings surrounding <a href="https://en.wikipedia.org/wiki/Shibuya_Crossing">Shibuya Crossing.</a>
         </figcaption>
     </figure>
 </div>

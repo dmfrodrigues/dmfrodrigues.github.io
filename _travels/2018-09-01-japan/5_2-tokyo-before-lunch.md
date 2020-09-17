@@ -7,7 +7,7 @@ As soon as I set foot outside the train station (through the Main Gate North Exi
 <div class="div-of-images">
     <figure>
         <img src="https://drive.google.com/uc?export=download&id=19CGcp7N-KDd5Yxm9TgEL9FSppoTYcEAd" style="display: inline" class="vertical"><img src="https://drive.google.com/uc?export=download&id=1o6cOJS5uBfmAlV5vhNpwX1lrS7_ZXTRC" style="display: inline" class="horizontal">
-        <figcaption>First impressions on leaving Akihabara station. On the left photo is the <a link="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_University">Tokyo Metropolitan University</a> Marunouchi Satellite Campus on the left and <a link="https://en.japantravel.com/tokyo/akihabara-udx/25529">Akihabara UDX</a> on the right.</figcaption>
+        <figcaption>First impressions on leaving Akihabara station. On the left photo is the <a href="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_University">Tokyo Metropolitan University</a> Marunouchi Satellite Campus on the left and <a href="https://en.japantravel.com/tokyo/akihabara-udx/25529">Akihabara UDX</a> on the right.</figcaption>
     </figure>
 </div>
 
@@ -82,7 +82,7 @@ At [Ochanomizu](https://en.wikipedia.org/wiki/Ochanomizu) we didn't see anything
 		        <td width="30%" vertical-align="center"><img style="width:100%" src="https://drive.google.com/uc?export=download&id=1ob1zSKp9z6jaPh2OiVHaRdBFTJTY2QlA" /></td>
             </tr>
 		</table>
-	    <figcaption>At <a link="https://en.wikipedia.org/wiki/Ochanomizu">Ochanomizu</a>. On the top left, the view as we left the station.<br>On the bottom left, the view across the bridge (on the center is the <a link="https://www.skyscrapercenter.com/tokyo/md-tower/23795/">M&D Tower</a>; both the buildings on the right and center are part of the <a link="https://en.wikipedia.org/wiki/Tokyo_Medical_and_Dental_University">Tokyo Medical and Dental University</a>; on the left is the <a link="https://www.juntendo.ac.jp/hospital/global/english/">Juntendo University Hospital</a>.<br>On the right, <a link="https://en.wikipedia.org/wiki/Kanda_River">Kanda River. </a></figcaption>
+	    <figcaption>At <a href="https://en.wikipedia.org/wiki/Ochanomizu">Ochanomizu</a>. On the top left, the view as we left the station.<br>On the bottom left, the view across the bridge (on the center is the <a href="https://www.skyscrapercenter.com/tokyo/md-tower/23795/">M&D Tower</a>; both the buildings on the right and center are part of the <a href="https://en.wikipedia.org/wiki/Tokyo_Medical_and_Dental_University">Tokyo Medical and Dental University</a>; on the left is the <a href="https://www.juntendo.ac.jp/hospital/global/english/">Juntendo University Hospital</a>.<br>On the right, <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River. </a></figcaption>
     </figure>
 </div>
 
@@ -94,7 +94,7 @@ So we went to Ochanomizu Tokyo Metro, and headed to [Kōrakuen Station](https://
 
 After exiting [Kōrakuen Station](https://en.wikipedia.org/wiki/K%C5%8Drakuen_Station), we started by visiting the main attraction: the [Bunkyo Civic Center](https://en.wikipedia.org/wiki/Bunkyo_Civic_Center), a 28-storey, 146m-tall building, serving as the government building for Bunkyo ward. It is most well-known for having a **free** observation deck (and we didn't have to take the stairs), from which you can easily see [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) on a clear day.
 
-[**Mount Fuji**](https://en.wikipedia.org/wiki/Mount_Fuji) is the highest mountain in Japan, with 3776m. It is located in the eastern parts of Chubu, and can be seen from many places, especially in the [Kanto Plain](https://en.m.wikipedia.org/wiki/Kant%C5%8D_Plain) (it is clearly visible from several locations in Tokyo, even though Tokyo is 60km to the northeast of Mount Fuji). It is an active stractovolcano, and it last erupted in 1708.   Its almost perfectly symmetrical shape, associated to the fact it is easily visible from Tokyo, the capital of Japan since 1600, prompted its numerous appearances in Japanese art, culture and folklore.
+[**Mount Fuji**](https://en.wikipedia.org/wiki/Mount_Fuji) is the highest mountain in Japan, with 3776m. It is located in the eastern parts of Chubu, and can be seen from many places, especially in the [Kanto Plain](https://en.wikipedia.org/wiki/Kant%C5%8D_Plain) (it is clearly visible from several locations in Tokyo, even though Tokyo is 60km to the northeast of Mount Fuji). It is an active stractovolcano, and it last erupted in 1708.   Its almost perfectly symmetrical shape, associated to the fact it is easily visible from Tokyo, the capital of Japan since 1600, prompted its numerous appearances in Japanese art, culture and folklore.
 
 At the the [Bunkyo Civic Center](https://en.wikipedia.org/wiki/Bunkyo_Civic_Center) we took the elevator (which was surprisingly fast yet confortable), mixed with the local government staff. The elevator stopped twice, and both times we saw huge open offices full of white-collars. We could have literally wandered around the offices, in a certain way a physical demonstration of what transparency should look like in local and public administration.
 
@@ -108,24 +108,24 @@ https://drive.google.com/uc?export=download&id=1c19ANpWWsgIZ51wltdHC91Hq2LXK-0g4
 https://drive.google.com/uc?export=download&id=1a___Eak6i_EPG9x0ucF_YkqWcMV4N4gg" style="display: inline" class="half"><img src="
 https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg" style="display: inline" class="half">
         <figcaption>
-        	The views from <a link="https://en.wikipedia.org/wiki/Bunkyo_Civic_Center">Bunkyo Civic Center</a>.<br>
-        	Top left: facing east. You can see the <a link="https://en.wikipedia.org/wiki/Tokyo_Skytree">Tokyo Skytree</a> in the background.<br>
-        	Top right: facing northwest to the skyscrapers of <a link="https://en.wikipedia.org/wiki/Toshima">Toshima</a>.<br>
-        	Bottom left: facing west-southwest to <a link="https://en.wikipedia.org/wiki/Shinjuku">Shinjuku</a>. <a link="https://en.wikipedia.org/wiki/Mount_Fuji">Mount Fuji</a> would be visible to the left of the <a link="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Government_Building">Tokyo Metropolitan Government Building</a> on a clear day.<br>
-        	Bottom right: facing to <a link="https://en.wikipedia.org/wiki/Shinjuku">Shinjuku</a>, what I would have liked to see.
+        	The views from <a href="https://en.wikipedia.org/wiki/Bunkyo_Civic_Center">Bunkyo Civic Center</a>.<br>
+        	Top left: facing east. You can see the <a href="https://en.wikipedia.org/wiki/Tokyo_Skytree">Tokyo Skytree</a> in the background.<br>
+        	Top right: facing northwest to the skyscrapers of <a href="https://en.wikipedia.org/wiki/Toshima">Toshima</a>.<br>
+        	Bottom left: facing west-southwest to <a href="https://en.wikipedia.org/wiki/Shinjuku">Shinjuku</a>. <a href="https://en.wikipedia.org/wiki/Mount_Fuji">Mount Fuji</a> would be visible to the left of the <a href="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Government_Building">Tokyo Metropolitan Government Building</a> on a clear day.<br>
+        	Bottom right: facing to <a href="https://en.wikipedia.org/wiki/Shinjuku">Shinjuku</a>, what I would have liked to see.
         </figcaption>
     </figure>
 </div>
  
-As we left the civic center, we passed by the [Tokyo Dome](https://en.wikipedia.org/wiki/Tokyo_Dome). is a baseball stadium, home to the [Yomiuri Giants](https://en.m.wikipedia.org/wiki/Yomiuri_Giants), the current title winner and the team with most [Central League](https://en.m.wikipedia.org/wiki/Central_League) titles. The stadium is so large it is often used in Japan to compare large sizes, and it is also often used for other events, most notably concerts.
+As we left the civic center, we passed by the [Tokyo Dome](https://en.wikipedia.org/wiki/Tokyo_Dome). is a baseball stadium, home to the [Yomiuri Giants](https://en.wikipedia.org/wiki/Yomiuri_Giants), the current title winner and the team with most [Central League](https://en.wikipedia.org/wiki/Central_League) titles. The stadium is so large it is often used in Japan to compare large sizes, and it is also often used for other events, most notably concerts.
 
-Adjacent to the stadium is the [Tokyo Dome City](https://en.wikipedia.org/wiki/Tokyo_Dome_City), an entertainment complex including an amusement park, a hoteland several other commerce shops. The weather was starting to heat up so we stayed in the Tokyo Dome City for a while since it had a fountain lake with water sprayers (so the air would be cooler even though it was an open-air area), but also because Prof. Pedro Ribeiro decided to have his way with the [Thunder Dolphin](https://en.m.wikipedia.org/wiki/Thunder_Dolphin) rollercoaster.
+Adjacent to the stadium is the [Tokyo Dome City](https://en.wikipedia.org/wiki/Tokyo_Dome_City), an entertainment complex including an amusement park, a hoteland several other commerce shops. The weather was starting to heat up so we stayed in the Tokyo Dome City for a while since it had a fountain lake with water sprayers (so the air would be cooler even though it was an open-air area), but also because Prof. Pedro Ribeiro decided to have his way with the [Thunder Dolphin](https://en.wikipedia.org/wiki/Thunder_Dolphin) rollercoaster.
 
-We then had lunch at Koraku McDonald's (the place you're most likely to be understood in English, and even so Kevin got a regular, hot tea instead of an iced tea), and then crossed the Suidōbashi bridge over the Kanda River to catch the train at [Suidōbashi Station](https://en.m.wikipedia.org/wiki/Suid%C5%8Dbashi_Station) to get to our next destination.
+We then had lunch at Koraku McDonald's (the place you're most likely to be understood in English, and even so Kevin got a regular, hot tea instead of an iced tea), and then crossed the Suidōbashi bridge over the Kanda River to catch the train at [Suidōbashi Station](https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station) to get to our next destination.
 
 <div class="div-of-images">
     <figure>
         <img src="https://drive.google.com/uc?export=download&id=1yXRCEgMyoBO46ofLEapYmJeqPEMUNvMJ" alt="Tokyo Dome" style="display: inline" class="half"><img src="https://drive.google.com/uc?export=download&id=11dFYviyvXw5ePHQSmz64Ace58vPduj6I" alt="LaQua" style="display: inline" class="half"><img src="https://drive.google.com/uc?export=download&id=1dkrohqQkXTLDbZSzWpLTDygddSs1Q9PQ" alt="Kanda River at Suidobachi" style="display: inline" class="half">
-        <figcaption><a link="https://en.wikipedia.org/wiki/Tokyo_Dome">Tokyo Dome</a>, the <a link="https://en.wikipedia.org/wiki/Tokyo_Dome_City">Tokyo Dome City</a> from the inside, and the <a link="https://en.wikipedia.org/wiki/Kanda_River">Kanda River</a> from <a link="https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station">Suidōbashi</a> bridge.</figcaption>
+        <figcaption><a href="https://en.wikipedia.org/wiki/Tokyo_Dome">Tokyo Dome</a>, the <a href="https://en.wikipedia.org/wiki/Tokyo_Dome_City">Tokyo Dome City</a> from the inside, and the <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River</a> from <a href="https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station">Suidōbashi</a> bridge.</figcaption>
     </figure>
 </div>

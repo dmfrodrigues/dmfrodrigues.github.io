@@ -34,7 +34,7 @@ Japan is currently a constitutional monarchy, where the head of state is the [Em
 
 [Tokyo](https://en.wikipedia.org/wiki/Tokyo) is the capital and largest city of Japan. It is the largest city in Japan (14M people), and has the largest metropolitan area in the world (37.5M people). Previously known as *Edo* (江戸, ‘inlet door’, or otherwise ‘estuary’ since it is on the estuary of the [Sumida river](https://en.wikipedia.org/wiki/Sumida_River)), it was renamed to *Tōkyō* (東京, ‘eastern capital’) when it replaced [Kyoto](https://en.wikipedia.org/wiki/Kyoto) (京都, *Kyōto*, meaning ‘capital city’) as the imperial capital city in 1868. Since the 18th century it has been one of the largest cities in the world, owned to the fact it was established in 1603 as the seat of the [Tokugawa Shogunate](https://en.wikipedia.org/wiki/Tokugawa_shogunate).
 
-It is located in Kanto, on the northwestern part of [Tokyo Bay](https://en.m.wikipedia.org/wiki/Tokyo_Bay), although its metropolitan area spreads all around the bay and further inland.
+It is located in Kanto, on the northwestern part of [Tokyo Bay](https://en.wikipedia.org/wiki/Tokyo_Bay), although its metropolitan area spreads all around the bay and further inland.
 
 #### Tsukuba
 

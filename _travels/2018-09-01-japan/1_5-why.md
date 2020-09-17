@@ -16,8 +16,7 @@ We were accompanied by two 'teachers', both former competitors:
 
 <div class="div-of-images">
     <figure>
-        <img src="
-https://scontent.flis8-2.fna.fbcdn.net/v/t1.0-9/40610512_1874326552655827_7906676617433317376_o.jpg?_nc_cat=106&_nc_sid=8bfeb9&_nc_eui2=AeFvJ5zmDn10b3KwR-c2Duiawda5bE66OOvB1rlsTro4641MCqmB6Zb__5QOLmrIAt0RnycINsyuZWn-NaBkp-fZ&_nc_ohc=fhSFFUy_zX8AX97slkW&_nc_ht=scontent.flis8-2.fna&oh=458afe8822fb072d80345e8509725f3c&oe=5F680F55" alt="Portuguese team in IOI18" style="display: inline">
+        <img src="https://drive.google.com/uc?export=download&id=1NyU-zVET4zHBLGl9En4w817xsg1gixfn" alt="Portuguese team in IOI18" style="display: inline" width="80%">
         <figcaption>From left to right: Pedro Paredes, Kevin Pucci, André Nascimento, Pedro Ribeiro, David Nassauer and yours truly</figcaption>
     </figure>
 </div>

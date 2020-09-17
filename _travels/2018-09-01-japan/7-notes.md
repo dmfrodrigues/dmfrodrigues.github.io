@@ -1,6 +1,6 @@
 ## Curiosities
 
-The famous urban legend ["Man from Taured"](https://www.ancient-origins.net/unexplained-phenomena/mysterious-tale-man-taured-evidence-parallel-universes-or-embellishment-005788) is set in Japan. On a hot day in July 1954, a man arrived at [Tokyo International Airport](https://en.m.wikipedia.org/wiki/Haneda_Airport). He was caucasian and had a beard, and could speak at least French and Japanese. As he was passing through customs he reported he was from the country of 'Taured'. As airport officials had never heard of such country, they asked for his documents, all of which looked authentic, although they were issued by the country of Taured. They asked the man where Taured was, to which the man answered it was between Spain and France, and that it had existed for a thousand years. When asked to point at Taured in a map, the man became very angry as his country was labelled 'Andorra'. Fearing the man was a criminal, he was detained and brought to a local hotel while investigations were underway. To prevent him from escaping, two guards were placed at the door, but as they checked on the man in the morning he had simply vanished, as well as all his personal documents. There were no traces of an escape. This urban legend is also mentioned in a song I appretiate very much, [*Dose* by Avenged Sevenfold](www.youtube.com/watch?v=mlG2EK2I9zM).
+The famous urban legend ["Man from Taured"](https://www.ancient-origins.net/unexplained-phenomena/mysterious-tale-man-taured-evidence-parallel-universes-or-embellishment-005788) is set in Japan. On a hot day in July 1954, a man arrived at [Tokyo International Airport](https://en.wikipedia.org/wiki/Haneda_Airport). He was caucasian and had a beard, and could speak at least French and Japanese. As he was passing through customs he reported he was from the country of 'Taured'. As airport officials had never heard of such country, they asked for his documents, all of which looked authentic, although they were issued by the country of Taured. They asked the man where Taured was, to which the man answered it was between Spain and France, and that it had existed for a thousand years. When asked to point at Taured in a map, the man became very angry as his country was labelled 'Andorra'. Fearing the man was a criminal, he was detained and brought to a local hotel while investigations were underway. To prevent him from escaping, two guards were placed at the door, but as they checked on the man in the morning he had simply vanished, as well as all his personal documents. There were no traces of an escape. This urban legend is also mentioned in a song I appretiate very much, [*Dose* by Avenged Sevenfold](www.youtube.com/watch?v=mlG2EK2I9zM).
 
 ### Music
 
@@ -17,41 +17,41 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 		<th>Songs</th>
 	</tr>
 	<tr>
-		<td><a link="https://en.wikipedia.org/wiki/Air_(band)">Air</a></td>
-		<td><a link="https://en.wikipedia.org/wiki/Dream_pop">Dream pop</a><br>This band is actually French</td>
-		<td style="white-space: nowrap;"><a link="https://www.youtube.com/watch?v=O0k7by3TkAQ">Sex Born Poison</a> (2001)</td>
+		<td><a href="https://en.wikipedia.org/wiki/Air_(band)">Air</a></td>
+		<td><a href="https://en.wikipedia.org/wiki/Dream_pop">Dream pop</a><br>This band is actually French</td>
+		<td style="white-space: nowrap;"><a href="https://www.youtube.com/watch?v=O0k7by3TkAQ">Sex Born Poison</a> (2001)</td>
 	</tr>
 	<tr>
-		<td><a link="https://en.wikipedia.org/wiki/Dir_En_Grey">DIR EN GREY</a></td>
+		<td><a href="https://en.wikipedia.org/wiki/Dir_En_Grey">DIR EN GREY</a></td>
 		<td>Gothic metal, death metal</td>
-		<td style="white-space: nowrap;"><a link="https://www.youtube.com/watch?v=hGW4b28wF80"><i>Uroko</i></a> (2014)</td>
+		<td style="white-space: nowrap;"><a href="https://www.youtube.com/watch?v=hGW4b28wF80"><i>Uroko</i></a> (2014)</td>
 	</tr>
 	<tr>
-		<td><a link="https://en.wikipedia.org/wiki/Girugamesh">Girugamesh</a></td>
+		<td><a href="https://en.wikipedia.org/wiki/Girugamesh">Girugamesh</a></td>
 		<td>Alternative metal/rock<br>Disbanded 2016</td>
 		<td style="white-space: nowrap;">
-			<a link="https://www.youtube.com/watch?v=lk22alvpfpQ">Drain</a> (2013), one of my favorites<br>
-			<a link="https://www.youtube.com/watch?v=k6tXaZtwvrQ">Limit Break</a> (2013)<br>
-			<a link="https://www.youtube.com/watch?v=qb8w1WhK3Os">period</a> (2016), their last song
+			<a href="https://www.youtube.com/watch?v=lk22alvpfpQ">Drain</a> (2013), one of my favorites<br>
+			<a href="https://www.youtube.com/watch?v=k6tXaZtwvrQ">Limit Break</a> (2013)<br>
+			<a href="https://www.youtube.com/watch?v=qb8w1WhK3Os">period</a> (2016), their last song
 		</td>
 	</tr>
 	<tr>
-		<td><a link="https://en.wikipedia.org/wiki/Golden_Bomber">Golden Bomber</a></td>
+		<td><a href="https://en.wikipedia.org/wiki/Golden_Bomber">Golden Bomber</a></td>
 		<td>Pop/punk</td>
 		<td style="white-space: nowrap;">
-			<a link="https://www.youtube.com/watch?v=BC9P3DSZu0A">女々しくて</a> (2009)<br>
-    		<a link="https://www.youtube.com/watch?v=r_k6MOi40Ys">Dance My Generation</a> (2013)
+			<a href="https://www.youtube.com/watch?v=BC9P3DSZu0A">女々しくて</a> (2009)<br>
+    		<a href="https://www.youtube.com/watch?v=r_k6MOi40Ys">Dance My Generation</a> (2013)
 		</td>
 	</tr>
 	<tr>
 		<td>Hyakkei</td>
 		<td>A random finding via Youtube</td>
 		<td style="white-space: nowrap;">
-			<a link="https://www.youtube.com/watch?v=LKM3iLzvVKE"><i>Okurimono</i></a>, a full album of relaxing music
+			<a href="https://www.youtube.com/watch?v=LKM3iLzvVKE"><i>Okurimono</i></a>, a full album of relaxing music
 		</td>
 	</tr>
 	<tr>
-		<td><a link="https://en.wikipedia.org/wiki/Last_Alliance_(band)">Last Alliance</a></td>
+		<td><a href="https://en.wikipedia.org/wiki/Last_Alliance_(band)">Last Alliance</a></td>
 		<td>Indie/punk rock</td>
 		<td style="white-space: nowrap;">
 			<a href="https://www.youtube.com/watch?v=ruSGE0d22is"><i>HEKIREKI</i></a> (2009)<br>
@@ -70,7 +70,7 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 		<td><a href="https://en.wikipedia.org/wiki/Monoral">Monoral</a></td>
 		<td>Alternative rock<br>Curiously, its two members fluently speak English</td>
 		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=hlgc3_4WL0M"><i>Kiri</i></a> (2006), is also the opening song of <a link="https://en.wikipedia.org/wiki/Ergo_Proxy">Ergo Proxy</a>
+			<a href="https://www.youtube.com/watch?v=hlgc3_4WL0M"><i>Kiri</i></a> (2006), is also the opening song of <a href="https://en.wikipedia.org/wiki/Ergo_Proxy">Ergo Proxy</a>
 		</td>
 	</tr>
 	<tr>
