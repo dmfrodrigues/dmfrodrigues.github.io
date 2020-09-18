@@ -6,7 +6,7 @@ date: 2020-07-19 19:41:00 +0100
 
 ARM (Advanced RISC Machine) is a family of RISC architectures, initially developed by defunct British company Acorn Computers Ltd. and now maintained by British [Arm Holdings](https://www.arm.com/). It is one of the most influential processor architectures, along with x86 instruction set architecture by Intel.
 
-Each CPU can have its own instruction set, that's why all these high-level programming languages: you don't have to bother with hard-to-read assembly code, you don't have to learn several processor instruction sets and you can develop cross-platform code, because compilers will handle the rest for you. However, some tasks require aggressive optimization of certain sections, or your programs may run in critical environments, so you'd like to program in assembly to have better performance or more control over the process. Or perhaps you just want to compile your C/C++ program for an ARM processor.
+Each CPU can have its own instruction set, that's why we use all these high-level programming languages: you don't have to bother with hard-to-read assembly code, you don't have to learn several processor instruction sets and you can develop cross-platform code, because compilers will handle the rest for you. However, some tasks require aggressive optimization of certain sections, or your programs may run in critical environments, so you'd like to program in assembly to have better performance or more control over the process. Or perhaps you just want to compile your C/C++ program for an ARM processor.
 
 Here is a short guide on how you can (and why you should) start programming in C/C++ and ARM assembly for ARM-based architectures.
 
