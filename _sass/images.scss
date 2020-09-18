@@ -40,6 +40,22 @@ div.div-of-images {
     text-align: center;
 }
 
+div.flex-image-stripe {
+    display: flex;
+    align-items: center;
+}
+
+div.flex-image {
+    flex: 1;
+    margin: 2px;
+}
+
+div.flex-image>img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
 td.coin, td.banknote {
     padding: 5px !important;
 }

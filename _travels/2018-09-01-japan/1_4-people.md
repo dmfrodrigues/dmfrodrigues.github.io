@@ -1,0 +1,8 @@
+### The people
+
+The Japanese are known for a few key traits:
+- They are shy, for two reasons: the Japanese culturally tend to have less intimacy with each other, so it is much harder to build some sort of friendship than in the West; also, they are not particularly good at speaking English, which can make them especially shy with foreigners since they may be afraid to not be able to speak English correctly.
+- They are extremely polite and kind, which is part of their culture and etiquette (our guide actually told us there were not many proper insults in Japanese, and that one way of showing disgust or anger towards a known one was to be excessively polite, so as to treat them as a compete stranger; in fact, being unpolite or excessively polite can be considered an insult).
+- In what concerns family, society or country issues, the Japanese are extremely xenophobic. In the old times it was a way to guarantee foreigners would not feel welcome in Japan, which was at that time a very closed country almost entirely populated by the Japanese. That xenophobia is mostly directed towards the Chinese and Koreans, although there is also a considerable degree directed towards some Japanese minorities (most notably from Hokkaido), people of color, foreigners in general, half-Japanese people and even Japanese people that spend 'too much time' outside Japan (a decade, for instance) or speak English 'too well'.
+
+That may seem like a strange mix of traits; most of the time you'll experience only the first two traits, and it really depends on who you're interacting with, but upon looking at Japanese history and modern politics you're going to find systemic xenophobia pretty much everywhere.
