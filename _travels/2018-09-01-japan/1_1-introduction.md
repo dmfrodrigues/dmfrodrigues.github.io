@@ -1,0 +1,45 @@
+<div class="div-of-images">
+    <figure>
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 1.5000;"><img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"></div>
+            <div class="flex-image" style="flex: 1.1068;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/850px-Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg"></div>
+        </div>
+    </figure>
+</div>
+
+[Japan](https://en.wikipedia.org/wiki/Japan) (日本, *Nippon*, meaning ‘sun origin’, the source of the epithet "land of the rising sun") is an insular country in the Pacific Ocean, the home of about 126M people, and one of the most advanced technological and industrial powers in the world. It is made essentially of four islands, divided into 47 prefectures grouped into 8 regions:
+
+- [**Hokkaido**](https://en.wikipedia.org/wiki/Hokkaido) (北海道, *Hokkaidō*, 'Northern Sea Circuit') to the north, the second largest island in Japan, with 5.3M people. Its capital and largest city is [Sapporo](https://en.wikipedia.org/wiki/Sapporo). A [circuit](https://en.wikipedia.org/wiki/Circuit_(administrative_division)) is an ancient Chinese administrative division; the current name of the island was adopted by the Meiji government, although circuits had only been implemented in Japan for a short period of early Japanese history.
+- [**Honshu**](https://en.wikipedia.org/wiki/Honshu) (本州, *Honshū*, 'Main Province') in the center, the largest and most populous island, with 104M inhabitants (second most populous island in the world)
+    - [**Tohoku**](https://en.wikipedia.org/wiki/T%C5%8Dhoku_region) (東北地方, *Tōhoku-chihō*, 'Northeast Region'), a remote scenic region with harsh climate.
+    - [**Kanto**](https://en.wikipedia.org/wiki/Kant%C5%8D_region) (関東, *Kantō*, 'East of the Tollgate'), is the region of Tokyo, its metropolitan area and surrounding prefectures (including Ibaraki). Its name is derived from the fact it is located to the east of [Hakone](https://en.wikipedia.org/wiki/Hakone), which was an important tollgate of the capital region, where all travellers were stopped by officials to enforce the Tokugawa travel restrictions.
+    - [**Chubu**](https://en.wikipedia.org/wiki/Ch%C5%ABbu_region) (中部地方, *Chūbu-chihō*, 'Central region'), known for [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) and the [Japanese Alps](https://en.wikipedia.org/wiki/Japanese_Alps).
+    - [**Kansai**](https://en.wikipedia.org/wiki/Kansai_region) (関西, *Kansai*, 'West of the Tollgate') is the historical heart of Japan. It includes the ancient [Yamato province](https://en.wikipedia.org/wiki/Yamato_Province), the first capital of the country and the place of birth of the current Japanese imperial lineage. It most notably includes [Keihanshin](https://en.wikipedia.org/wiki/Keihanshin), the second largest metropolitan area in Japan (19.3M people), which is centered around the [Osaka Bay](https://en.wikipedia.org/wiki/Osaka_Bay) and includes the cities of [Osaka](https://en.wikipedia.org/wiki/Osaka), [Kyoto](https://en.wikipedia.org/wiki/Kyoto) (the former capital of Japan) and [Kobe](https://en.wikipedia.org/wiki/Kobe). It is named after the [Ousaka tollgate](https://ja.wikipedia.org/wiki/%E9%80%A2%E5%9D%82%E9%96%A2) (it is known to be in the eastern frontier of Kansai, although there are few records on its exact location).
+    - [**Chugoku**](https://en.wikipedia.org/wiki/Ch%C5%ABgoku_region) (中国, *Chūgoku*, 'Middle Countries') is the westernmost region of Honshu. Its [southern side](https://en.wikipedia.org/wiki/San%27y%C5%8D_region) faces [Seto Inland Sea](https://en.wikipedia.org/wiki/Seto_Inland_Sea), and is heavily industrialized, while the [northern side](https://en.wikipedia.org/wiki/San%27in_region) faces the [Sea of Japan](https://en.wikipedia.org/wiki/Sea_of_Japan) and is mostly agricultural. Its largest city is [Hiroshima](https://en.wikipedia.org/wiki/Hiroshima).
+- [**Kyushu**](https://en.wikipedia.org/wiki/Kyushu) (九州, *Kyūshū*, 'Nine Provinces') to the south, the third largest island, with 14.3M people. It is named after the nine [provinces](https://en.wikipedia.org/wiki/Provinces_of_Japan) that composed the region. Its largest city is [Fukuoka](), with 1.6M people. Other cities include [Kagoshima](https://en.wikipedia.org/wiki/Kagoshima) and [Nagasaki](https://en.wikipedia.org/wiki/Nagasaki).
+- [**Shikoku**](https://en.wikipedia.org/wiki/Shikoku) (四国, 'Four Provinces'), south of Honshu and northeast of Kyushu, is the smallest of the four islands, with 3.8M people. It is named after the four ancient provinces that made up the island. It is historically considered the most isolated region of Japan, so the original Japanese cultural traces are more lively there. Its largest city is [Matsuyama](https://en.wikipedia.org/wiki/Matsuyama).
+
+<div class="div-of-images">
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" width="50%" style="display: inline">
+        <figcaption>Administrative divisions of Japan. White lines delineate prefectures, and colors indicate the regions: <span style="color:red"><b>Hokkaido</b></span>, <span style="color:#DDDD00"><b>Tohoku</b></span>, <span style="color:green"><b>Kanto</b></span>, <span style="color:cyan"><b>Chubu</b></span>, <span style="color:blue"><b>Kansai</b></span>, <span style="color:orange"><b>Chugoku</b></span>, <span style="color:gray"><b>Kyushu</b></span> and <span style="color:purple"><b>Shikoku</b></span></figcaption>
+    </figure>
+</div>
+
+### Government
+
+Japan is currently a constitutional monarchy, where the head of state is the [Emperor](https://en.wikipedia.org/wiki/Emperor_of_Japan), the administrative branch is the [Cabinet](https://en.wikipedia.org/wiki/Cabinet_of_Japan) led by a [Prime-Minister](https://en.wikipedia.org/wiki/Prime_Minister_of_Japan), and the legislative branch is the bicameral [National Diet](https://en.wikipedia.org/wiki/National_Diet). It has been ruled by the Emperor for at least 2300 years to this day, although traditional imperial lineage traces imperial rule back to 660BC, despite the fourteen first emperors being often considered legendary. The emperor was [Akihito](https://en.wikipedia.org/wiki/Akihito) (he abdicated in 2019 in favour of his son, proclaimed [Emperor Naruhito](https://en.wikipedia.org/wiki/Naruhito) rose to the [Chrysanthemum Throne](https://en.wikipedia.org/wiki/Chrysanthemum_Throne)), and the prime-minister was [Shinzō Abe](https://en.wikipedia.org/wiki/Shinzo_Abe), of the [Liberal Democratic Party](https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Japan)) (right-wing nationalism, conservatism, populism), since 2012 (resigned 2020 due to health problems).
+
+### Cities
+
+#### Tokyo
+
+[Tokyo](https://en.wikipedia.org/wiki/Tokyo) is the capital and largest city of Japan. It is the largest city in Japan (14M people), and has the largest metropolitan area in the world (37.5M people). Previously known as *Edo* (江戸, ‘inlet door’, or otherwise ‘estuary’ since it is on the estuary of the [Sumida river](https://en.wikipedia.org/wiki/Sumida_River)), it was renamed to *Tōkyō* (東京, ‘eastern capital’) when it replaced [Kyoto](https://en.wikipedia.org/wiki/Kyoto) (京都, *Kyōto*, meaning ‘capital city’) as the imperial capital city in 1868. Since the 18th century it has been one of the largest cities in the world, owned to the fact it was established in 1603 as the seat of the [Tokugawa Shogunate](https://en.wikipedia.org/wiki/Tokugawa_shogunate).
+
+It is located in Kanto, on the northwestern part of [Tokyo Bay](https://en.wikipedia.org/wiki/Tokyo_Bay), although its metropolitan area spreads all around the bay and further inland.
+
+#### Tsukuba
+
+[Tsukuba](https://en.wikipedia.org/wiki/Tsukuba,_Ibaraki) (つくば市, *Tsukuba-shi*, ‘Tsukuba city’) is a city in [Ibaraki Prefecture](https://en.wikipedia.org/wiki/Ibaraki_Prefecture), with a population of 240,000 people, and a metropolitan area with 843,000 inhabitants. It is located 60km to the northeast of Tokyo, and to the south of the mount that gave the city its name, [Mount Tsukuba](https://en.wikipedia.org/wiki/Mount_Tsukuba). Allegedly, under the reign of [Emperor Sujin](https://en.wikipedia.org/wiki/Emperor_Sujin), Tsukuha no Mikoto was appointed as the governor of the area around the mount. Wishing to leave his name in history, Tsukuha renamed that area “Tsukuha”, which eventually became “Tsukuba”.
+
+Tsukuba is mostly known as a center of knowledge, as it houses the [Tsukuba Science City](https://www.britannica.com/place/Tsukuba-Science-City), a planned science park from the 1960s, and the [University of Tsukuba](https://en.wikipedia.org/wiki/University_of_Tsukuba), one of the prestigious Japanese national universities.
