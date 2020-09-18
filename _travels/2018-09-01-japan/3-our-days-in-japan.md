@@ -14,8 +14,7 @@ A particular aspect of Japanese cuisine is [*Teriyaki*](https://en.wikipedia.org
 
 <div class="div-of-images">
     <figure>
-        <img src="
-https://drive.google.com/uc?export=download&id=1nioUHIUCoWb275nPStQlQJfJK9aQMbuA" alt="Public baths at NITS" style="display: inline" width="70%">
+        <img src="https://i.imgur.com/Adbdf0n.jpg" alt="Public baths at NITS" style="display: inline" width="70%">
         <figcaption>A usual dinner @NITS</figcaption>
     </figure>
 </div>
@@ -36,7 +35,7 @@ There were only a few exceptions to this heavenly description.
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=1N9AaM6LG0X_xAWc0CZK45eY3SgeuCRAw" alt="Bento box" style="display: inline" width="50%">
+        <img src="https://i.imgur.com/gMwBKFl.jpg" alt="Bento box" style="display: inline" width="50%">
         <figcaption><i>The</i> bento box. Credits go to Pedro Paredes</figcaption>
     </figure>
 </div>
@@ -53,11 +52,11 @@ During my stay at NITS I had right to a small room with a bed, a desk, a drying 
 	<figure>
 	    <table class="table-of-images">
 		    <tr>
-                <td rowspan="2"  width="34.2%" vertical-align="center"><img style="width:100%" src="https://drive.google.com/uc?export=download&id=1MTAuuSGvR0_mxnp5sckwOVjplycHeJbo" /></td>
-                <td width="30%" vertical-align="center"><img style="width:100%" src="https://drive.google.com/uc?export=download&id=1rysEkOUBc5vctMBEV1p2d3KcTWRFxj6S" /></td>
+                <td rowspan="2"  width="34.2%" vertical-align="center"><img style="width:100%" src="https://i.imgur.com/dvPNUVs.jpg" /></td>
+                <td width="30%" vertical-align="center"><img style="width:100%" src="https://i.imgur.com/Hna0o5c.jpg" /></td>
             </tr>
             <tr>
-		        <td width="30%" vertical-align="center"><img style="width:100%" src="https://drive.google.com/uc?export=download&id=1i4gixuGB6LNbHc_DOGWMCi3Bww3Q5bzA" /></td>
+		        <td width="30%" vertical-align="center"><img style="width:100%" src="https://i.imgur.com/I5Ilc1j.jpg" /></td>
             </tr>
 		</table>
 	    <figcaption>My room, and the views from the window</figcaption>
@@ -70,7 +69,7 @@ However there was an important detail missing: most rooms had no showers. And si
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=1VJzDqUaVSyGEDZEuNpeZasIBKCBvbwuy" alt="Public baths at NITS" style="display: inline" width="80%">
+        <img src="https://i.imgur.com/bqMbFTe.jpg" alt="Public baths at NITS" style="display: inline" width="80%">
         <figcaption><a href="https://www.nits.go.jp/en/about/directories.html">Public baths at NITS</a></figcaption>
     </figure>
 </div>

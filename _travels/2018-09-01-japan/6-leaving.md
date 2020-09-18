@@ -13,7 +13,7 @@ At the duty-free zone I did have my first look at Castella. As a brief note, in 
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=1Lo-XnlLyWaU753tY4C3taTTXcurkXacj" alt="Takeshita Street" style="display: inline" width="60%">
+        <img src="https://i.imgur.com/XUg9Ujy.jpg" alt="Castella sponge cake" style="display: inline" width="60%">
         <figcaption>Castella at the airport</figcaption>
     </figure>
 </div>

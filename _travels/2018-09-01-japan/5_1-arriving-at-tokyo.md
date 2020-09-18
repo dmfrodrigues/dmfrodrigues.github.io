@@ -14,8 +14,7 @@ So, the next day we went to that bus stop, and waited for about 15min for any bu
 
 <div class="div-of-images">
     <figure>
-        <img src="
-https://drive.google.com/uc?export=download&id=1gk2KqwKXvSUjKS87PdFGevb9NtJ2ensg" alt="Tsukuba City Hall Oho Branch Office" style="display: inline" width="60%">
+        <img src="https://i.imgur.com/c6uEl6w.jpg" alt="Tsukuba City Hall Oho Branch Office" style="display: inline" width="60%">
         <figcaption>Tsukuba City Hall Oho Branch Office</figcaption>
     </figure>
 </div>
@@ -32,9 +31,10 @@ Resuming: we eventually arrived at the Tsukuba Station, where we met our teacher
 
 <div class="div-of-images">
 	<figure>
-		<img src="
-https://drive.google.com/uc?export=download&id=1wBEKDNI_4TYejLIa9H6KXNDQE7URyOfo" style="display: inline" class="half"><img src="
-https://drive.google.com/uc?export=download&id=1elWElyKZorJ1hLGohcxI9ZVmXh9oB78m" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/5p8L5pv.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/jB8e4F1.jpg" style="display: inline"></div>
+        </div>
 		<figcaption>Near Tsukuba Station</figcaption>
 	</figure>
 </div>
@@ -60,7 +60,10 @@ That day was a bit cloudy and misty (there was light rain twice that day). As we
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=1ICiiFqp4qsSEFnNx4aK5zvns2g4hJz37" style="display: inline" class="half"><img src="https://drive.google.com/uc?export=download&id=1-Ry4ZSEtRA92GoLtfPVcN2MYrzW4PBV_" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/y90tb33.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/b9Qdfa5.jpg" style="display: inline"></div>
+        </div>
         <figcaption>Approaching Tokyo. Notice on the left photo the Tokyo Skytree emerging from behind the clouds and mist.</figcaption>
     </figure>
 </div>

@@ -34,7 +34,7 @@ We then went a short distance to [Science Square Tsukuba](https://www.aist.go.jp
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=16xqlDmjqQzNgOwW8sRepuCfaTHtVTmjy" style="display: inline" width="60%">
+        <img src="https://i.imgur.com/k9vUcyQ.jpg" style="display: inline" width="60%">
         <figcaption>The silicon sphere at Science Square</figcaption>
     </figure>
 </div>
@@ -49,8 +49,8 @@ On the outside there is a real-scale model of the [H-II](https://en.wikipedia.or
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=1BbiWq6KGLydsDeyetymp4b97JoeCv-2C" style="display: inline" width="80%">
-        <img src="https://drive.google.com/uc?export=download&id=1qjtgFj_kKLGccyGoUJYRYnZa7oNVbVoL" style="display: inline" width="80%">
+        <img src="https://i.imgur.com/Nu2dkMH.jpg" style="display: inline" width="80%">
+        <img src="https://i.imgur.com/4yuBkyz.jpg" style="display: inline" width="80%">
         <figcaption><a href="https://en.wikipedia.org/wiki/H-II">H-II</a> Ground Test Vehicle at the <a href="https://en.wikipedia.org/wiki/Tsukuba_Space_Center">Tsukuba Space Center</a></figcaption>
     </figure>
 </div>
@@ -61,13 +61,13 @@ We visited the Exhibition Hall, which is the Tsukuba Space Center visitors venue
     <figure>
         <div class="flex-image-stripe">
             <div class="flex-image">
-                <img src="https://drive.google.com/uc?export=download&id=1zYuY5lyXMMCPofewZZj675f8YzRw0D9O" style="display: inline">
+                <img src="https://i.imgur.com/MNhm9Fn.jpg" style="display: inline">
             </div>
             <div class="flex-image">
-                <img src="https://drive.google.com/uc?export=download&id=1nSPPwHK8fZG8MQX0AKmlWChbC3ikIWWg" style="display: inline">
+                <img src="https://i.imgur.com/r5c9XJj.jpg" style="display: inline">
             </div>
             <div class="flex-image">
-                <img src="https://drive.google.com/uc?export=download&id=1IHO1RbYSmOvsLmFj75C1ELBJBFK8Gk0a" style="display: inline">
+                <img src="https://i.imgur.com/XZCSD9n.jpg" style="display: inline">
             </div>
         </div>
         <figcaption><a href="https://en.wikipedia.org/wiki/H-II_Transfer_Vehicle">H-II Transfer Vehicle</a>, also called <i>Kounotori</i>, is the expendable automated cargo spacecraft designed to ressuply the Kibō module</figcaption>
@@ -76,7 +76,7 @@ We visited the Exhibition Hall, which is the Tsukuba Space Center visitors venue
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=1j9T0lybuDL7Yx2ot4AH_L77tYo_PFFy8" style="display: inline" width="62.7%"><img src="https://drive.google.com/uc?export=download&id=1vJqmEdQVTXA9WJRUdvwe7Faj6VzAQAsm" style="display: inline" width="35.3%">
+        <img src="https://i.imgur.com/6cMzExZ.jpg" style="display: inline" width="62.7%"><img src="https://i.imgur.com/uUk6KeK.jpg" style="display: inline" width="35.3%">
         <figcaption>Real-size model of the <a href="https://en.wikipedia.org/wiki/Kib%C5%8D_(ISS_module)">Kibō module</a>, developed by JAXA for the <a href="https://en.wikipedia.org/wiki/International_Space_Station">ISS</a></figcaption>
     </figure>
 </div>
@@ -88,7 +88,10 @@ Here are some of the satellites that are part of Japanese space development:
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=16c702OWJFMgoIrmI3WGyNwQjlX71JuCi" style="display: inline" class="half"><img src="https://drive.google.com/uc?export=download&id=1SzNa5XApvOkA--5fb6JV7bla96xHgDsi" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/yOwIWaQ.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/AMcQ9C5.jpg" style="display: inline"></div>
+        </div>
         <figcaption>On the left, from left to right: <a href="https://space.skyrocket.de/doc_sdat/ets-3.htm">Kiku-4</a>, <a href="https://en.wikipedia.org/wiki/ETS-VII">Kiku-7</a> and <a href="https://en.wikipedia.org/wiki/ETS-VIII">Kiku-8</a><br>
         On the right, evolution of Japanese space rockets</figcaption>
     </figure>
@@ -98,7 +101,10 @@ We also saw the [SELENE](https://en.wikipedia.org/wiki/SELENE) (also known as *K
 
 <div class="div-of-images">
     <figure>
-        <img src="https://drive.google.com/uc?export=download&id=15Qrxvxu6oenFnhNYtiP3ft6xpGx3L-HR" style="display: inline" class="half"><img src="https://drive.google.com/uc?export=download&id=1x5tKvwrVqUgMlZkk1xZLwStEnYoQENnS" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/bq6NYws.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/HGqqqkD.jpg" style="display: inline"></div>
+        </div>
         <figcaption>
             On the left, the <a href="https://en.wikipedia.org/wiki/LE-5">LE-5</a> second stage engine, used in the <a href="https://en.wikipedia.org/wiki/H-I">H-I</a> and <a href="https://en.wikipedia.org/wiki/H-II">H-II</a> rockets. The engine in the photograph was actually used in <a href="https://en.wikipedia.org/wiki/Launch_vehicle_system_tests#Static_fire">static firing tests</a>. On the right, a replica of the <a href="https://en.wikipedia.org/wiki/SELENE">SELENE</a> satellite.
         </figcaption>
