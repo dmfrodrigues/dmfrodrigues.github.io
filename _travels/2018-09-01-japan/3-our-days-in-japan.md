@@ -14,7 +14,7 @@ A particular aspect of Japanese cuisine is [*Teriyaki*](https://en.wikipedia.org
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/Adbdf0n.jpg" alt="Public baths at NITS" style="display: inline" width="70%">
+        <img src="https://i.imgur.com/Adbdf0n.jpg" alt="Dinner at NITS" width="70%" style="display: inline">
         <figcaption>A usual dinner @NITS</figcaption>
     </figure>
 </div>
@@ -23,7 +23,7 @@ I also got to taste [*Ebi Furai*](https://en.wikipedia.org/wiki/Fried_shrimp#Jap
 
 <div class="div-of-images">
     <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/CdazziEbifurai1.jpg" alt="Public baths at NITS" style="display: inline" width="70%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/CdazziEbifurai1.jpg" alt="Public baths at NITS" width="70%" style="display: inline">
         <figcaption>Ebi furai. From the public domain</figcaption>
     </figure>
 </div>
@@ -35,7 +35,7 @@ There were only a few exceptions to this heavenly description.
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/gMwBKFl.jpg" alt="Bento box" style="display: inline" width="50%">
+        <img src="https://i.imgur.com/gMwBKFl.jpg" alt="Bento box" width="50%" style="display: inline">
         <figcaption><i>The</i> bento box. Credits go to Pedro Paredes</figcaption>
     </figure>
 </div>
@@ -69,7 +69,7 @@ However there was an important detail missing: most rooms had no showers. And si
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/bqMbFTe.jpg" alt="Public baths at NITS" style="display: inline" width="80%">
+        <img src="https://i.imgur.com/bqMbFTe.jpg" alt="Public baths at NITS" width="80%" style="display: inline">
         <figcaption><a href="https://www.nits.go.jp/en/about/directories.html">Public baths at NITS</a></figcaption>
     </figure>
 </div>
@@ -83,7 +83,7 @@ Written Japanese uses three alphabets organized into two groups. They are:
 - [**Kana**](https://en.wikipedia.org/wiki/Kana) (仮名, 'borrowed name'), a set of two alphabets (*hiragana* and *katakana*) where each symbol is a phoneme. Symbols were borrowed and adapted from Chinese for their phonetic properties rather than their meaning, to represent Japanese words that do not have a corresponding *kanji*.
     - [**Hiragana**](https://en.wikipedia.org/wiki/Hiragana) (平仮名, 'simple kana'), a set of 46 symbols plus diacritics, is the most common phonetic alphabet. Its written form is considered cursive.
     - [**Katakana**](https://en.wikipedia.org/wiki/Katakana) (片仮名, 'fragmentary kana'), a set of 48 symbols plus diacritics. They derive from small fragments of *kanji*, and are used for foreign/import words, onomatopoeias or otherwise for emphasis or to portray a foreign accent. They are characterized by straight and clear strokes, and simple shapes.
-- [**Kanji**](https://en.wikipedia.org/wiki/Kanji) (漢字, 'chinese characters'), an utterly huge list of symbols, each representing an idea rather than a phoneme. They were imported from Chinese almost exactly as-is (in such a way that most kanji have almost the same meaning as the corresponding Chinese character, albeit with completely different pronunciation). Most content words are written in kanji, while kana is usually only used for small additions to the language. Kanji can have completely different pronunciation depending on context and dialect. School children are required to know 2136 [jōyō kanji](https://en.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji) (常用漢字, 'regular-use kanji') understood to be necessary for functional use of Japanese. About 3000 kanji find common use, 4000 find common or niche use, and the most extensive kanji list includes about 50,000 kanji, most of them with obscure meaning.
+- [**Kanji**](https://en.wikipedia.org/wiki/Kanji) (漢字, 'chinese characters'), an utterly huge list of symbols, each representing an idea rather than a phoneme. They were imported from Chinese almost exactly as-is (in such a way that most kanji have almost the same meaning as the corresponding Chinese character, albeit with completely different pronunciation). Most content words are written in kanji, while kana is usually only used for small additions to the language. Kanji can have completely different pronunciation depending on context and dialect. School children are required to know 2136 [jōyō kanji](https://en.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji) (常用漢字, 'regular-use kanji') understood to be necessary for functional use of Japanese. About 3,000 kanji find common use, 4,000 find common or niche use, and the most extensive kanji list includes about 50,000 kanji, most of them with obscure meaning.
 
 [**Rōmaji**](https://en.wikipedia.org/wiki/Romanization_of_Japanese) (ローマ字, 'roman characters') is the use of Latin script to write in Japanese. There are many ways to transliterate Japanese to *romaji*, but all tend to reproduce Japanese as if written in a Western language that has all the sounds there are in Japanese, for instance Portuguese (actually the earliest *romaji* systems were [based on Portuguese orthography](https://en.wikipedia.org/wiki/Romanization_of_Japanese#History), given the Portuguese were the first to arrive to Japan and to publish Japanese dictionaries in an European language, and also because Portuguese has one of the richest vowel and consonant phonologies among European languages).
 
@@ -91,28 +91,16 @@ Written Japanese uses three alphabets organized into two groups. They are:
     <figure>
     <table>
         <tr>
-            <td>
-                <b>Japanese</b>
-            </td>
-            <td>
-                <span style="color:green">ラドクリフ</span>、<span style="color:green">マラソン</span><span style="color:red">五輪代表</span><span style="color:blue">に </span> 1<span style="color:red">万</span><span style="color:green">メートル</span><span style="color:red">出場</span><span style="color:blue">にも</span><span style="color:red">含</span><span style="color:blue">み</span>
-            </td>
+            <td><b>Japanese</b></td>
+            <td><span style="color:green">ラドクリフ</span>、<span style="color:green">マラソン</span><span style="color:red">五輪代表</span><span style="color:blue">に </span> 1<span style="color:red">万</span><span style="color:green">メートル</span><span style="color:red">出場</span><span style="color:blue">にも</span><span style="color:red">含</span><span style="color:blue">み</span></td>
         </tr>
         <tr>
-            <td>
-                <b>Romaji</b>
-            </td>
-            <td>
-                <span style="color:green">Radokurifu</span>, <span style="color:green">Marason</span> <span style="color:red">gorin daihyō</span> <span style="color:blue">ni</span>, ichi-<span style="color:red">man</span> <span style="color:green">mētoru</span> <span style="color:red">shutsujō</span> <span style="color:blue">ni mo</span> <span style="color:red">fuku</span><span style="color:blue">mi</span>
-            </td>
+            <td><b>Romaji</b></td>
+            <td><span style="color:green">Radokurifu</span>, <span style="color:green">Marason</span> <span style="color:red">gorin daihyō</span> <span style="color:blue">ni</span>, ichi-<span style="color:red">man</span> <span style="color:green">mētoru</span> <span style="color:red">shutsujō</span> <span style="color:blue">ni mo</span> <span style="color:red">fuku</span><span style="color:blue">mi</span></td>
         </tr>
         <tr>
-            <td>
-                <b>English</b>
-            </td>
-            <td>
-                Radcliffe to compete in Olympic marathon and 10,000 metres
-            </td>
+            <td><b>English</b></td>
+            <td>Radcliffe to compete in Olympic marathon and 10,000 metres</td>
         </tr>
     </table>
         <figcaption>Sample Japanese sentence. In <span style="color:blue">blue</span>, <i>hiragana</i>; in <span style="color:green">green</span>, <i>katakana</i>; in <span style="color:red">red</span>, <i>kanji</i>.</figcaption>
@@ -171,7 +159,7 @@ I have recently discovered that the [Google Translate](https://play.google.com/s
 
 ### Cost of living and currency
 
-The official currency in Japan is the [Japanese yen](https://en.wikipedia.org/wiki/Japanese_yen) (円, *en*, 'round', an ancient Chinese term for Spanish round silver coins arriving from the Mexican colony), represented by ¥ and has the international code JPY. A Japanese yen is worth about an euro cent (at the time €1=¥129), which was convenient because it made it easier to evaluate the actual cost of things. If ¥ is used in English, it should be written before the number (¥500), but if 円 is used instead it should be placed after the number (500円). Although ¥ is the most internationally recognized symbol and most common in other languages and platforms, the Japanese almost always use 円 in price tags, since there is no particular advantage for them to use the international symbol as the corresponding kanji takes the same space.
+The official currency in Japan is the [Japanese yen](https://en.wikipedia.org/wiki/Japanese_yen) (円, *en*, 'round', the Chinese term for the round silver coins arriving from [New Spain](https://en.wikipedia.org/wiki/New_Spain), in constrast with Chinese currency which was usually a set of complex tokens made in precious metals), represented by ¥ and has the international code JPY. A Japanese yen is worth about an euro cent (at the time €1=¥129), which was convenient because it made it easier to evaluate the actual cost of things. If ¥ is used in English, it should be written before the number (¥500), but if 円 is used instead it should be placed after the number (500円). Although ¥ is the most internationally recognized symbol and most common in other languages and platforms, the Japanese almost always use 円 in price tags, since there is no particular advantage for them to use the international symbol as the corresponding kanji takes the same space.
 
 I found the cost of living in Japan quite affordable when compared to Portugal; the prices are actually quite similar. Of course products were a bit more expensive in Tokyo than in Tsukuba, but they were still affordable and prices in Tokyo were just 10-20% higher than in Tsukuba for food and other goods (if we were talking about housing or salaries that'd be a whole different story).
 
@@ -237,8 +225,10 @@ It was not much to worry as the constructions at NITS were pretty solid, but the
 
 <div class="div-of-images">
     <figure>
-    	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jebi_2018_track.png" alt="jebi track" style="display: inline" width="53.4%">
-    	<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Jebi_2018-08-31_0330Z.jpg" alt="jebi sat photo" style="display: inline" width="40%">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 1.00;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jebi_2018_track.png"></div>
+            <div class="flex-image" style="flex: 0.75;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Jebi_2018-08-31_0330Z.jpg"></div>
+        </div>
     	<figcaption>On the left, the storm track and intensity; on the right, satellite photage of typhoon Jebi on the 31 Aug. From the public domain</figcaption>
     </figure>
 </div>
@@ -253,8 +243,10 @@ The next night, another earthquake happened, this time at 6 Sep 3:08. I was abou
 
 <div class="div-of-images">
     <figure>
-        <img src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg" alt="jebi sat photo" style="display: inline" width="50.0%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg" alt="jebi sat photo" style="display: inline" width="47.5%">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 0.8947;"><img src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg"></div>
+            <div class="flex-image" style="flex: 0.8512;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg"></div>
+        </div>
     	<figcaption>USGS intensity map of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/dyfi/intensity">Ibaraki Sep 5 earthquake</a> (left) and shakemap of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive#dyfi">Hokkaido Sep 6 earthquake</a> (right)</figcaption>
     </figure>
 </div>
@@ -266,8 +258,11 @@ A fun fact for some, an inconvenience and a tragic event for others.
 During the second part of the competition, I had to use the toilet. First of all, the queue was so long I had to wait for about 15min for an empty toilet in the middle of the competition. Secondly, as my time finally came I just entered the first empty toilet, only to find it was a [squat toilet](https://en.wikipedia.org/wiki/Squat_toilet), a first to me. It is however paradigmatic how a society obsessed with hygiene and [washlets](https://en.wikipedia.org/wiki/Washlet), the most technologically and functionally advanced Western-style toilets, can coexist with apparently traditional squat toilets.
 
 <div class="div-of-images">
-    <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg" alt="washlet" style="display: inline" width="50%"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg" alt="squat toilet" style="display: inline" width="28.13%">
+    <figure style="width: 80%;">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg"></div>
+            <div class="flex-image" style="flex: 0.7500;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg"></div>
+        </div>
     	<figcaption>A washlet and a Japanese squat toilet. From the public domain</figcaption>
     </figure>
 </div>

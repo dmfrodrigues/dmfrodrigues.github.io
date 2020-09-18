@@ -18,7 +18,14 @@ As we were (finally) picked up at the airport, we took the [Ken-Ō Expressway](h
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/SiFJh8w.jpg" alt="Landscape at Jusanmado (Kawachi, Inashiki district)" style="display: inline" class="half"><img src="https://i.imgur.com/zDOjJtL.jpg" alt="Landscape at Ono river (Komazuka, Inashiki)" style="display: inline" class="half"><img src="https://i.imgur.com/9hglLKh.jpg" alt="Landscape at Koike (Ami, Inashiki district)" style="display: inline" class="half"><img src="https://i.imgur.com/6ksII8q.jpg" alt="Landscape at Kamikashiwada (Ushiku)" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/SiFJh8w.jpg" alt="Landscape at Jusanmado (Kawachi, Inashiki district)"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/zDOjJtL.jpg" alt="Landscape at Ono river (Komazuka, Inashiki)"></div>
+        </div>
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/9hglLKh.jpg" alt="Landscape at Koike (Ami, Inashiki district)"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/6ksII8q.jpg" alt="Landscape at Kamikashiwada (Ushiku)"></div>
+        </div>
         <figcaption>Japanese rural landscape in <a href="https://en.wikipedia.org/wiki/Ibaraki_Prefecture">Ibaraki Prefecture</a> from the <a href="https://en.wikipedia.org/wiki/Ken-%C5%8C_Expressway">Ken-Ō Expressway</a>. From left to right and top to bottom:<br><a href="https://www.google.com/maps/@35.9043102,140.3751123,139a,35y,307.27h,58.44t/data=!3m1!1e3?hl=en">Jusanmado</a> (<a href="https://en.wikipedia.org/wiki/Kawachi,_Ibaraki">Kawachi</a>, <a href="https://en.wikipedia.org/wiki/Inashiki_District,_Ibaraki">Inashiki district</a>); <a href="https://www.google.com/maps/@35.9392512,140.3312605,83a,35y,254.53h,75.59t/data=!3m1!1e3?hl=en">Ono river</a> (Komazuka, <a href="https://en.wikipedia.org/wiki/Inashiki,_Ibaraki">Inashiki</a>);<br>
         <a href="https://www.google.com/maps/@35.9923544,140.1903331,47a,35y,202.97h,75.36t/data=!3m1!1e3?hl=en">Koike</a> (<a href="https://en.wikipedia.org/wiki/Ami,_Ibaraki">Ami</a>, <a href="https://en.wikipedia.org/wiki/Inashiki,_Ibaraki">Inashiki</a>); <a href="https://www.google.com/maps/@35.9944758,140.1594784,31a,35y,206.72h,77.14t/data=!3m1!1e3?hl=en">Kamikashiwada</a> (<a href="https://en.wikipedia.org/wiki/Ushiku,_Ibaraki">Ushiku</a>)</figcaption>
     </figure>
@@ -30,7 +37,10 @@ From behind the forest, a statue appears in the distance: a huge standing Buddha
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/OUBgST4.jpg" style="display: inline" width="48.9%"><img src="https://upload.wikimedia.org/wikipedia/en/6/62/Ushiku.jpg" alt="From the public domain" style="display: inline" width="49.9%">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/OUBgST4.jpg"></div>
+            <div class="flex-image" style="flex: 1.3636;"><img src="https://upload.wikimedia.org/wikipedia/en/6/62/Ushiku.jpg"></div>
+        </div>
     <figcaption><a href="https://en.wikipedia.org/wiki/Ushiku_Daibutsu">Ushiku Daibutsu</a> (on the left as I saw it, on the right as it should be seen)</figcaption>
     </figure>
 </div>

@@ -8,7 +8,7 @@ I didn't see anything particular, aside from the fact the street is a bit narrow
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/4e8hJDJ.jpg" alt="Takeshita Street" style="display: inline" width="80%">
+        <img src="https://i.imgur.com/4e8hJDJ.jpg" alt="Takeshita Street" width="80%" style="display: inline">
         <figcaption>West side of <a href="https://en.wikipedia.org/wiki/Takeshita_Street">Takeshita Street</a>.</figcaption>
     </figure>
 </div>
@@ -25,7 +25,7 @@ The [Meiji Shrine](https://en.wikipedia.org/wiki/Meiji_Shrine) is the Shinto shr
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/bsxGFn2.jpg" alt="Me at Torii gate of Meiji Shrine" style="display: inline" width="60%">
+        <img src="https://i.imgur.com/bsxGFn2.jpg" alt="Me at Torii gate of Meiji Shrine" width="60%" style="display: inline">
         <figcaption>A photo of me in front of the first Torii gate of the Meiji Shrine</figcaption>
     </figure>
 </div>
@@ -35,8 +35,8 @@ We entered the shrine via the southeast entry (the first [Torii](https://en.wiki
 <div class="div-of-images">
     <figure>
         <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/nK9vUum.jpg" style="display: inline"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/Q54I7pc.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/nK9vUum.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/Q54I7pc.jpg"></div>
         </div>
         <figcaption>Sake and wine donations at the Meiji Shrine</figcaption>
     </figure>
@@ -46,7 +46,14 @@ On approaching the inner gate there was a small water fountain, to wash our hand
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/RhY8evk.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/TM3Ijbs.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/FXjfucy.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/25ZkmFv.jpg" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/RhY8evk.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/TM3Ijbs.jpg"></div>
+        </div>
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/FXjfucy.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/25ZkmFv.jpg"></div>
+        </div>
         <figcaption>
         	Inside the Meiji Shrine.<br>
         	Top left: the south inner gate from the outside.<br>
@@ -63,7 +70,7 @@ On approaching the inner gate there was a small water fountain, to wash our hand
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/WrV3ptC.jpg" style="display: inline" width="60%">
+        <img src="https://i.imgur.com/WrV3ptC.jpg" width="60%" style="display: inline">
 		<figcaption>
         	At the crossing of <a href="https://en.wikipedia.org/wiki/Kita-sando_Station">Kita-sando</a> entrance 3. I am below the viaduct of <a href="https://en.wikipedia.org/wiki/Shinjuku_Route">Shinjuku Route</a>, and to my right (not on the photo) is the railway bridge that connects Yoyogi to Harajuku. In the background is the <a href="https://en.wikipedia.org/wiki/NTT_Docomo_Yoyogi_Building">Docomo Building</a> (formally <i>NTT Docomo Yoyogi Building</i>), the fourth tallest building in Tokyo.
         </figcaption>
@@ -86,7 +93,10 @@ We left [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Statio
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/mDvWBvv.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/PnyrmFi.jpg" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/mDvWBvv.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/PnyrmFi.jpg"></div>
+        </div>
 		<figcaption>
         	At Akabane Bridge.<br>
         	On the left, the <a href="https://en.wikipedia.org/wiki/Tokyo_Tower">Tokyo Tower</a> (slightly to the right are some of Minato's skyscrapers; from left to right: <a href="https://en.wikipedia.org/wiki/Toranomon_Hills">Toranomon Hills</a>, <a href="https://en.wikipedia.org/wiki/Atago_Green_Hills#Mori_Tower">Agato Green Hills</a> Mori Tower and Forest Tower, all of which built by the powerful Mori family).<br>
@@ -99,7 +109,10 @@ We then kept going east, and entered the [Shiba Park](https://en.wikipedia.org/w
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/iUpDZg6.jpg" style="display: inline" class="vertical"><img src="https://i.imgur.com/M2lPRSa.jpg" style="display: inline" class="horizontal">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/iUpDZg6.jpg"></div>
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/M2lPRSa.jpg"></div>
+        </div>
 		<figcaption>
         	Views from Shiba Park. On the left, the Tokyo Tower from the southeast; on the right, the <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> from the south.
         </figcaption>
@@ -110,7 +123,7 @@ The [Zōjō-ji temple](https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji) is a lar
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/G1AGrn3.jpg" style="display: inline" width="80%">
+        <img src="https://i.imgur.com/G1AGrn3.jpg" width="80%" style="display: inline">
 		<figcaption>
         	A first view of Zōjō-ji, from the southeast
         </figcaption>
@@ -121,7 +134,10 @@ After a quite long metro trip, we decided to have a quick look around the perime
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/xrGhXOx.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/dZAIH9x.jpg" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/xrGhXOx.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/dZAIH9x.jpg"></div>
+        </div>
 		<figcaption>
         	On the left, the Gate of <a href="https://en.wikipedia.org/wiki/Taitoku-in_Mausoleum">Taitoku-in Mausoleum</a>.<br>
         	On the right, the <a href="https://thegate12.com/article/57">Kuromon</a> (黒門, 'Black Gate'), not so appealing for its apparent lack of restoration, but definitely important as it was built in 1652 and survived the air raids.
@@ -131,7 +147,11 @@ After a quite long metro trip, we decided to have a quick look around the perime
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/C6J5mUi.jpg" style="display: inline" width="38.3%"><img src="https://i.imgur.com/8fcxDsp.jpg" style="display: inline" width="38.3%"><img src="https://i.imgur.com/UB8xZZL.jpg" style="display: inline" width="21.5%">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/C6J5mUi.jpg"></div>
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/8fcxDsp.jpg"></div>
+            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/UB8xZZL.jpg"></div>
+        </div>
 		<figcaption>
         	Views of the Tokyo Tower from the main yard;<br>
         	On the left, the Ankokuden Hall (to the north of the main hall).<br>
@@ -147,7 +167,11 @@ At the time all the statues had pinwheels. The considerable wind made them rapid
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/xo9PERr.jpg" style="display: inline" width="46.0%"><img src="https://i.imgur.com/84ingEp.jpg" style="display: inline" width="25.9%"><img src="https://i.imgur.com/wjw9ZBM.jpg" style="display: inline" width="25.9%">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/xo9PERr.jpg"></div>
+            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/84ingEp.jpg"></div>
+            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/wjw9ZBM.jpg"></div>
+        </div>
 		<figcaption>
         	<a href="https://en.wikipedia.org/wiki/Jiz%C5%8D">Jizō</a> statues at <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji</a>
         </figcaption>
@@ -158,7 +182,7 @@ We left the temple grounds through a side gate, and went around the perimeter of
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/siMYYkf.jpg" style="display: inline" width="80%">
+        <img src="https://i.imgur.com/siMYYkf.jpg" width="80%" style="display: inline">
 		<figcaption>
         	<a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> main gate (<i>Sangedatsumon</i>). It did not fit in a single photo because of its size (and how much I could walk into the street before I was at risk of being run over).
         </figcaption>
@@ -169,7 +193,17 @@ We went up the street in front of the *Sangedatsumon* to find our last visit poi
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/EaMkKKJ.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/NXUgw2f.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/a0mIvtu.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/7ksWy7K.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/QQpH0v2.jpg" style="display: inline">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/EaMkKKJ.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/NXUgw2f.jpg"></div>
+        </div>
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/a0mIvtu.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/7ksWy7K.jpg"></div>
+        </div>
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/QQpH0v2.jpg"></div>
+        </div>
 		<figcaption>
         	The view from the World Trade Center Building observatory
         </figcaption>
@@ -186,7 +220,7 @@ As we arrived at [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/ku8Q8gy.jpg" style="display: inline" width="60%">
+        <img src="https://i.imgur.com/ku8Q8gy.jpg" width="60%" style="display: inline">
         <figcaption>
         	Hachikō statue in front of <a href="https://en.wikipedia.org/wiki/Shibuya_Station">Shibuya Station</a>
         </figcaption>
@@ -197,7 +231,10 @@ As we were in Shibuya we could not miss the [Shibuya Crossing](https://en.wikipe
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/WBJySwf.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/Tm53IKa.jpg" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/WBJySwf.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/Tm53IKa.jpg"></div>
+        </div>
         <figcaption>
         	Some more photos from Hachikō Square. On the left, the sea of people just hanging around apparently; on the right, the buildings surrounding <a href="https://en.wikipedia.org/wiki/Shibuya_Crossing">Shibuya Crossing.</a>
         </figcaption>

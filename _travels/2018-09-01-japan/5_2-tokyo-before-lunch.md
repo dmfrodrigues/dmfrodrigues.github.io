@@ -6,7 +6,10 @@ As soon as I set foot outside the train station (through the Main Gate North Exi
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/t2GiloX.jpg" style="display: inline" class="vertical"><img src="https://i.imgur.com/xmVAJzL.jpg" style="display: inline" class="horizontal">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/t2GiloX.jpg"></div>
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/xmVAJzL.jpg"></div>
+        </div>
         <figcaption>First impressions on leaving Akihabara station. On the left photo is the <a href="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_University">Tokyo Metropolitan University</a> Marunouchi Satellite Campus on the left and <a href="https://en.japantravel.com/tokyo/akihabara-udx/25529">Akihabara UDX</a> on the right.</figcaption>
     </figure>
 </div>
@@ -18,8 +21,8 @@ We then crossed the street to the most iconic spot of Akihabara, informally know
 <div class="div-of-images">
     <figure>
         <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/aBC3hgX.jpg" style="display: inline"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/V46iSuv.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/aBC3hgX.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/V46iSuv.jpg"></div>
         </div>
         <figcaption>Akihabara Crossing (facing south on the left photo, facing north on the right photo). On the left, SEGA Akihabara Building 3 can be seen.</figcaption>
     </figure>
@@ -31,7 +34,10 @@ We went on for a bit, until the end of that area, just before crossing the [Kand
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/eLRmlRU.jpg" style="display: inline" class="horizontal"><img src="https://i.imgur.com/OTPmsEC.jpg" style="display: inline" class="vertical">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/eLRmlRU.jpg"></div>
+            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/OTPmsEC.jpg"></div>
+        </div>
         <figcaption>Akihabara a bit closer to the river</figcaption>
     </figure>
 </div>
@@ -41,9 +47,9 @@ Because some of us wanted to have sushi and other didn't (including myself), we 
 <div class="div-of-images">
     <figure>
         <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/kxzJYMM.jpg" style="display: inline"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/mbxKyKs.jpg" style="display: inline"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/AWFSuCL.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/kxzJYMM.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/mbxKyKs.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/AWFSuCL.jpg"></div>
         </div>
         <figcaption>Near the Electric Town South Exit.<br>On the left, I'm facing east; at the end of the street is the train station exit.<br>On the middle, I'm at the corner and facing south, away from the train station exit; just by the corner is SEGA Akihabara Building 4.<br>On the right, I'm at the corner and facing west, so the train station is to my right.</figcaption>
     </figure>
@@ -68,7 +74,7 @@ We entered Akihabara to catch a commuter train from the [Chūō-Sōbu Line](http
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/9c3lRRb.jpg" style="display: inline" width="50%">
+        <img src="https://i.imgur.com/9c3lRRb.jpg" width="50%" style="display: inline">
         <figcaption>The Japanese Penguin in its natural habitat: a commuter train</figcaption>
     </figure>
 </div>
@@ -108,8 +114,14 @@ The view was quite great, altough I was a bit disappointed as I could not see [M
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/LfRGUoX.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/24uzeH1.jpg" style="display: inline" class="half"><img src="https://i.imgur.com/o0Jw38e.jpg" style="display: inline" class="half"><img src="
-https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg" style="display: inline" class="half">
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/LfRGUoX.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/24uzeH1.jpg"></div>
+        </div>
+        <div class="flex-image-stripe">
+            <div class="flex-image"><img src="https://i.imgur.com/o0Jw38e.jpg"></div>
+            <div class="flex-image"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg"></div>
+        </div>
         <figcaption>
         	The views from <a href="https://en.wikipedia.org/wiki/Bunkyo_Civic_Center">Bunkyo Civic Center</a>.<br>
         	Top left: facing east. You can see the <a href="https://en.wikipedia.org/wiki/Tokyo_Skytree">Tokyo Skytree</a> in the background.<br>

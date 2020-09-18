@@ -14,7 +14,7 @@ So, the next day we went to that bus stop, and waited for about 15min for any bu
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/c6uEl6w.jpg" alt="Tsukuba City Hall Oho Branch Office" style="display: inline" width="60%">
+        <img src="https://i.imgur.com/c6uEl6w.jpg" alt="Tsukuba City Hall Oho Branch Office" width="60%" style="display: inline">
         <figcaption>Tsukuba City Hall Oho Branch Office</figcaption>
     </figure>
 </div>
@@ -32,8 +32,8 @@ Resuming: we eventually arrived at the Tsukuba Station, where we met our teacher
 <div class="div-of-images">
 	<figure>
         <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/5p8L5pv.jpg" style="display: inline"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/jB8e4F1.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/5p8L5pv.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/jB8e4F1.jpg"></div>
         </div>
 		<figcaption>Near Tsukuba Station</figcaption>
 	</figure>
@@ -51,7 +51,7 @@ One typical feature of the Japanese suburb is that almost all cables are placed 
 
 <div class="div-of-images">
     <figure>
-        <img src="https://www.spoon-tamago.com/wp-content/uploads/2015/06/hachioji-electric-cables-2.jpg" alt="Overhead cables in Japan" style="display: inline" width="80%">
+        <img src="https://www.spoon-tamago.com/wp-content/uploads/2015/06/hachioji-electric-cables-2.jpg" alt="Overhead cables in Japan" width="80%" style="display: inline">
         <figcaption><a href="https://www.spoon-tamago.com/2015/06/24/chaotic-photographs-of-electric-cables-suspended-over-japanese-streets/">Overhead cables in Hachioji, Japan</a></figcaption>
     </figure>
 </div>
@@ -61,8 +61,8 @@ That day was a bit cloudy and misty (there was light rain twice that day). As we
 <div class="div-of-images">
     <figure>
         <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/y90tb33.jpg" style="display: inline"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/b9Qdfa5.jpg" style="display: inline"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/y90tb33.jpg"></div>
+            <div class="flex-image"><img src="https://i.imgur.com/b9Qdfa5.jpg"></div>
         </div>
         <figcaption>Approaching Tokyo. Notice on the left photo the Tokyo Skytree emerging from behind the clouds and mist.</figcaption>
     </figure>

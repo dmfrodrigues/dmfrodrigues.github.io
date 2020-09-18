@@ -16,7 +16,7 @@ We were accompanied by two 'teachers', both former competitors:
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/CBDwWw5.jpg" alt="Portuguese team in IOI18" style="display: inline" width="80%">
+        <img src="https://i.imgur.com/CBDwWw5.jpg" alt="Portuguese team in IOI18" width="80%" style="display: inline">
         <figcaption>From left to right: Pedro Paredes, Kevin Pucci, André Nascimento, Pedro Ribeiro, David Nassauer and yours truly</figcaption>
     </figure>
 </div>

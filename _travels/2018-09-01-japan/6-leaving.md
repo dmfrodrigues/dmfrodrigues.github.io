@@ -13,7 +13,7 @@ At the duty-free zone I did have my first look at Castella. As a brief note, in 
 
 <div class="div-of-images">
     <figure>
-        <img src="https://i.imgur.com/XUg9Ujy.jpg" alt="Castella sponge cake" style="display: inline" width="60%">
+        <img src="https://i.imgur.com/XUg9Ujy.jpg" alt="Castella sponge cake" width="60%" style="display: inline">
         <figcaption>Castella at the airport</figcaption>
     </figure>
 </div>

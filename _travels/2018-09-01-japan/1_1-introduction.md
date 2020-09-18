@@ -1,6 +1,9 @@
 <div class="div-of-images">
     <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="flag of japan" style="display: inline" width="56.9%"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/850px-Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg" alt="map of japan" style="display: inline" width="42%">
+        <div class="flex-image-stripe">
+            <div class="flex-image" style="flex: 1.5000;"><img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"></div>
+            <div class="flex-image" style="flex: 1.1068;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/850px-Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg"></div>
+        </div>
     </figure>
 </div>
 
@@ -18,8 +21,7 @@
 
 <div class="div-of-images">
     <figure>
-        <img src="
-https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" style="display: inline" width="50%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" width="50%" style="display: inline">
         <figcaption>Administrative divisions of Japan. White lines delineate prefectures, and colors indicate the regions: <span style="color:red"><b>Hokkaido</b></span>, <span style="color:#DDDD00"><b>Tohoku</b></span>, <span style="color:green"><b>Kanto</b></span>, <span style="color:cyan"><b>Chubu</b></span>, <span style="color:blue"><b>Kansai</b></span>, <span style="color:orange"><b>Chugoku</b></span>, <span style="color:gray"><b>Kyushu</b></span> and <span style="color:purple"><b>Shikoku</b></span></figcaption>
     </figure>
 </div>
