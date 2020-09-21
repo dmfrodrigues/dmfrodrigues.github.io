@@ -72,7 +72,7 @@ On approaching the inner gate there was a small water fountain, to wash our hand
     <figure>
         <img src="https://i.imgur.com/WrV3ptC.jpg" width="60%" style="display: inline">
 		<figcaption>
-        	At the crossing of <a href="https://en.wikipedia.org/wiki/Kita-sando_Station">Kita-sando</a> entrance 3. I am below the viaduct of <a href="https://en.wikipedia.org/wiki/Shinjuku_Route">Shinjuku Route</a>, and to my right (not on the photo) is the railway bridge that connects Yoyogi to Harajuku. In the background is the <a href="https://en.wikipedia.org/wiki/NTT_Docomo_Yoyogi_Building">Docomo Building</a> (formally <i>NTT Docomo Yoyogi Building</i>), the fourth tallest building in Tokyo.
+        	At the crossing of <a href="https://en.wikipedia.org/wiki/Kita-sando_Station">Kita-sando</a> entrance 3. I am below the viaduct of <a href="https://en.wikipedia.org/wiki/Shinjuku_Route">Shinjuku Route</a>, and to my right (not on the photo) is the railway bridge that connects Yoyogi to Harajuku. In the background is the <a href="https://en.wikipedia.org/wiki/NTT_Docomo_Yoyogi_Building">Docomo Building</a> (formally <emp>NTT Docomo Yoyogi Building</emp>), the fourth tallest building in Tokyo.
         </figcaption>
     </figure>
 </div>
@@ -184,7 +184,7 @@ We left the temple grounds through a side gate, and went around the perimeter of
     <figure>
         <img src="https://i.imgur.com/siMYYkf.jpg" width="80%" style="display: inline">
 		<figcaption>
-        	<a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> main gate (<i>Sangedatsumon</i>). It did not fit in a single photo because of its size (and how much I could walk into the street before I was at risk of being run over).
+        	<a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> main gate (<emp>Sangedatsumon</emp>). It did not fit in a single photo because of its size (and how much I could walk into the street before I was at risk of being run over).
         </figcaption>
     </figure>
 </div>

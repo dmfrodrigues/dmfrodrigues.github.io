@@ -22,7 +22,7 @@
 <div class="div-of-images">
     <figure>
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" width="50%" style="display: inline">
-        <figcaption>Administrative divisions of Japan. White lines delineate prefectures, and colors indicate the regions: <span style="color:red"><b>Hokkaido</b></span>, <span style="color:#DDDD00"><b>Tohoku</b></span>, <span style="color:green"><b>Kanto</b></span>, <span style="color:cyan"><b>Chubu</b></span>, <span style="color:blue"><b>Kansai</b></span>, <span style="color:orange"><b>Chugoku</b></span>, <span style="color:gray"><b>Kyushu</b></span> and <span style="color:purple"><b>Shikoku</b></span></figcaption>
+        <figcaption>Administrative divisions of Japan. White lines delineate prefectures, and colors indicate the regions: <span style="color:red"><strong>Hokkaido</strong></span>, <span style="color:#DDDD00"><strong>Tohoku</strong></span>, <span style="color:green"><strong>Kanto</strong></span>, <span style="color:cyan"><strong>Chubu</strong></span>, <span style="color:blue"><strong>Kansai</strong></span>, <span style="color:orange"><strong>Chugoku</strong></span>, <span style="color:gray"><strong>Kyushu</strong></span> and <span style="color:purple"><strong>Shikoku</strong></span></figcaption>
     </figure>
 </div>
 

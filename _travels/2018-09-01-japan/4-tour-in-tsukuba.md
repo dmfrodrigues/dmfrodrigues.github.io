@@ -64,7 +64,7 @@ We visited the Exhibition Hall, which is the Tsukuba Space Center visitors venue
             <div class="flex-image"><img src="https://i.imgur.com/r5c9XJj.jpg"></div>
             <div class="flex-image"><img src="https://i.imgur.com/XZCSD9n.jpg"></div>
         </div>
-        <figcaption><a href="https://en.wikipedia.org/wiki/H-II_Transfer_Vehicle">H-II Transfer Vehicle</a>, also called <i>Kounotori</i>, is the expendable automated cargo spacecraft designed to ressuply the Kibō module</figcaption>
+        <figcaption><a href="https://en.wikipedia.org/wiki/H-II_Transfer_Vehicle">H-II Transfer Vehicle</a>, also called <emp>Kounotori</emp>, is the expendable automated cargo spacecraft designed to ressuply the Kibō module</figcaption>
     </figure>
 </div>
 

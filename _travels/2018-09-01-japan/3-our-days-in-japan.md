@@ -36,7 +36,7 @@ There were only a few exceptions to this heavenly description.
 <div class="div-of-images">
     <figure>
         <img src="https://i.imgur.com/gMwBKFl.jpg" alt="Bento box" width="50%" style="display: inline">
-        <figcaption><i>The</i> bento box. Credits go to Pedro Paredes</figcaption>
+        <figcaption><emp>The</emp> bento box. Credits go to Pedro Paredes</figcaption>
     </figure>
 </div>
 
@@ -91,19 +91,19 @@ Written Japanese uses three alphabets organized into two groups. They are:
     <figure>
     <table>
         <tr>
-            <td><b>Japanese</b></td>
+            <td><strong>Japanese</strong></td>
             <td><span style="color:green">ラドクリフ</span>、<span style="color:green">マラソン</span><span style="color:red">五輪代表</span><span style="color:blue">に </span> 1<span style="color:red">万</span><span style="color:green">メートル</span><span style="color:red">出場</span><span style="color:blue">にも</span><span style="color:red">含</span><span style="color:blue">み</span></td>
         </tr>
         <tr>
-            <td><b>Romaji</b></td>
+            <td><strong>Romaji</strong></td>
             <td><span style="color:green">Radokurifu</span>, <span style="color:green">Marason</span> <span style="color:red">gorin daihyō</span> <span style="color:blue">ni</span>, ichi-<span style="color:red">man</span> <span style="color:green">mētoru</span> <span style="color:red">shutsujō</span> <span style="color:blue">ni mo</span> <span style="color:red">fuku</span><span style="color:blue">mi</span></td>
         </tr>
         <tr>
-            <td><b>English</b></td>
+            <td><strong>English</strong></td>
             <td>Radcliffe to compete in Olympic marathon and 10,000 metres</td>
         </tr>
     </table>
-        <figcaption>Sample Japanese sentence. In <span style="color:blue">blue</span>, <i>hiragana</i>; in <span style="color:green">green</span>, <i>katakana</i>; in <span style="color:red">red</span>, <i>kanji</i>.</figcaption>
+        <figcaption>Sample Japanese sentence. In <span style="color:blue">blue</span>, <emp>hiragana</emp>; in <span style="color:green">green</span>, <emp>katakana</emp>; in <span style="color:red">red</span>, <emp>kanji</emp>.</figcaption>
     </figure>
 </div>
 
@@ -123,31 +123,31 @@ They are not proper alphabets in the sense that they are better described as set
                 <td>私</td>
                 <td>わたし</td>
                 <td>ワタシ</td>
-                <td><i>watashi</i></td>
+                <td><emp>watashi</emp></td>
                 <td>I, me</td></tr>
             <tr>
                 <td>金魚</td>
                 <td>きんぎょ</td>
                 <td>キンギョ</td>
-                <td><i>kingyo</i></td>
+                <td><emp>kingyo</emp></td>
                 <td>goldfish</td>
             </tr>
             <tr>
                 <td>煙草 or 莨</td>
                 <td>たばこ</td>
                 <td>タバコ</td>
-                <td><i>tabako</i></td>
+                <td><emp>tabako</emp></td>
                 <td>tobacco, cigarette</td>
             </tr>
             <tr>
                 <td>東京</td>
                 <td>とうきょう</td>
                 <td>トウキョウ</td>
-                <td><i>tōkyō</i></td>
+                <td><emp>tōkyō</emp></td>
                 <td>Tokyo</td>
             </tr>
         </table>
-        <figcaption>Equivalence of the three Japanese alphabets. The <i>kanji</i> form is almost always preferred, except in small children's books.</figcaption>
+        <figcaption>Equivalence of the three Japanese alphabets. The <emp>kanji</emp> form is almost always preferred, except in small children's books.</figcaption>
     </figure>
 </div>
 

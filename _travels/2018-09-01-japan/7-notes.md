@@ -24,7 +24,7 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 	<tr>
 		<td><a href="https://en.wikipedia.org/wiki/Dir_En_Grey">DIR EN GREY</a></td>
 		<td>Gothic metal, death metal</td>
-		<td style="white-space: nowrap;"><a href="https://www.youtube.com/watch?v=hGW4b28wF80"><i>Uroko</i></a> (2014)</td>
+		<td style="white-space: nowrap;"><a href="https://www.youtube.com/watch?v=hGW4b28wF80"><emp>Uroko</emp></a> (2014)</td>
 	</tr>
 	<tr>
 		<td><a href="https://en.wikipedia.org/wiki/Girugamesh">Girugamesh</a></td>
@@ -47,16 +47,16 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 		<td>Hyakkei</td>
 		<td>A random finding via Youtube</td>
 		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=LKM3iLzvVKE"><i>Okurimono</i></a>, a full album of relaxing music
+			<a href="https://www.youtube.com/watch?v=LKM3iLzvVKE"><emp>Okurimono</emp></a>, a full album of relaxing music
 		</td>
 	</tr>
 	<tr>
 		<td><a href="https://en.wikipedia.org/wiki/Last_Alliance_(band)">Last Alliance</a></td>
 		<td>Indie/punk rock</td>
 		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=ruSGE0d22is"><i>HEKIREKI</i></a> (2009)<br>
+			<a href="https://www.youtube.com/watch?v=ruSGE0d22is"><emp>HEKIREKI</emp></a> (2009)<br>
 			<a href="https://www.youtube.com/watch?v=mO_IyKidi64">Looking for the rainy sky</a> (2010)<br>
-			<a href="https://www.youtube.com/watch?v=wZbv8f7aPh8">ディデュディディ</a> [<i>Didyudidi</i>] (2013)
+			<a href="https://www.youtube.com/watch?v=wZbv8f7aPh8">ディデュディディ</a> [<emp>Didyudidi</emp>] (2013)
 		</td>
 	</tr>
 	<tr>
@@ -70,7 +70,7 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 		<td><a href="https://en.wikipedia.org/wiki/Monoral">Monoral</a></td>
 		<td>Alternative rock<br>Curiously, its two members fluently speak English</td>
 		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=hlgc3_4WL0M"><i>Kiri</i></a> (2006), is also the opening song of <a href="https://en.wikipedia.org/wiki/Ergo_Proxy">Ergo Proxy</a>
+			<a href="https://www.youtube.com/watch?v=hlgc3_4WL0M"><emp>Kiri</emp></a> (2006), is also the opening song of <a href="https://en.wikipedia.org/wiki/Ergo_Proxy">Ergo Proxy</a>
 		</td>
 	</tr>
 	<tr>
@@ -80,9 +80,9 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 			Formed in Ibaraki
 		</td>
 		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=l-Up6wbyWbM"><i>Zetsubou - Sin</i></a> (2017; original <a href="https://www.youtube.com/watch?v=znYCs1FxdWE">2002</a>)<br>
-			<a href="https://www.youtube.com/watch?v=fofJUvZ2SIk"><i>Shiawaze no Shuuchaku - Sin</i></a> (2017; original <a href="https://www.youtube.com/watch?v=hVA8MkOz2iY">2002</a>)<br>
-			<a href="https://www.youtube.com/watch?v=AwED0S6IMPQ"><i>Ryūsei</i></a> (2006)<br>
+			<a href="https://www.youtube.com/watch?v=l-Up6wbyWbM"><emp>Zetsubou - Sin</emp></a> (2017; original <a href="https://www.youtube.com/watch?v=znYCs1FxdWE">2002</a>)<br>
+			<a href="https://www.youtube.com/watch?v=fofJUvZ2SIk"><emp>Shiawaze no Shuuchaku - Sin</emp></a> (2017; original <a href="https://www.youtube.com/watch?v=hVA8MkOz2iY">2002</a>)<br>
+			<a href="https://www.youtube.com/watch?v=AwED0S6IMPQ"><emp>Ryūsei</emp></a> (2006)<br>
 			<a href="https://www.youtube.com/watch?v=KP619P2G1d0">Fuzz</a> (2008)<br>
 			<a href="https://www.youtube.com/watch?v=lTADcTDxJ-0">レクイエム</a> [<em>Requiem</em>] (2018)
 		</td>
