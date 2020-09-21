@@ -1,8 +1,8 @@
 <div class="div-of-images">
     <figure>
         <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.5000;"><img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg"></div>
-            <div class="flex-image" style="flex: 1.1068;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/850px-Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg"></div>
+            <div class="flex-image" style="flex: 1.5000;"><img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Flag of Japan"></div>
+            <div class="flex-image" style="flex: 1.1068;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/850px-Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg" alt="Map of Japan"></div>
         </div>
     </figure>
 </div>
@@ -21,7 +21,7 @@
 
 <div class="div-of-images">
     <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" width="50%" style="display: inline">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" alt="Administrative divisions of Japan" width="50%" style="display: inline">
         <figcaption>Administrative divisions of Japan. White lines delineate prefectures, and colors indicate the regions: <span style="color:red"><strong>Hokkaido</strong></span>, <span style="color:#DDDD00"><strong>Tohoku</strong></span>, <span style="color:green"><strong>Kanto</strong></span>, <span style="color:cyan"><strong>Chubu</strong></span>, <span style="color:blue"><strong>Kansai</strong></span>, <span style="color:orange"><strong>Chugoku</strong></span>, <span style="color:gray"><strong>Kyushu</strong></span> and <span style="color:purple"><strong>Shikoku</strong></span></figcaption>
     </figure>
 </div>

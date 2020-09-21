@@ -52,11 +52,11 @@ During my stay at NITS I had right to a small room with a bed, a desk, a drying 
 	<figure>
 	    <table class="table-of-images">
 		    <tr>
-                <td rowspan="2"  width="34.2%" vertical-align="center"><img style="width:100%" src="https://i.imgur.com/dvPNUVs.jpg" /></td>
-                <td width="30%" vertical-align="center"><img style="width:100%" src="https://i.imgur.com/Hna0o5c.jpg" /></td>
+                <td rowspan="2"  width="34.2%" vertical-align="center"><img src="https://i.imgur.com/dvPNUVs.jpg" alt="My room"/></td>
+                <td width="30%" vertical-align="center"><img src="https://i.imgur.com/Hna0o5c.jpg" alt="View from my room, to the left" /></td>
             </tr>
             <tr>
-		        <td width="30%" vertical-align="center"><img style="width:100%" src="https://i.imgur.com/I5Ilc1j.jpg" /></td>
+		        <td width="30%" vertical-align="center"><img src="https://i.imgur.com/I5Ilc1j.jpg" alt="View from my room, to the right" /></td>
             </tr>
 		</table>
 	    <figcaption>My room, and the views from the window</figcaption>
@@ -226,10 +226,10 @@ It was not much to worry as the constructions at NITS were pretty solid, but the
 <div class="div-of-images">
     <figure>
         <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.00;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jebi_2018_track.png"></div>
-            <div class="flex-image" style="flex: 0.75;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Jebi_2018-08-31_0330Z.jpg"></div>
+            <div class="flex-image" style="flex: 1.00;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jebi_2018_track.png" alt="Typhoon Jebi track and intensity"></div>
+            <div class="flex-image" style="flex: 0.75;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Jebi_2018-08-31_0330Z.jpg" alt="Satellite footage of typhoon Jebi"></div>
         </div>
-    	<figcaption>On the left, the storm track and intensity; on the right, satellite photage of typhoon Jebi on the 31 Aug. From the public domain</figcaption>
+    	<figcaption>On the left, the storm track and intensity; on the right, satellite footage of typhoon Jebi on the 31 Aug. From the public domain</figcaption>
     </figure>
 </div>
 
@@ -244,8 +244,8 @@ The next night, another earthquake happened, this time at 6 Sep 3:08. I was abou
 <div class="div-of-images">
     <figure>
         <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 0.8947;"><img src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg"></div>
-            <div class="flex-image" style="flex: 0.8512;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg"></div>
+            <div class="flex-image" style="flex: 0.8947;"><img src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg" alt="USGS intensity map of Ibaraki September 5 earthquake"></div>
+            <div class="flex-image" style="flex: 0.8512;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg" alt="USGS shakemap of Hokkaido September 6 earthquake"></div>
         </div>
     	<figcaption>USGS intensity map of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/dyfi/intensity">Ibaraki Sep 5 earthquake</a> (left) and shakemap of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive#dyfi">Hokkaido Sep 6 earthquake</a> (right)</figcaption>
     </figure>
@@ -260,8 +260,8 @@ During the second part of the competition, I had to use the toilet. First of all
 <div class="div-of-images">
     <figure style="width: 80%;">
         <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg"></div>
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg"></div>
+            <div class="flex-image" style="flex: 1.3333;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg" alt="Washlet"></div>
+            <div class="flex-image" style="flex: 0.7500;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg" alt="Japanese squat toilet"></div>
         </div>
     	<figcaption>A washlet and a Japanese squat toilet. From the public domain</figcaption>
     </figure>
