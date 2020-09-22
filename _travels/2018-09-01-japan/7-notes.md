@@ -10,81 +10,35 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 1. I have never seen the videoclips, so there is a good chance they are quite strange. It never really bothered me, as music is good for what it's worth, not just because it has a cool videoclip.
 2. For about half of these songs I have never seen the lyrics and its translation. To be honest, I like most of these songs because of the mellody, not the lyrics, so I end up saving songs based pretty much on the melody only. That means I have no idea what half of these songs are about 😅.
 
-<table>
-	<tr>
-		<th>Artist/band</th>
-		<th>Genre and comments</th>
-		<th>Songs</th>
-	</tr>
-	<tr>
-		<td><a href="https://en.wikipedia.org/wiki/Air_(band)">Air</a></td>
-		<td><a href="https://en.wikipedia.org/wiki/Dream_pop">Dream pop</a><br>This band is actually French</td>
-		<td style="white-space: nowrap;"><a href="https://www.youtube.com/watch?v=O0k7by3TkAQ">Sex Born Poison</a> (2001)</td>
-	</tr>
-	<tr>
-		<td><a href="https://en.wikipedia.org/wiki/Dir_En_Grey">DIR EN GREY</a></td>
-		<td>Gothic metal, death metal</td>
-		<td style="white-space: nowrap;"><a href="https://www.youtube.com/watch?v=hGW4b28wF80"><emp>Uroko</emp></a> (2014)</td>
-	</tr>
-	<tr>
-		<td><a href="https://en.wikipedia.org/wiki/Girugamesh">Girugamesh</a></td>
-		<td>Alternative metal/rock<br>Disbanded 2016</td>
-		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=lk22alvpfpQ">Drain</a> (2013), one of my favorites<br>
-			<a href="https://www.youtube.com/watch?v=k6tXaZtwvrQ">Limit Break</a> (2013)<br>
-			<a href="https://www.youtube.com/watch?v=qb8w1WhK3Os">period</a> (2016), their last song
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://en.wikipedia.org/wiki/Golden_Bomber">Golden Bomber</a></td>
-		<td>Pop/punk</td>
-		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=BC9P3DSZu0A">女々しくて</a> (2009)<br>
-    		<a href="https://www.youtube.com/watch?v=r_k6MOi40Ys">Dance My Generation</a> (2013)
-		</td>
-	</tr>
-	<tr>
-		<td>Hyakkei</td>
-		<td>A random finding via Youtube</td>
-		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=LKM3iLzvVKE"><emp>Okurimono</emp></a>, a full album of relaxing music
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://en.wikipedia.org/wiki/Last_Alliance_(band)">Last Alliance</a></td>
-		<td>Indie/punk rock</td>
-		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=ruSGE0d22is"><emp>HEKIREKI</emp></a> (2009)<br>
-			<a href="https://www.youtube.com/watch?v=mO_IyKidi64">Looking for the rainy sky</a> (2010)<br>
-			<a href="https://www.youtube.com/watch?v=wZbv8f7aPh8">ディデュディディ</a> [<emp>Didyudidi</emp>] (2013)
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://en.wikipedia.org/wiki/Mono_(Japanese_band)">MONO</a></td>
-		<td>Instrumental and contemporary classical music</td>
-		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=YEbRNqnwqmY">Recoil, Ignite</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://en.wikipedia.org/wiki/Monoral">Monoral</a></td>
-		<td>Alternative rock<br>Curiously, its two members fluently speak English</td>
-		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=hlgc3_4WL0M"><emp>Kiri</emp></a> (2006), is also the opening song of <a href="https://en.wikipedia.org/wiki/Ergo_Proxy">Ergo Proxy</a>
-		</td>
-	</tr>
-	<tr>
-		<td><a href="https://en.wikipedia.org/wiki/Mucc">MUCC</a></td>
-		<td>
-			Alternative metal<br>
-			Formed in Ibaraki
-		</td>
-		<td style="white-space: nowrap;">
-			<a href="https://www.youtube.com/watch?v=l-Up6wbyWbM"><emp>Zetsubou - Sin</emp></a> (2017; original <a href="https://www.youtube.com/watch?v=znYCs1FxdWE">2002</a>)<br>
-			<a href="https://www.youtube.com/watch?v=fofJUvZ2SIk"><emp>Shiawaze no Shuuchaku - Sin</emp></a> (2017; original <a href="https://www.youtube.com/watch?v=hVA8MkOz2iY">2002</a>)<br>
-			<a href="https://www.youtube.com/watch?v=AwED0S6IMPQ"><emp>Ryūsei</emp></a> (2006)<br>
-			<a href="https://www.youtube.com/watch?v=KP619P2G1d0">Fuzz</a> (2008)<br>
-			<a href="https://www.youtube.com/watch?v=lTADcTDxJ-0">レクイエム</a> [<em>Requiem</em>] (2018)
-		</td>
-	</tr>
-</table>
+(Strangely, Girugamesh have been removing their songs from Spotify)
+
+<iframe class="spotify" src="https://open.spotify.com/embed/playlist/6GAkfp0JbAEoqcRkaoH6qt" height="280" allow="encrypted-media"></iframe>
+
+<div class="responsive_row">
+	<div class="column">
+		{% for band in site.data.music_japan.bands_left %}
+		<div class="band">
+			<div class="band-name"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyl_record.svg"> <a href="{{ band.link }}">{{ band.name }}</a></div>
+			{% for song in band.songs %}
+			<div class="song"><a href="{{ song.link }}">{{ song.name }}</a> <span style="float: right;">({{ song.year }})</span></div>
+			{% if forloop.last == false %}
+			<hr>
+			{% endif %}
+			{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+	<div class="column">
+		{% for band in site.data.music_japan.bands_right %}
+		<div class="band">
+			<div class="band-name"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyl_record.svg"> <a href="{{ band.link }}">{{ band.name }}</a></div>
+			{% for song in band.songs %}
+			<div class="song"><a href="{{ song.link }}">{{ song.name }}</a> <span style="float: right;">({{ song.year }})</span></div>
+			{% if forloop.last == false %}
+			<hr>
+			{% endif %}
+			{% endfor %}
+		</div>
+		{% endfor %}
+	</div>
+</div>
