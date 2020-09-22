@@ -1,15 +1,14 @@
 /* Create two equal columns that floats next to each other */
 
-div.column {
+div.responsive_row>div.column {
     float: left;
     width: 50%;
-    padding: 10px;
 }
 
 
 /* Clear floats after the columns */
 
-div.row:after {
+div.responsive_row:after {
     content: "";
     display: table;
     clear: both;
@@ -18,8 +17,8 @@ div.row:after {
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 
-@media screen and (max-width: 600px) {
-    div.column {
+@media screen and (max-width: 700px) {
+    div.responsive_row>div.column {
         width: 100%;
     }
 }
