@@ -11,7 +11,7 @@ One of my favourite activities is travelling. Although most travels have nothing
     {% for travel in travel_sorted %}
         <li>
             <span class="post-meta">{{ travel.when }}</span>
-            <h3><a class="post-link" href="{{ travel.url }}"><img class="inline" src="{{ travel.country_flag }}"> {{ travel.country }} ({{ travel.where }})</a></h3>
+            <h3><a class="post-link" href="{{ travel.url }}">{{ travel.country_flag_emoji }} {{ travel.country }} ({{ travel.where }})</a></h3>
         </li>
     {% endfor %}
 </ul>
