@@ -1,0 +1,170 @@
+{
+    "bands_left": [
+        {
+            "link": "https://en.wikipedia.org/wiki/Air_(band)",
+            "name": "Air",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=O0k7by3TkAQ", 
+                    "name": "Sex Born Poison",
+                    "year": "2001"
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Dir_En_Grey",
+            "name": "DIR EN GREY",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=hGW4b28wF80",
+                    "name": "Uroko",
+                    "year": "2014"
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Girugamesh",
+            "name": "Girugamesh",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=lk22alvpfpQ",
+                    "name": "Drain",
+                    "year": "2013"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=k6tXaZtwvrQ",
+                    "name": "Limit Break",
+                    "year": "2013"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=qb8w1WhK3Os",
+                    "name": "period",
+                    "year": "2016"
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Golden_Bomber",
+            "name": "Golden Bomber",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=BC9P3DSZu0A",
+                    "name": ">女々しくて",
+                    "year": "2009"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=r_k6MOi40Ys",
+                    "name": "Dance My Generation",
+                    "year": "2013"
+                }
+            ]
+        },
+        {
+            "name": "Hyakkei",
+            "link": "https://open.spotify.com/artist/6Xktu0x9IXB4ghFSPw6Jqv?si=D_2NwmkYSwKuZB8vHTwh1Q",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=LKM3iLzvVKE",
+                    "name": "Okurimono",
+                    "year": "2009"
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Last_Alliance_(band)",
+            "name": "Last Alliance",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=ruSGE0d22is",
+                    "name": "HEKIREKI",
+                    "year": "2009"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=mO_IyKidi64",
+                    "name": "Looking for the rainy sky",
+                    "year": "2010"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=wZbv8f7aPh8",
+                    "name": "ディデュディディ [<emp>Didyudidi</emp>]",
+                    "year": "2013"
+                }
+            ]
+        }
+    ],
+    "bands_right": [
+        {
+            "link": "https://en.wikipedia.org/wiki/Mono_(Japanese_band)",
+            "name": "MONO",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=YEbRNqnwqmY",
+                    "name": "Recoil, Ignite",
+                    "year": "2014"
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Monoral",
+            "name": "Monoral",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=kjaxYB_INk4",
+                    "name": "Sparta",
+                    "year": "2006"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=hlgc3_4WL0M",
+                    "name": "Kiri",
+                    "year": "2006"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=mcWupRAjTOI",
+                    "name": "70 HOURS",
+                    "year": "2009"
+                }
+            ]
+        },
+        {
+            "link": "https://en.wikipedia.org/wiki/Mucc",
+            "name": "MUCC",
+            "songs": [
+                {
+                    "link": "https://www.youtube.com/watch?v=l-Up6wbyWbM",
+                    "name": "Zetsubou - Sin",
+                    "year": "2017"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=znYCs1FxdWE",
+                    "name": "Zetsubou",
+                    "year": "2002"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=fofJUvZ2SIk",
+                    "name": "Shiawaze no Shuuchaku - Sin",
+                    "year": "2017"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=hVA8MkOz2iY",
+                    "name": "Shiawaze no Shuuchaku",
+                    "year": "2002"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=AwED0S6IMPQ",
+                    "name": "Ryūsei",
+                    "year": "2006"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=KP619P2G1d0",
+                    "name": "Fuzz",
+                    "year": "2008"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=lTADcTDxJ-0",
+                    "name": "レクイエム [<em>Requiem</em>]",
+                    "year": "2018"
+                }
+            ]
+        }
+    ]
+}

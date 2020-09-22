@@ -1,0 +1,266 @@
+{
+    "bands_left": [
+        {
+            "name": "51 Koodia",
+            "link": "https://fi.wikipedia.org/wiki/51koodia",
+            "songs": [
+                {
+                    "name": "Kahleet",
+                    "year": "2010",
+                    "link": "https://www.youtube.com/watch?v=wPolrCWmw14"
+                }
+            ]
+        },
+        {
+            "name": "Amorphis",
+            "link": "https://en.wikipedia.org/wiki/Amorphis",
+            "songs": [
+                {
+                    "name": "House of Sleep",
+                    "year": "2006",
+                    "link": "https://www.youtube.com/watch?v=CleR2nYASdo"
+                },
+                {
+                    "name": "Silver Bride",
+                    "year": "2009",
+                    "link": "https://www.youtube.com/watch?v=8qjiWb1O_L4"
+                },
+                {
+                    "name": "Death of a King",
+                    "year": "2015",
+                    "link": "https://www.youtube.com/watch?v=Kc-gEds3eTM"
+                }
+            ]
+        },
+        {
+            "name": "Apocalyptica",
+            "link": "https://en.wikipedia.org/wiki/Apocalyptica",
+            "songs": [
+                {
+                    "name": "Path",
+                    "year": "2000",
+                    "link": "https://www.youtube.com/watch?v=m9xqO9kKqyk"
+                },
+                {
+                    "name": "I Don't Care",
+                    "year": "2007",
+                    "link": "https://www.youtube.com/watch?v=yN3lUM-r6bk"
+                },
+                {
+                    "name": "Fields of Verdun",
+                    "year": "2019",
+                    "link": "https://www.youtube.com/watch?v=bQDJpL_PbGg"
+                }
+            ]
+        },
+        {
+            "name": "Apulanta",
+            "link": "https://en.wikipedia.org/wiki/Apulanta",
+            "songs": [
+                {
+                    "name": "Vasten mun kasvojani",
+                    "year": "2010",
+                    "link": "https://www.youtube.com/watch?v=4TKzMUlIbaE"
+                }
+            ]
+        },
+        {
+			"link": "https://en.wikipedia.org/wiki/Arion_(band)",
+			"name": "Arion",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=wpqgjTDO1Jo",
+					"name": "Unforgivable",
+					"year": "2018"
+				}
+			]
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Battle_Beast_(band)",
+			"name": "Battle Beast",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=Q2Ly7TFiR2I",
+					"name": "Straight to the Heart",
+					"year": "2017"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=P3k7r_U8b40",
+					"name": "Familiar Hell",
+					"year": "2017"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=8lKYdrL-AAw",
+					"name": "King for a Day",
+					"year": "2017"
+				}
+			]
+        },
+        {
+			"link": "https://www.deadendfinland.com/",
+			"name": "Dead End Finland",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=QNH3HtHLwIQ",
+					"name": "War Forevermore",
+					"year": "2018"
+				}
+			]
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Ember_Falls",
+			"name": "Ember Falls",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=uzSJiXVyCZs",
+					"name": "Shut Down With Me",
+                    "year": "2017"
+                },
+				{
+					"link": "https://www.youtube.com/watch?v=trVk6i_FazU",
+					"name": "The Cost Of Doing Business",
+                    "year": "2017"
+                }
+			]
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Entwine",
+			"name": "Entwine",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=48fz9dnJl80",
+					"name": "Plastic World",
+					"year": "2015"
+				}
+			]
+		}
+    ],
+    "bands_right": [
+        {
+			"link": "https://en.wikipedia.org/wiki/Ghost_Brigade_(band)",
+			"name": "Ghost Brigade",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=GRwq_Q9y86c",
+					"name": "Into The Black Light",
+					"year": "2009"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=4HC3nLsXhLo",
+					"name": "Suffocated",
+					"year": "2009"
+				}
+			]
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Insomnium",
+			"name": "Insomnium",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=vBZ5SLJmfdw",
+					"name": "While We Sleep",
+					"year": "2014"
+				}
+			]
+        },
+        {
+			"link": "https://en.wikipedia.org/wiki/Lordi",
+			"name": "Lordi",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=-6Xl9tBWt54",
+					"name": "Hard Rock Hallelujah",
+					"year": "2006"
+				}
+			]
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Sonata_Arctica",
+			"name": "Sonata Arctica",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=xLwpj_i1tvw",
+					"name": "Replica",
+					"year": "1999"
+				}
+			]
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Stam1na",
+			"name": "Stam1na",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=XP0cqD9XgeQ",
+					"name": "Kadonneet kolme sanaa",
+					"year": "2005"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=GsqyLycL8Hw",
+					"name": "Muistipalapelit",
+					"year": "2008"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=1Wrkrbi8cmg",
+					"name": "Yhdeksän tien päät",
+					"year": "2008"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=DX-eGPMjMN4",
+					"name": "Kuoliaaksi Ruoskitutu Hevoset",
+					"year": "2014"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=20wHVY3wX-U",
+					"name": "Dynamo",
+					"year": "2014"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=wwTQtNt1QtA",
+					"name": "Ikoneklasmia",
+					"year": "2016"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=F6c8TEZkqTE",
+					"name": "Elokuutio",
+					"year": "2016"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=AuvlwcJvBM0",
+					"name": "Pala palalta",
+					"year": "2016"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=9WssaEigUXk",
+					"name": "Mätä hohtava omena",
+					"year": "2016"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=Bu_pkzLq9_k",
+					"name": "Kuudet raamit",
+					"year": "2016"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=uY5tPP7iSKs",
+					"name": "Valhe",
+					"year": "2016"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=9CyCP-romzo",
+					"name": "Elämänlanka",
+					"year": "2018"
+				}
+			]
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Turmion_K%C3%A4til%C3%B6t",
+			"name": "Turmion Kätilöt",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=wwTQtNt1QtA",
+					"name": "Pyhä Maa",
+					"year": "2013"
+				}
+			]
+		}
+    ]
+}

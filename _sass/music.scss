@@ -1,0 +1,30 @@
+div.band {
+    margin-bottom: 15px;
+}
+
+div.band a {
+    color:inherit
+}
+
+div.band>div.band-name {
+    font-size: 20px;
+}
+
+div.song {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+div.band>hr {
+    margin-left : 20px;
+    margin-right: 20px;
+    color: #F0F0F0;
+}
+
+iframe.spotify {
+    margin-bottom: 15px;
+    width: 100%;
+    border: 0;
+}
