@@ -21,9 +21,6 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 			<div class="band-name"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyl_record.svg"> <a href="{{ band.link }}">{{ band.name }}</a></div>
 			{% for song in band.songs %}
 			<div class="song"><a href="{{ song.link }}">{{ song.name }}</a> <span style="float: right;">({{ song.year }})</span></div>
-			{% if forloop.last == false %}
-			<hr>
-			{% endif %}
 			{% endfor %}
 		</div>
 		{% endfor %}
@@ -34,9 +31,6 @@ As I discover new music mostly via Spofity, there are two things I must mention:
 			<div class="band-name"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyl_record.svg"> <a href="{{ band.link }}">{{ band.name }}</a></div>
 			{% for song in band.songs %}
 			<div class="song"><a href="{{ song.link }}">{{ song.name }}</a> <span style="float: right;">({{ song.year }})</span></div>
-			{% if forloop.last == false %}
-			<hr>
-			{% endif %}
 			{% endfor %}
 		</div>
 		{% endfor %}
