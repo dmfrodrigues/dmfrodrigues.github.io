@@ -135,7 +135,7 @@ Notice that Apache only makes a browser work properly with the files you provide
 
 <div class="div-of-images">
     <figure>
-        <img src="https://binyod.com/linux/intro-to-apache-server/attachment/apache/" alt="Apache default landing page">
+        <img src="https://help.nextcloud.com/uploads/default/optimized/2X/1/1c46cfc954ab87f32bbcec2e6bf73d2f12b07964_1_582x500.png" alt="Apache default landing page" width="80%">
         <figcaption>Apache default landing page</figcaption>
     </figure>
 </div>
