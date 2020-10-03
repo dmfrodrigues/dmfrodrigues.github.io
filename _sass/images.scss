@@ -1,9 +1,12 @@
 figure > img,
 figure div.flex-image-stripe > img {
-    display: inline;
     margin: 2px;
     max-width: 600px;
     max-height: 600px;
+}
+
+figure > img {
+    display: inline;
 }
 
 figure img.discrete {
@@ -39,8 +42,7 @@ table.table-of-images>tr>td, table.table-of-images>tbody>tr>td {
     border: 0;
 }
 
-table.table-in-table {
-    float: left;
+div.flex-image-stripe > table {
     width: auto;
     margin-bottom: 0px;
 }
@@ -53,10 +55,10 @@ div.flex-image-stripe {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: space-around;
 }
 
-div.flex-image-stripe img {
-    float: left;
+div.flex-image-stripe > img {
     flex: 1;
     min-height: 220px;
 }
