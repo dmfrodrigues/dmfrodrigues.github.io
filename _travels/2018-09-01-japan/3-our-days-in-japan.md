@@ -12,33 +12,27 @@ On the other hand, all the other parts of the diet have strong flavors, with qui
 
 A particular aspect of Japanese cuisine is [*Teriyaki*](https://en.wikipedia.org/wiki/Teriyaki) (照り焼き, 'shiny grilling'). It's a cooking technique in which food is grilled with soy sauce and sugar (the mix of soy sauce and sugar can also be referred to as teriyaki sauce), which gives it a shiny luster after cooked. From our meals at the canteen at NITS I remember chicken teriyaki was a common option. At the canteen the cooks made a certain effort to cook simple foods so we could easily choose something that was not too strange for us, but it was all Japanese food that we ate everyday, and I should say I was very surprised that the food was really good. Even more strangely, it was very good at every meal I had there during the whole stay, and I would often go back to the buffet area to get some more food.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/Adbdf0n.jpg" alt="Dinner at NITS" width="70%" style="display: inline">
-        <figcaption>A usual dinner @NITS</figcaption>
-    </figure>
-</div>
+<figure>
+    <img class="discrete" src="https://i.imgur.com/Adbdf0n.jpg" alt="Dinner at NITS">
+    <figcaption>A usual dinner @NITS</figcaption>
+</figure>
 
 I also got to taste [*Ebi Furai*](https://en.wikipedia.org/wiki/Fried_shrimp#Japan) (also known as *Ebi Fry*), which consists of huge shrimps deep-fried in hot cooking oil. It is very good, and I wish I had discovered it was actually fried shrimp right at the beginning, as I ended up eating those only once.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/CdazziEbifurai1.jpg" alt="Public baths at NITS" width="70%" style="display: inline">
-        <figcaption>Ebi furai. From the public domain</figcaption>
-    </figure>
-</div>
+<figure>
+    <img class="discrete" src="https://upload.wikimedia.org/wikipedia/commons/5/59/CdazziEbifurai1.jpg" alt="Public baths at NITS">
+    <figcaption>Ebi furai. From the public domain</figcaption>
+</figure>
 
 Breakfast was particularly surprising: I was expecting at least some milk and cereals. Instead, milk was nowhere to be found, nor cereals, but instead water, tea and some of the things I would only expect to find on a meal after midday, like chicken (and rice, obviously).
 
 There were only a few exceptions to this heavenly description.
 - We ate from bento boxes (弁当, *bentō*, borrowed from Chinese, meaning 'conveninent') once, and it was not the most pleasing experience, as the food was cold (as expected though), the rice tasted like plastic and the rest was mostly half-fried fish, lotus rhizomes, some sort of dumpling and some more things I still don't know to this day (oh, and a juicebox with tea).
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/gMwBKFl.jpg" alt="Bento box" width="50%" style="display: inline">
-        <figcaption><emp>The</emp> bento box. Credits go to Pedro Paredes</figcaption>
-    </figure>
-</div>
+<figure>
+    <img class="discrete" src="https://i.imgur.com/gMwBKFl.jpg" alt="Bento box">
+    <figcaption><emp>The</emp> bento box. Credits go to Pedro Paredes</figcaption>
+</figure>
 
 - While in Tokyo we had little time to find a decent place to have lunch. Some of us were going for sushi, but I preferred something else so we split into two groups and I ended up having a McDonald's burger (DON'T ask for iced tea in Japan, for there is a considerable chance they'll give you a hot, regular tea instead).
 
@@ -67,12 +61,10 @@ We had free WiFi all over NITS, and in some places I even had [eduroam](https://
 
 However there was an important detail missing: most rooms had no showers. And since there were far less girls than boys at the IOI the rooms with showers were allocated to girls, while boys had to use the public baths (referred to as *Daiyokujō*, literally 'big bath'). And I should say it was one of the most bizarre yet surprising experiences I had abroad; I won't go into much detail as you can read more about [public baths in Japan](https://en.wikipedia.org/wiki/Sent%C5%8D), I'll just say it had around 25 seated places lined up in 4 rows and a large hot bath.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/bqMbFTe.jpg" alt="Public baths at NITS" width="80%" style="display: inline">
-        <figcaption><a href="https://www.nits.go.jp/en/about/directories.html">Public baths at NITS</a></figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/bqMbFTe.jpg" alt="Public baths at NITS">
+    <figcaption><a href="https://www.nits.go.jp/en/about/directories.html">Public baths at NITS</a></figcaption>
+</figure>
 
 ### The language
 
@@ -165,57 +157,55 @@ I found the cost of living in Japan quite affordable when compared to Portugal; 
 
 There was one particularity I noticed in Japanese currency: all coins are relatively 'normal' (they have no holes and bear their values in arabic numerals), except for one small copper coin: it has a hole and bears no value in arabic numerals. Yu-san then explained us they're worth ¥5, and since they're called 五円 (*go en*, 'five yen') which sounds similar to 御縁 (*go-en*, 'spiritual connection') they're usually kept in wallets or thrown in shrines for good luck and prosperity by establishing a good connection with spirits. She additionally told us that ¥50 coins, called 五十円 (*gojū-en*, 'fifty yen'), are also considered by some to give good luck due to similarities with the 5¥ coin (similar name, and the hole).
 
-<div class="div-of-images">
-    <figure>
-        <table class="table-of-images">
-            <tr>
-                <td>
-                    <table class="table-in-table">
-                        <tr>
-                            <th>Coin</th>
-                            <th>Value</th>
-                            <th>Coin</th>
-                            <th>Value</th>
-                        </tr>
-                        <tr>
-                            <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/1JPY.JPG" width="100px"></td><td>¥1</td>
-                            <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/50JPY.JPG" width="100px"></td><td>¥50</td>
-                        </tr>
-                        <tr>
-                            <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/5JPY.JPG" width="100px"></td><td>¥5</td>
-                            <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/100JPY.JPG" width="100px"></td><td>¥100</td>
-                        </tr>
-                        <tr>
-                            <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/10JPY.JPG" width="100px"></td><td>¥10</td>
-                            <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/500JPY.JPG" width="100px"></td><td>¥500</td>
-                        </tr>
-                    </table>
-                </td>
-                <td>
-                    <table class="table-in-table">
-                        <tr>
-                            <th>Note</th>
-                            <th>Value</th>
-                        </tr>
-                        <tr>
-                            <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/1000_yen_banknote_2004.jpg" width="100px"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/1000_Yen_from_Back.jpg" width="100px"></td><td>¥1,000</td>
-                        </tr>
-                        <tr>
-                            <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/P103-2000Yen-%282000%29_front.jpg" width="100px"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/2000_Yen_Murasaki_Shikibu.jpg" width="100px"></td><td>¥2,000</td>
-                        </tr>
-                        <tr>
-                            <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/5000_Yenes_%282004%29_%28Anverso%29.jpg" width="100px"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/5000_Yenes_%282004%29_%28Reverso%29.jpg" width="100px"></td><td>¥5,000</td>
-                        </tr>
-                        <tr>
-                            <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/10000_Yenes_%28Anverso%29.jpg" width="100px"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/10000_Yenes_%28Reverso%29.jpg" width="100px"></td><td>¥10,000</td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
-        </table>
-	    <figcaption>Japanese yen coins and banknotes</figcaption>
-    </figure>
-</div>
+<figure>
+    <table class="table-of-images">
+        <tr>
+            <td>
+                <table class="table-in-table">
+                    <tr>
+                        <th>Coin</th>
+                        <th>Value</th>
+                        <th>Coin</th>
+                        <th>Value</th>
+                    </tr>
+                    <tr>
+                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/1JPY.JPG"></td><td>¥1</td>
+                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/50JPY.JPG"></td><td>¥50</td>
+                    </tr>
+                    <tr>
+                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/5JPY.JPG"></td><td>¥5</td>
+                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/100JPY.JPG"></td><td>¥100</td>
+                    </tr>
+                    <tr>
+                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/10JPY.JPG"></td><td>¥10</td>
+                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/500JPY.JPG"></td><td>¥500</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table class="table-in-table">
+                    <tr>
+                        <th>Note</th>
+                        <th>Value</th>
+                    </tr>
+                    <tr>
+                        <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/1000_yen_banknote_2004.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/1000_Yen_from_Back.jpg"></td><td>¥1,000</td>
+                    </tr>
+                    <tr>
+                        <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/P103-2000Yen-%282000%29_front.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/2000_Yen_Murasaki_Shikibu.jpg"></td><td>¥2,000</td>
+                    </tr>
+                    <tr>
+                        <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/5000_Yenes_%282004%29_%28Anverso%29.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/5000_Yenes_%282004%29_%28Reverso%29.jpg"></td><td>¥5,000</td>
+                    </tr>
+                    <tr>
+                        <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/10000_Yenes_%28Anverso%29.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/10000_Yenes_%28Reverso%29.jpg"></td><td>¥10,000</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <figcaption>Japanese yen coins and banknotes</figcaption>
+</figure>
 
 ### The earthquakes and typhoons
 
@@ -223,15 +213,13 @@ On the eve of the second day of the competition (4 Sep), we were warned [typhoon
 
 It was not much to worry as the constructions at NITS were pretty solid, but the trees shook quite a lot during the afternoon, and I experienced the strongest winds in my life, capable of dragging a standing person. I definitely don't live in a hurricane/typhoon area; on the other hand the Pacific has a typhoon season every **year**.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.00;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jebi_2018_track.png" alt="Typhoon Jebi track and intensity"></div>
-            <div class="flex-image" style="flex: 0.75;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Jebi_2018-08-31_0330Z.jpg" alt="Satellite footage of typhoon Jebi"></div>
-        </div>
-    	<figcaption>On the left, the storm track and intensity; on the right, satellite footage of typhoon Jebi on the 31 Aug. From the public domain</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 1.00;" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jebi_2018_track.png" alt="Typhoon Jebi track and intensity">
+        <img style="flex: 0.75;" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Jebi_2018-08-31_0330Z.jpg" alt="Satellite footage of typhoon Jebi">
+    </div>
+    <figcaption>On the left, the storm track and intensity; on the right, satellite footage of typhoon Jebi on the 31 Aug.<br>From the public domain</figcaption>
+</figure>
 
 During the night the rain and strong winds didn't bother me much. I woke up around 5am for no special reason, so I tried to go to sleep again. At Sep 5, 5:11 ([Sep 4, 20:11 UTC](https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/executive)), the earth started shaking. Quite violently. I was so scared I crawled under the desk from my bed, and started counting. The earth shook for 15 seconds, and then it all stopped, it went as rapidly as it came. I stayed some more time under the desk, then got out of my room to check what was happening in the corridor; not a single sound, absolute silence as before. Needless to say I didn't sleep the rest of the night.
 
@@ -241,15 +229,13 @@ The next day (5 Sep) I checked the news, but there was barely any trace of what 
 
 The next night, another earthquake happened, this time at 6 Sep 3:08. I was about to go to sleep as the shaking started. It was clearly less intense, and since I already knew what was going on I just stayed laid in my bed, feeling it shaking a bit. This second time was a curious experience, it was just unfortunate to know the next day that it was so intense it had its own [Wikipedia page](https://en.wikipedia.org/wiki/2018_Hokkaido_Eastern_Iburi_earthquake). It had magnitude 6.6, and happened in the southern coastal subprefecture of [Iburi, Hokkaido](https://en.wikipedia.org/wiki/Iburi_Subprefecture), about 30km below ground. It caused several service disruptions and landslides in Hokkaido, killing 41, injuring 691 and causing power outages for 5.3M people. The total damage was estimated to be at least 367.5 billion yen (2.85 billion €, about 1.4% of the Portuguese GDP, which means we are just one or two degrees of magnitude below the scale of what a country produces in a year).
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 0.8947;"><img src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg" alt="USGS intensity map of Ibaraki September 5 earthquake"></div>
-            <div class="flex-image" style="flex: 0.8512;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg" alt="USGS shakemap of Hokkaido September 6 earthquake"></div>
-        </div>
-    	<figcaption>USGS intensity map of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/dyfi/intensity">Ibaraki Sep 5 earthquake</a> (left) and shakemap of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive#dyfi">Hokkaido Sep 6 earthquake</a> (right)</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 0.8947;" src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg" alt="USGS intensity map of Ibaraki September 5 earthquake">
+        <img style="flex: 0.8512;" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg" alt="USGS shakemap of Hokkaido September 6 earthquake">
+    </div>
+    <figcaption>USGS intensity map of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/dyfi/intensity">Ibaraki Sep 5 earthquake</a> (left) and shakemap of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive#dyfi">Hokkaido Sep 6 earthquake</a> (right)</figcaption>
+</figure>
 
 A fun fact for some, an inconvenience and a tragic event for others.
 
@@ -257,13 +243,11 @@ A fun fact for some, an inconvenience and a tragic event for others.
 
 During the second part of the competition, I had to use the toilet. First of all, the queue was so long I had to wait for about 15min for an empty toilet in the middle of the competition. Secondly, as my time finally came I just entered the first empty toilet, only to find it was a [squat toilet](https://en.wikipedia.org/wiki/Squat_toilet), a first to me. It is however paradigmatic how a society obsessed with hygiene and [washlets](https://en.wikipedia.org/wiki/Washlet), the most technologically and functionally advanced Western-style toilets, can coexist with apparently traditional squat toilets.
 
-<div class="div-of-images">
-    <figure style="width: 80%;">
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg" alt="Washlet"></div>
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg" alt="Japanese squat toilet"></div>
-        </div>
-    	<figcaption>A washlet and a Japanese squat toilet. From the public domain</figcaption>
-    </figure>
-</div>
+<figure style="width: 80%;">
+    <div class="flex-image-stripe">
+        <img style="flex: 1.3333;" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg" alt="Washlet">
+        <img style="flex: 0.7500;" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg" alt="Japanese squat toilet">
+    </div>
+    <figcaption>A washlet and a Japanese squat toilet. From the public domain</figcaption>
+</figure>
 

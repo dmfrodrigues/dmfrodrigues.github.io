@@ -17,7 +17,7 @@ It was also in this epoch, in 1543, that the Portuguese arrived at [Tanegashima]
 
 <div class="div-of-images">
     <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Portuguese_Black_Ship_Namban.jpg" alt="Portuguese black ship arriving at Japan" width="80%" style="display: inline">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Portuguese_Black_Ship_Namban.jpg" alt="Portuguese black ship arriving at Japan">
         <figcaption>Portuguese <a href="https://en.wikipedia.org/wiki/Black_Ships">black ship</a> arriving at Japan, 16th century</figcaption>
     </figure>
 </div>

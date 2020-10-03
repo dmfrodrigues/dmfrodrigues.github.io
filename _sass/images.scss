@@ -1,5 +1,14 @@
-img {
+figure > img,
+figure div.flex-image-stripe > img {
+    display: inline;
     margin: 2px;
+    max-width: 600px;
+    max-height: 600px;
+}
+
+figure img.discrete {
+    max-width: 520px;
+    max-height: 400px;
 }
 
 img.half {
@@ -36,24 +45,20 @@ table.table-in-table {
     margin-bottom: 0px;
 }
 
-div.div-of-images {
+figure {
     text-align: center;
 }
 
 div.flex-image-stripe {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
 }
 
-div.flex-image {
+div.flex-image-stripe img {
+    float: left;
     flex: 1;
-    margin: 2px;
-}
-
-div.flex-image>img {
-    width: 100%;
-    height: auto;
-    vertical-align: middle;
+    min-height: 220px;
 }
 
 td.coin, td.banknote {
@@ -67,3 +72,12 @@ img.inline {
     vertical-align: baseline;
     height: 18px;
 }
+
+td.coin > img {
+    width: 100px;
+}
+
+td.banknote > img {
+    width: 100px;
+}
+

@@ -6,12 +6,10 @@ We started by visiting [Takeshita Street](https://en.wikipedia.org/wiki/Takeshit
 
 I didn't see anything particular, aside from the fact the street is a bit narrow and quite lower then the more recent roads that connect to it. I also noticed a sort of a Japanese punk taking care of a small shop (tattoos perhaps, I'll never know), throwing strange looks at passers-by.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/4e8hJDJ.jpg" alt="Takeshita Street" width="80%" style="display: inline">
-        <figcaption>West side of <a href="https://en.wikipedia.org/wiki/Takeshita_Street">Takeshita Street</a>.</figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/4e8hJDJ.jpg" alt="Takeshita Street">
+    <figcaption>West side of <a href="https://en.wikipedia.org/wiki/Takeshita_Street">Takeshita Street</a>.</figcaption>
+</figure>
 
 We met the sushi group at Takeshita street. They had arrived earlier so while we were checking on the shops the sushi group decided to have some [bubble tea](https://en.wikipedia.org/wiki/Bubble_tea). I can't recall precisely the details, but in broad terms I remember they told us they were guided by an old man from Takeshita street into some adjacent narrow alleys, had to go through multiple staircases and some gates, and finally arrived at some undergroud sort of café. Who would've thought it would be necessary to use means that slightly surpass those of shady businesses just to get some bubble tea.
 
@@ -23,59 +21,49 @@ Only recently I noticed the very own bridge I (and my icecream) crossed was itse
 
 The [Meiji Shrine](https://en.wikipedia.org/wiki/Meiji_Shrine) is the Shinto shrine dedicated to the deified spirits of [Emperor Meiji](https://en.wikipedia.org/wiki/Emperor_Meiji) and [his wife](https://en.wikipedia.org/wiki/Empress_Sh%C5%8Dken). It was built after the Emperor's death to commemorate his role in the [Meiji Restoration](https://en.wikipedia.org/wiki/Meiji_Restoration), and until 1946 it was in the first rank of government-supported shrines. It is the most popular shrine in Japan for [hatsumōde](https://en.wikipedia.org/wiki/Hatsum%C5%8Dde), the first Shinto shrine visit of the [Japanese New Year](https://en.wikipedia.org/wiki/Japanese_New_Year), where people pray/wish for a good new year.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/bsxGFn2.jpg" alt="Me at Torii gate of Meiji Shrine" width="60%" style="display: inline">
-        <figcaption>A photo of me in front of the first Torii gate of the Meiji Shrine</figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/bsxGFn2.jpg" alt="Me at Torii gate of Meiji Shrine">
+    <figcaption>A photo of me in front of the first Torii gate of the Meiji Shrine</figcaption>
+</figure>
 
 We entered the shrine via the southeast entry (the first [Torii](https://en.wikipedia.org/wiki/Torii) gate of the shrine, which is also the largest wooden torii in the world), and took a curve to left and then to the right to enter the central part of the shrine using the southern inner gate. In the way we found two very particular structures, one with sake vessels, and other with large wine barrels with golden plates mostly engraved with French names; these were donations of sake and Burgundy wine to the shrine.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/nK9vUum.jpg" alt="Sake donations at Meiji Shrine"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/Q54I7pc.jpg" alt="Wine donations at Meiji Shrine"></div>
-        </div>
-        <figcaption>Sake and wine donations at the Meiji Shrine</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/nK9vUum.jpg" alt="Sake donations at Meiji Shrine">
+        <img src="https://i.imgur.com/Q54I7pc.jpg" alt="Wine donations at Meiji Shrine">
+    </div>
+    <figcaption>Sake and wine donations at the Meiji Shrine</figcaption>
+</figure>
 
 On approaching the inner gate there was a small water fountain, to wash our hands before entering the central part of the shrine. Inside the shrine the northern side housed the main praying and offerings area, which we were asked not to photograph by shrine guards. Aside from that, there was a prayers tree, with a large wooden structure around it to strap small wood tables with prayers. This sort of prayers are often collected and burnt so the gods listen to them.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/RhY8evk.jpg" alt="Meiji Shrine south inner gate from the outside"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/TM3Ijbs.jpg" alt="Inside the Meiji Shrine main yard, facing north"></div>
-        </div>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/FXjfucy.jpg" alt="Prayers around a tree in the main yard"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/25ZkmFv.jpg" alt="Meiji Shrine south inner gate, from the main yard"></div>
-        </div>
-        <figcaption>
-        	Inside the Meiji Shrine.<br>
-        	Top left: the south inner gate from the outside.<br>
-        	Top right: inside the main yard, facing north.<br>
-        	Bottom left: prayers left by people around a tree in the main yard.<br>
-        	Bottom right: view of the south inner gate from the main yard.
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/RhY8evk.jpg" alt="Meiji Shrine south inner gate from the outside">
+        <img src="https://i.imgur.com/TM3Ijbs.jpg" alt="Inside the Meiji Shrine main yard, facing north">
+        <img src="https://i.imgur.com/FXjfucy.jpg" alt="Prayers around a tree in the main yard">
+        <img src="https://i.imgur.com/25ZkmFv.jpg" alt="Meiji Shrine south inner gate, from the main yard">
+    </div>
+    <figcaption>
+        Inside the Meiji Shrine.<br>
+        Top left: the south inner gate from the outside.<br>
+        Top right: inside the main yard, facing north.<br>
+        Bottom left: prayers left by people around a tree in the main yard.<br>
+        Bottom right: view of the south inner gate from the main yard.
+    </figcaption>
+</figure>
 
 #### Sendagaya
 
 [Sendagaya](https://en.wikipedia.org/wiki/Sendagaya) is an area of [Shibuya ward](https://en.wikipedia.org/wiki/Shibuya,_Tokyo), to the northwest of the Meiji Shrine. It is mostly characterized by its vast green spaces and its narrow residential and commercial streets. A sort of a suburban oasis of tranquility in the middle of the metropolis.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/WrV3ptC.jpg" alt="View from Kita-sando entrance 3, with Docomo Building in the background" width="60%" style="display: inline">
-		<figcaption>
-        	At the crossing of <a href="https://en.wikipedia.org/wiki/Kita-sando_Station">Kita-sando</a> entrance 3. I am below the viaduct of <a href="https://en.wikipedia.org/wiki/Shinjuku_Route">Shinjuku Route</a>, and to my right (not on the photo) is the railway bridge that connects Yoyogi to Harajuku. In the background is the <a href="https://en.wikipedia.org/wiki/NTT_Docomo_Yoyogi_Building">Docomo Building</a> (formally <emp>NTT Docomo Yoyogi Building</emp>), the fourth tallest building in Tokyo.
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/WrV3ptC.jpg" alt="View from Kita-sando entrance 3, with Docomo Building in the background">
+    <figcaption>
+        At the crossing of <a href="https://en.wikipedia.org/wiki/Kita-sando_Station">Kita-sando</a> entrance 3. I am below the viaduct of <a href="https://en.wikipedia.org/wiki/Shinjuku_Route">Shinjuku Route</a>, and to my right (not on the photo) is the railway bridge that connects Yoyogi to Harajuku. In the background is the <a href="https://en.wikipedia.org/wiki/NTT_Docomo_Yoyogi_Building">Docomo Building</a> (formally <emp>NTT Docomo Yoyogi Building</emp>), the fourth tallest building in Tokyo.
+    </figcaption>
+</figure>
 
 We left the Meiji Shrine through the north gate, near the Harajuku Fire Station Branch (or otherwise at [Kita-sando Station](https://en.wikipedia.org/wiki/Kita-sando_Station) entrance 3). We were headed to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), but we decided to made a short detour to try and enter the [Shinjuku Gyo-en National Garden](https://en.wikipedia.org/wiki/Shinjuku_Gyo-en). Unfortunately it was already closed; a real shame we couldn't visit as it is a beautiful garden, a true escape from the bustling life of Tokyo.
 
@@ -91,124 +79,104 @@ Having taken a short rest, we continued our way to [Yoyogi Station](https://en.w
 
 We left [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Station) through the north, and continued to the east, up to Akabane Bridge (or *Akabane-Bashi* in Romaji), where we had our first sight of the iconic [Tokyo Tower](https://en.wikipedia.org/wiki/Tokyo_Tower). In old times it was topped by television and radio broadcast antennas, but given most surrounding buildings are now at least as tall as the tower it was mostly repurposed as an observatory. It is built in an Eiffel Tower-like lattice style, and painted white and international orange to comply with air safety regulations.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/mDvWBvv.jpg" alt="Tokyo Tower from the Akabane Bridge"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/PnyrmFi.jpg" alt="Sakurada-Dori Avenue crossing Akabane Bridge"></div>
-        </div>
-		<figcaption>
-        	At Akabane Bridge.<br>
-        	On the left, the <a href="https://en.wikipedia.org/wiki/Tokyo_Tower">Tokyo Tower</a> (slightly to the right are some of Minato's skyscrapers; from left to right: <a href="https://en.wikipedia.org/wiki/Toranomon_Hills">Toranomon Hills</a>, <a href="https://en.wikipedia.org/wiki/Atago_Green_Hills#Mori_Tower">Agato Green Hills</a> Mori Tower and Forest Tower, all of which built by the powerful Mori family).<br>
-        	On the right, the Sakurada-Dori Avenue crossing Akabane Bridge (facing south).
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/mDvWBvv.jpg" alt="Tokyo Tower from the Akabane Bridge">
+        <img src="https://i.imgur.com/PnyrmFi.jpg" alt="Sakurada-Dori Avenue crossing Akabane Bridge">
+    </div>
+    <figcaption>
+        At Akabane Bridge.<br>
+        On the left, the <a href="https://en.wikipedia.org/wiki/Tokyo_Tower">Tokyo Tower</a> (slightly to the right are some of Minato's skyscrapers; from left to right: <a href="https://en.wikipedia.org/wiki/Toranomon_Hills">Toranomon Hills</a>, <a href="https://en.wikipedia.org/wiki/Atago_Green_Hills#Mori_Tower">Agato Green Hills</a> Mori Tower and Forest Tower, all of which built by the powerful Mori family).<br>
+        On the right, the Sakurada-Dori Avenue crossing Akabane Bridge (facing south).
+    </figcaption>
+</figure>
 
 We then kept going east, and entered the [Shiba Park](https://en.wikipedia.org/wiki/Shiba_Park) from the south. This park was built around the [Zōjō-ji temple](https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji), and it is a popular place among locals and tourists for its great views over the temple and Tokyo Tower. It is also a commonplace in advertisements and movies, but it particularly struck me when I saw [Tokyo Magnitude 8.0](https://en.wikipedia.org/wiki/Tokyo_Magnitude_8.0) as it is one of the areas where the series takes place.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/iUpDZg6.jpg" alt="Tokyo Tower from Shiba Park"></div>
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/M2lPRSa.jpg" alt="Zōjō-ji temple from the south"></div>
-        </div>
-		<figcaption>
-        	Views from Shiba Park. On the left, the Tokyo Tower from the southeast; on the right, the <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> from the south.
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 0.7500;" src="https://i.imgur.com/iUpDZg6.jpg" alt="Tokyo Tower from Shiba Park">
+        <img style="flex: 1.3333;" src="https://i.imgur.com/M2lPRSa.jpg" alt="Zōjō-ji temple from the south">
+    </div>
+    <figcaption>
+        Views from Shiba Park. On the left, the Tokyo Tower from the southeast; on the right, the <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> from the south.
+    </figcaption>
+</figure>
 
 The [Zōjō-ji temple](https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji) is a large Buddhist temple. It has existed since 1393, but it has suffered major changes since then, as it was relocated and more buildings were added to it. The temple was particularly important because it was the [Tokugawa](https://en.wikipedia.org/wiki/Tokugawa_family)'s family temple. Six of the 15 [Tokugawa](https://en.wikipedia.org/wiki/Tokugawa_family) shoguns are buried in Zōjō-ji, and an important part of the temple was the [Taikoku-in Mausoleum](https://en.wikipedia.org/wiki/Taitoku-in_Mausoleum). It was destroyed by air raids during WW2, but the shoguns' remains were buried so deep they were not affected. Nowadays a smaller mausoleum stands instead.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/G1AGrn3.jpg" alt="Zōjō-ji temple from the southeast, up close" width="80%" style="display: inline">
-		<figcaption>
-        	A first view of Zōjō-ji, from the southeast
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/G1AGrn3.jpg" alt="Zōjō-ji temple from the southeast, up close">
+    <figcaption>
+        A first view of Zōjō-ji, from the southeast
+    </figcaption>
+</figure>
 
 After a quite long metro trip, we decided to have a quick look around the perimeter of the park, and then took a sit to have some rest and appretiate the view as the Tokyo Tower started to light up.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/xrGhXOx.jpg" alt="Gate of Taitoku-in Mausoleum"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/dZAIH9x.jpg" alt="Kuromon"></div>
-        </div>
-		<figcaption>
-        	On the left, the Gate of <a href="https://en.wikipedia.org/wiki/Taitoku-in_Mausoleum">Taitoku-in Mausoleum</a>.<br>
-        	On the right, the <a href="https://thegate12.com/article/57">Kuromon</a> (黒門, 'Black Gate'), not so appealing for its apparent lack of restoration, but definitely important as it was built in 1652 and survived the air raids.
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/xrGhXOx.jpg" alt="Gate of Taitoku-in Mausoleum">
+        <img src="https://i.imgur.com/dZAIH9x.jpg" alt="Kuromon">
+    </div>
+    <figcaption>
+        On the left, the Gate of <a href="https://en.wikipedia.org/wiki/Taitoku-in_Mausoleum">Taitoku-in Mausoleum</a>.<br>
+        On the right, the <a href="https://thegate12.com/article/57">Kuromon</a> (黒門, 'Black Gate'), not so appealing for its apparent lack of restoration, but definitely important as it was built in 1652 and survived the air raids.
+    </figcaption>
+</figure>
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/C6J5mUi.jpg" alt="Tokyo Tower and Ankokuden Hall"></div>
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/8fcxDsp.jpg" alt="Tokyo Tower and Daiden"></div>
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/UB8xZZL.jpg" alt="Tokyo Tower lighting up in the evening"></div>
-        </div>
-		<figcaption>
-        	Views of the Tokyo Tower from the main yard;<br>
-        	On the left, the Ankokuden Hall (to the north of the main hall).<br>
-        	On the center, the Daiden (Main Hall).<br>
-        	On the right, Tokyo Tower in the evening, as it lights up.
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 1.3333;" src="https://i.imgur.com/C6J5mUi.jpg" alt="Tokyo Tower and Ankokuden Hall">
+        <!-- <img style="flex: 1.3333;" src="https://i.imgur.com/8fcxDsp.jpg" alt="Tokyo Tower and Daiden"> -->
+        <img style="flex: 0.7500;" src="https://i.imgur.com/UB8xZZL.jpg" alt="Tokyo Tower lighting up in the evening">
+    </div>
+    <figcaption>
+        Views of the Tokyo Tower from the main yard;<br>
+        On the left, the Ankokuden Hall (to the north of the main hall).<br>
+        <!-- On the center, the Daiden (Main Hall).<br> -->
+        On the right, Tokyo Tower in the evening, as it lights up.
+    </figcaption>
+</figure>
 
 As we were walking by the northern part of the temple, we noticed these small statues, all lined up. As it turns out the temple also serves as a cemetery, and these small statues (also known as [Jizō](https://en.wikipedia.org/wiki/Jiz%C5%8D) statues) represent unborn children. Grieving parents can choose a statue, decorate it with clothing and toys, and have some sort of gift for [Jizō](https://en.wikipedia.org/wiki/Jiz%C5%8D) (the Buddhist god responsible for coordinating souls in the [six worlds of the desire realm](https://en.wikipedia.org/wiki/Desire_realm)) and a small pile of pebbles. This is because there is a belief that all children go to "Hell" when they die, so they must build little towers of pebbles for penance before going to another *world*; demons regularly topple these towers, so praying to [Jizō](https://en.wikipedia.org/wiki/Jiz%C5%8D) will have the god protect that child, and pilling pebbles (while performing a heart-felt prayer for each pebble) will help the child get through the torment faster.
 
 At the time all the statues had pinwheels. The considerable wind made them rapidly turn, not too fast so it was not too agitated, but not too slow for it muffled all the noise of the surrounding metropolis. A moment of relative calm, and truly one of those sights that hits you in the feels.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/xo9PERr.jpg" alt="Jizō statues"></div>
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/84ingEp.jpg" alt="More Jizō statues, in a long row"></div>
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/wjw9ZBM.jpg" alt="Some Jizō statues up close"></div>
-        </div>
-		<figcaption>
-        	<a href="https://en.wikipedia.org/wiki/Jiz%C5%8D">Jizō</a> statues at <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji</a>
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 1.3333;" src="https://i.imgur.com/xo9PERr.jpg" alt="Jizō statues">
+        <img style="flex: 0.7500;" src="https://i.imgur.com/84ingEp.jpg" alt="More Jizō statues, in a long row">
+        <img style="flex: 0.7500;" src="https://i.imgur.com/wjw9ZBM.jpg" alt="Some Jizō statues up close">
+    </div>
+    <figcaption>
+        <a href="https://en.wikipedia.org/wiki/Jiz%C5%8D">Jizō</a> statues at <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji</a>
+    </figcaption>
+</figure>
 
 We left the temple grounds through a side gate, and went around the perimeter of the temple until the *Sangedatsumon*. It is especially impressive it is one of the only two structures of the [Zōjō-ji temple](https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji) that survived the air raids, thus making this gate the oldest surviving wooden structure in Tokyo. The *Sangedatsumon* (三解脱門, 'Gate of the Three Liberations') is the most important gate (and usually the main gate) of a Japanese Zen Buddhist temple; it is so-called because, upon passing under it, a person can free himself from three passions: "greed", "hatred" and "foolishness".
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/siMYYkf.jpg" alt="Sangedatsumon" width="80%" style="display: inline">
-		<figcaption>
-        	<a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> main gate (<emp>Sangedatsumon</emp>). It did not fit in a single photo because of its size (and how much I could walk into the street before I was at risk of being run over).
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/siMYYkf.jpg" alt="Sangedatsumon">
+    <figcaption>
+        <a href="https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji">Zōjō-ji temple</a> main gate (<emp>Sangedatsumon</emp>). It did not fit in a single photo because of its size (and how much I could walk into the street before I was at risk of being run over).
+    </figcaption>
+</figure>
 
 We went up the street in front of the *Sangedatsumon* to find our last visit point in Shiba: the [World Trade Center Building](https://en.wikipedia.org/wiki/World_Trade_Center_(Tokyo)), a 40-story commercial building topped by an observation floor. The tickets costed us ¥620 each, so it was definitely worth for the incredible views at night (although it was better before the neighbouring Nippon Life Hamamatsucho Crea Tower was built to the west). We were there for almost an hour.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/EaMkKKJ.jpg" alt="View 1 from WTC"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/NXUgw2f.jpg" alt="View 2 from WTC"></div>
-        </div>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/a0mIvtu.jpg" alt="View 3 from WTC"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/7ksWy7K.jpg" alt="View 4 from WTC"></div>
-        </div>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/QQpH0v2.jpg" alt="View 5 from WTC"></div>
-        </div>
-		<figcaption>
-        	The view from the World Trade Center Building observatory
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/EaMkKKJ.jpg" alt="View 1 from WTC">
+        <img src="https://i.imgur.com/NXUgw2f.jpg" alt="View 2 from WTC">
+        <img src="https://i.imgur.com/a0mIvtu.jpg" alt="View 3 from WTC">
+        <img src="https://i.imgur.com/7ksWy7K.jpg" alt="View 4 from WTC">
+    </div>
+    <img src="https://i.imgur.com/QQpH0v2.jpg" alt="View 5 from WTC">
+    <figcaption>
+        The view from the World Trade Center Building observatory
+    </figcaption>
+</figure>
 
 We then entered [Hamamatsuchō Station](https://en.wikipedia.org/wiki/Hamamatsuch%C5%8D_Station), and took the [Yamanote Line](https://en.wikipedia.org/wiki/Yamanote_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/JR_JY_line_symbol.svg" class="inline"> to [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station) for our last destination.
 
@@ -218,27 +186,23 @@ We then entered [Hamamatsuchō Station](https://en.wikipedia.org/wiki/Hamamatsuc
 
 As we arrived at [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station), I was just amazed at how tall and densely packed buildings were in that area, as well as the sea of people in Hachikō Square (just in front of the station). It is named after [Hachikō](https://en.wikipedia.org/wiki/Hachik%C5%8D) (1923-1935), a Japanese [Akita](https://en.wikipedia.org/wiki/Akita_Inu) dog, adopted by agricultural scientist [Hidesaburō Ueno](https://en.wikipedia.org/wiki/Hidesabur%C5%8D_Ueno), which loyally awaited his owner everyday after work at [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station); after his owner's death in 1925 at work, Hachikō kept waiting everyday by the station for his owner's return until his own death in 1935, earning this good boy the respect of the Japanese as a symbol of loyalty and fidelity.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/ku8Q8gy.jpg" alt="Hachikō status in front of Shibuya Station" width="60%" style="display: inline">
-        <figcaption>
-        	Hachikō statue in front of <a href="https://en.wikipedia.org/wiki/Shibuya_Station">Shibuya Station</a>
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/ku8Q8gy.jpg" alt="Hachikō status in front of Shibuya Station">
+    <figcaption>
+        Hachikō statue in front of <a href="https://en.wikipedia.org/wiki/Shibuya_Station">Shibuya Station</a>
+    </figcaption>
+</figure>
 
 As we were in Shibuya we could not miss the [Shibuya Crossing](https://en.wikipedia.org/wiki/Shibuya_Crossing), the most well-known Japanese scramble crossing. We crossed it twice just for the sake of being able to say we crossed it 🙂.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/WBJySwf.jpg" alt="Hachikō Square, crowded"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/Tm53IKa.jpg" alt="Buildings around Hachikō Square"></div>
-        </div>
-        <figcaption>
-        	Some more photos from Hachikō Square. On the left, the sea of people just hanging around apparently; on the right, the buildings surrounding <a href="https://en.wikipedia.org/wiki/Shibuya_Crossing">Shibuya Crossing.</a>
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/WBJySwf.jpg" alt="Hachikō Square, crowded">
+        <img src="https://i.imgur.com/Tm53IKa.jpg" alt="Buildings around Hachikō Square">
+    </div>
+    <figcaption>
+        Some more photos from Hachikō Square. On the left, the sea of people just hanging around apparently; on the right, the buildings surrounding <a href="https://en.wikipedia.org/wiki/Shibuya_Crossing">Shibuya Crossing.</a>
+    </figcaption>
+</figure>
 
 As it was getting a bit late, we called it a day and got ourselves on our way home.

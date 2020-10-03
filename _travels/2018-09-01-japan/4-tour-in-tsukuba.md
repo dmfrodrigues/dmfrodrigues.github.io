@@ -32,12 +32,10 @@ After lunch we headed to the [Geological Museum](https://www.gsj.jp/Muse/en/), o
 
 We then went a short distance to [Science Square Tsukuba](https://www.aist.go.jp/sst/en/), a small (but very insightful) show of cutting-edge Japanese industrial technology. One of the items I would like to highlight is the replica of the perfect, single-crystal 1kg silicon sphere that has been used in the [recent redefinition of SI units](https://en.wikipedia.org/wiki/2019_redefinition_of_the_SI_base_units) (most importantly the kilogram and the mole, impacted by the definition of the [Avogadro constant](https://en.wikipedia.org/wiki/Avogadro_constant)), which for any physicist like myself (although I latter diverged into informatics) is the most important global effort into improving science in recent years, and the most important advance in metrology of the century.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/k9vUcyQ.jpg" alt="Silicon sphere at Science Square" width="60%" style="display: inline">
-        <figcaption>The silicon sphere at Science Square</figcaption>
-    </figure>
-</div>
+<figure>
+    <img  class="discrete" src="https://i.imgur.com/k9vUcyQ.jpg" alt="Silicon sphere at Science Square">
+    <figcaption>The silicon sphere at Science Square</figcaption>
+</figure>
 
 ### Tsukuba Space Center
 
@@ -47,66 +45,56 @@ The [Tsukuba Space Center](https://en.wikipedia.org/wiki/Tsukuba_Space_Center) i
 
 On the outside there is a real-scale model of the [H-II](https://en.wikipedia.org/wiki/H-II) rocket, one of the greatest JAXA achievements as the first rocket completely made with Japanese technology, capable of delivering heavy satellites. More specifically, it is a Ground Test Vehicle, so it was supposedly fully functional at some point.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/Nu2dkMH.jpg" alt="H-II Ground Test Vehicle, from the left" width="80%" style="display: inline">
-        <img src="https://i.imgur.com/4yuBkyz.jpg" alt="H-II Ground Test Vehicle, from the front" width="80%" style="display: inline">
-        <figcaption><a href="https://en.wikipedia.org/wiki/H-II">H-II</a> Ground Test Vehicle at the <a href="https://en.wikipedia.org/wiki/Tsukuba_Space_Center">Tsukuba Space Center</a></figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/Nu2dkMH.jpg" alt="H-II Ground Test Vehicle, from the left">
+    <img src="https://i.imgur.com/4yuBkyz.jpg" alt="H-II Ground Test Vehicle, from the front">
+    <figcaption><a href="https://en.wikipedia.org/wiki/H-II">H-II</a> Ground Test Vehicle at the <a href="https://en.wikipedia.org/wiki/Tsukuba_Space_Center">Tsukuba Space Center</a></figcaption>
+</figure>
 
 We visited the Exhibition Hall, which is the Tsukuba Space Center visitors venue by excellence, showcasing the most important (and impressive) parts of the work developed by JAXA and the organizations that preceded it.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/MNhm9Fn.jpg" alt="Kounotori, from the side"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/r5c9XJj.jpg" alt="Kounotori, from below"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/XZCSD9n.jpg" alt="Inside of Kounotori, from below"></div>
-        </div>
-        <figcaption><a href="https://en.wikipedia.org/wiki/H-II_Transfer_Vehicle">H-II Transfer Vehicle</a>, also called <emp>Kounotori</emp>, is the expendable automated cargo spacecraft designed to ressuply the Kibō module</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/MNhm9Fn.jpg" alt="Kounotori, from the side">
+        <img src="https://i.imgur.com/r5c9XJj.jpg" alt="Kounotori, from below">
+        <img src="https://i.imgur.com/XZCSD9n.jpg" alt="Inside of Kounotori, from below">
+    </div>
+    <figcaption><a href="https://en.wikipedia.org/wiki/H-II_Transfer_Vehicle">H-II Transfer Vehicle</a>, also called <emp>Kounotori</emp>, is the expendable automated cargo spacecraft designed to ressuply the Kibō module</figcaption>
+</figure>
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/6cMzExZ.jpg" alt="Kibō module, from the side"></div>
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/uUk6KeK.jpg" alt="Kibō module, experiment logistics module"></div>
-        </div>
-        <figcaption>Real-size model of the <a href="https://en.wikipedia.org/wiki/Kib%C5%8D_(ISS_module)">Kibō module</a>, developed by JAXA for the <a href="https://en.wikipedia.org/wiki/International_Space_Station">ISS</a></figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 1.3333;" src="https://i.imgur.com/6cMzExZ.jpg" alt="Kibō module, from the side">
+        <img style="flex: 0.7500;" src="https://i.imgur.com/uUk6KeK.jpg" alt="Kibō module, experiment logistics module">
+    </div>
+    <figcaption>Real-size model of the <a href="https://en.wikipedia.org/wiki/Kib%C5%8D_(ISS_module)">Kibō module</a>, developed by JAXA for the <a href="https://en.wikipedia.org/wiki/International_Space_Station">ISS</a></figcaption>
+</figure>
 
 Here are some of the satellites that are part of Japanese space development:
 - [ETS-III](https://space.skyrocket.de/doc_sdat/ets-3.htm) (also called *Kiku-4*), was an early satellite used to test instrumentation and fundamental equipments such as solar array deployment, attitude and thermal control.
 - [ETS-VII](https://en.wikipedia.org/wiki/ETS-VII) (also called *Kiku-7*), was used as a test to a range of Japanese robotics space technology, which included the first robotic arm in a spacecraft. It was launched in 1997 and decomissioned in 1999.
 - [ETS-VIII](https://en.wikipedia.org/wiki/ETS-VIII) (also called *Kiku-8*), a communications satellite, launched in 2007 and deactivated in 2017, operated at [GEO](https://en.wikipedia.org/wiki/Geosynchronous_orbit) orbit. Its deployable antenna was the size of a tennis court, making it the largest geostationary satellite in the world.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/yOwIWaQ.jpg" alt="Kiku-4, 7 and 8"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/AMcQ9C5.jpg" alt="Japanese space rockets"></div>
-        </div>
-        <figcaption>On the left, from left to right: <a href="https://space.skyrocket.de/doc_sdat/ets-3.htm">Kiku-4</a>, <a href="https://en.wikipedia.org/wiki/ETS-VII">Kiku-7</a> and <a href="https://en.wikipedia.org/wiki/ETS-VIII">Kiku-8</a><br>
-        On the right, evolution of Japanese space rockets</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/yOwIWaQ.jpg" alt="Kiku-4, 7 and 8">
+        <img src="https://i.imgur.com/AMcQ9C5.jpg" alt="Japanese space rockets">
+    </div>
+    <figcaption>On the left, from left to right: <a href="https://space.skyrocket.de/doc_sdat/ets-3.htm">Kiku-4</a>, <a href="https://en.wikipedia.org/wiki/ETS-VII">Kiku-7</a> and <a href="https://en.wikipedia.org/wiki/ETS-VIII">Kiku-8</a><br>
+    On the right, evolution of Japanese space rockets</figcaption>
+</figure>
 
 We also saw the [SELENE](https://en.wikipedia.org/wiki/SELENE) (also known as *Kaguya*), a lunar orbiter launched in 2007 and decomissioned in 2009 after it was intentionally crashed into the Moon. Its distinctive feature is its black color, unusual for spacecraft which are usually either white (as a standard color) or gold (because they are covered in gold leaf, which is highly reflective).
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/bq6NYws.jpg" alt="LE-5 second stage engine"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/HGqqqkD.jpg" alt="SELENE satellite model"></div>
-        </div>
-        <figcaption>
-            On the left, the <a href="https://en.wikipedia.org/wiki/LE-5">LE-5</a> second stage engine, used in the <a href="https://en.wikipedia.org/wiki/H-I">H-I</a> and <a href="https://en.wikipedia.org/wiki/H-II">H-II</a> rockets. The engine in the photograph was actually used in <a href="https://en.wikipedia.org/wiki/Launch_vehicle_system_tests#Static_fire">static firing tests</a>. On the right, a replica of the <a href="https://en.wikipedia.org/wiki/SELENE">SELENE</a> satellite.
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/bq6NYws.jpg" alt="LE-5 second stage engine">
+        <img src="https://i.imgur.com/HGqqqkD.jpg" alt="SELENE satellite model">
+    </div>
+    <figcaption>
+        On the left, the <a href="https://en.wikipedia.org/wiki/LE-5">LE-5</a> second stage engine, used in the <a href="https://en.wikipedia.org/wiki/H-I">H-I</a> and <a href="https://en.wikipedia.org/wiki/H-II">H-II</a> rockets. The engine in the photograph was actually used in <a href="https://en.wikipedia.org/wiki/Launch_vehicle_system_tests#Static_fire">static firing tests</a>. On the right, a replica of the <a href="https://en.wikipedia.org/wiki/SELENE">SELENE</a> satellite.
+    </figcaption>
+</figure>
 
 #### Quasi-Zenith Satellite System
 

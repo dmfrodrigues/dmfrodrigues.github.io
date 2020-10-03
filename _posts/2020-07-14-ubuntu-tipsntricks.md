@@ -16,8 +16,8 @@ The splash screen was probably adopted by Canonical in the line of recent develo
 
 <div class="div-of-images">
     <figure>
-        <img src="https://miro.medium.com/max/700/1*h3RuU3wg_hq6605CnvbugA.jpeg" alt="Ubuntu splash screen" class="half" height="49.4%" style="display: inline">
-        <img src="https://i.stack.imgur.com/jR65l.jpg" alt="Ubuntu kernel messages" width="48.2%" height="48.2%" style="display: inline">
+        <img src="https://miro.medium.com/max/700/1*h3RuU3wg_hq6605CnvbugA.jpeg" alt="Ubuntu splash screen" class="half" height="49.4%">
+        <img src="https://i.stack.imgur.com/jR65l.jpg" alt="Ubuntu kernel messages" width="48.2%" height="48.2%">
         <figcaption>Ubuntu splash screen and kernel messages</figcaption>
     </figure>
 </div>
@@ -133,12 +133,10 @@ You can install Apache by running `sudo apt install apache2`, and a more detaile
 
 Notice that Apache only makes a browser work properly with the files you provide for it, as it does not automatically make files available over the internet. It makes your computer IP available for access over a local network, to access your website in your browser just go to the address `localhost` and you should see the classic Apache landing page.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://help.nextcloud.com/uploads/default/optimized/2X/1/1c46cfc954ab87f32bbcec2e6bf73d2f12b07964_1_582x500.png" alt="Apache default landing page" width="80%">
-        <figcaption>Apache default landing page</figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://help.nextcloud.com/uploads/default/optimized/2X/1/1c46cfc954ab87f32bbcec2e6bf73d2f12b07964_1_582x500.png" alt="Apache default landing page">
+    <figcaption>Apache default landing page</figcaption>
+</figure>
 
 By default the Apache server makes available the directory `/var/www` via web. The landing page also mentions this fact, stating
 

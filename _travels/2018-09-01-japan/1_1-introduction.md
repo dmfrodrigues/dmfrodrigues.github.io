@@ -1,11 +1,9 @@
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.5000;"><img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Flag of Japan"></div>
-            <div class="flex-image" style="flex: 1.1068;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/850px-Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg" alt="Map of Japan"></div>
-        </div>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 1.5000;" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Flag of Japan">
+        <img style="flex: 1.1068;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/850px-Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg" alt="Map of Japan">
+    </div>
+</figure>
 
 [Japan](https://en.wikipedia.org/wiki/Japan) (日本, *Nippon*, meaning ‘sun origin’, the source of the epithet "land of the rising sun") is an insular country in the Pacific Ocean, the home of about 126M people, and one of the most advanced technological and industrial powers in the world. It is made essentially of four islands, divided into 47 prefectures grouped into 8 regions:
 
@@ -19,12 +17,10 @@
 - [**Kyushu**](https://en.wikipedia.org/wiki/Kyushu) (九州, *Kyūshū*, 'Nine Provinces') to the south, the third largest island, with 14.3M people. It is named after the nine [provinces](https://en.wikipedia.org/wiki/Provinces_of_Japan) that composed the region. Its largest city is [Fukuoka](), with 1.6M people. Other cities include [Kagoshima](https://en.wikipedia.org/wiki/Kagoshima) and [Nagasaki](https://en.wikipedia.org/wiki/Nagasaki).
 - [**Shikoku**](https://en.wikipedia.org/wiki/Shikoku) (四国, 'Four Provinces'), south of Honshu and northeast of Kyushu, is the smallest of the four islands, with 3.8M people. It is named after the four ancient provinces that made up the island. It is historically considered the most isolated region of Japan, so the original Japanese cultural traces are more lively there. Its largest city is [Matsuyama](https://en.wikipedia.org/wiki/Matsuyama).
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" alt="Administrative divisions of Japan" width="50%" style="display: inline">
-        <figcaption>Administrative divisions of Japan. White lines delineate prefectures, and colors indicate the regions: <span style="color:red"><strong>Hokkaido</strong></span>, <span style="color:#DDDD00"><strong>Tohoku</strong></span>, <span style="color:green"><strong>Kanto</strong></span>, <span style="color:cyan"><strong>Chubu</strong></span>, <span style="color:blue"><strong>Kansai</strong></span>, <span style="color:orange"><strong>Chugoku</strong></span>, <span style="color:gray"><strong>Kyushu</strong></span> and <span style="color:purple"><strong>Shikoku</strong></span></figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" alt="Administrative divisions of Japan" width="50%">
+    <figcaption>Administrative divisions of Japan. White lines delineate prefectures, and colors indicate the regions: <span style="color:red"><strong>Hokkaido</strong></span>, <span style="color:#DDDD00"><strong>Tohoku</strong></span>, <span style="color:green"><strong>Kanto</strong></span>, <span style="color:cyan"><strong>Chubu</strong></span>, <span style="color:blue"><strong>Kansai</strong></span>, <span style="color:orange"><strong>Chugoku</strong></span>, <span style="color:gray"><strong>Kyushu</strong></span> and <span style="color:purple"><strong>Shikoku</strong></span></figcaption>
+</figure>
 
 ### Government
 

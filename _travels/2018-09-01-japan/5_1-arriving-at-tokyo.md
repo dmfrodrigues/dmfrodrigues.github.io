@@ -12,12 +12,10 @@ So, the next day we went to that bus stop, and waited for about 15min for any bu
 
 #### The bus terminal
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/c6uEl6w.jpg" alt="Tsukuba City Hall Oho Branch Office" width="60%" style="display: inline">
-        <figcaption>Tsukuba City Hall Oho Branch Office</figcaption>
-    </figure>
-</div>
+<figure>
+    <img class="discrete" src="https://i.imgur.com/c6uEl6w.jpg" alt="Tsukuba City Hall Oho Branch Office">
+    <figcaption>Tsukuba City Hall Oho Branch Office</figcaption>
+</figure>
 
 We eventually found something that looked like a bus terminal; I later came to know it was the [Tsukuba City Hall Oho Branch Office](https://www.google.com/maps/place/%E3%81%A4%E3%81%8F%E3%81%B0%E5%B8%82+%E5%A4%A7%E7%A9%82%E7%AA%93%E5%8F%A3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/@36.1359841,140.0808189,17z/data=!4m5!3m4!1s0x6022092250c00001:0x10216d3fcee278be!8m2!3d36.1360714!4d140.0824025?hl=en). As we got there we faced another obstacle: all the information relative to the buses was in Japanese, so we could not even read the time tables (we asked another person waiting for the bus if there was any going to Tsukuba), nor the digital displays on the side of the buses, which presumably indicated the destination. On the first bus that stopped there, we asked a passenger if the bus was going to Tsukuba; the answer was affirmative, but we were not very convinced if he actually understood our question. We would either way find that out, one way or another.
 
@@ -29,15 +27,13 @@ Before going into details, let me just mention the Japanese railroads and metro 
 
 Resuming: we eventually arrived at the Tsukuba Station, where we met our teachers. We bought and charged our cards, and then took the [Tsukuba Express](https://en.wikipedia.org/wiki/Tsukuba_Express) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Tsukuba_Express_mark.svg" class="inline"> to [Akihabara Station](https://en.wikipedia.org/wiki/Akihabara_Station) (¥1,205).
 
-<div class="div-of-images">
-	<figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/5p8L5pv.jpg" alt="Bus terminal at Tsukuba Station"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/jB8e4F1.jpg" alt="Buildings surrounding Tsukuba Station"></div>
-        </div>
-		<figcaption>Near Tsukuba Station</figcaption>
-	</figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/5p8L5pv.jpg" alt="Bus terminal at Tsukuba Station">
+        <img src="https://i.imgur.com/jB8e4F1.jpg" alt="Buildings surrounding Tsukuba Station">
+    </div>
+    <figcaption>Near Tsukuba Station</figcaption>
+</figure>
 
 As it was an hour or two past peak morning time, we got ourselves some seats on the train, which took around an hour to travel the 60km separating Tsukuba from Akihabara, Tokyo. The train was quite fast actually.
 
@@ -49,21 +45,17 @@ As we were traveling quite fast I also got a chance of having a better general p
 
 One typical feature of the Japanese suburb is that almost all cables are placed overhead, to such an extent [streets are infested with cables and cable poles](https://japantoday.com/category/features/lifestyle/why-does-japan-have-so-many-overhead-power-lines). It is mostly a cultural thing, but arguments in favor of overhead cables claim they are cheaper, can be more easily maintained and repaired, and are faster to establish after landslides.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://www.spoon-tamago.com/wp-content/uploads/2015/06/hachioji-electric-cables-2.jpg" alt="Overhead cables in Hachioji" width="80%" style="display: inline">
-        <figcaption><a href="https://www.spoon-tamago.com/2015/06/24/chaotic-photographs-of-electric-cables-suspended-over-japanese-streets/">Overhead cables in Hachioji, Japan</a></figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://www.spoon-tamago.com/wp-content/uploads/2015/06/hachioji-electric-cables-2.jpg" alt="Overhead cables in Hachioji">
+    <figcaption><a href="https://www.spoon-tamago.com/2015/06/24/chaotic-photographs-of-electric-cables-suspended-over-japanese-streets/">Overhead cables in Hachioji, Japan</a></figcaption>
+</figure>
 
 That day was a bit cloudy and misty (there was light rain twice that day). As we started approaching Tokyo, the landscape progressively changed from rice fields into a few houses, then to huge plains of two-story houses, then growing buildings. It was quite a remarkable sight, a demonstration of how many we humans really are and the extent people go to have affordable and comfortable housing. Finally, in the distance, the huge [Tokyo Skytree](https://en.wikipedia.org/wiki/Tokyo_Skytree) (tallest tower in the world) started appearing from the light mist: we were finally entering Tokyo, the greatest metropolis on the surface of Earth.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/y90tb33.jpg" alt="Approaching Tokyo with Tokyo Skytree in the background"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/b9Qdfa5.jpg" alt="Approaching Tokyo, some green areas and cable towers"></div>
-        </div>
-        <figcaption>Approaching Tokyo. Notice on the left photo the Tokyo Skytree emerging from behind the clouds and mist.</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/y90tb33.jpg" alt="Approaching Tokyo with Tokyo Skytree in the background">
+        <img src="https://i.imgur.com/b9Qdfa5.jpg" alt="Approaching Tokyo, some green areas and cable towers">
+    </div>
+    <figcaption>Approaching Tokyo. Notice on the left photo the Tokyo Skytree emerging from behind the clouds and mist.</figcaption>
+</figure>

@@ -4,56 +4,48 @@ We then arrived at Akihabara station, one of the most famous and busiest train s
 
 As soon as I set foot outside the train station (through the Main Gate North Exit), I was amazed at the sea of tall buildings. We didn't lose much time and entered the first shopping centre we found, Yodobashi-Akiba. It is the largest shopping centre in Akihabara, with a huge area and seven-story high. It is one of a series of shopping centres managed by electronics retailer [Yodobashi Camera](https://en.wikipedia.org/wiki/Yodobashi_Camera).
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/t2GiloX.jpg" alt="Tokyo Metropolitan University Marunouchi Satellite Campus"></div>
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/xmVAJzL.jpg" alt="Akihabara UDX"></div>
-        </div>
-        <figcaption>First impressions on leaving Akihabara station. On the left photo is the <a href="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_University">Tokyo Metropolitan University</a> Marunouchi Satellite Campus on the left and <a href="https://en.japantravel.com/tokyo/akihabara-udx/25529">Akihabara UDX</a> on the right.</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 0.7500;" src="https://i.imgur.com/t2GiloX.jpg" alt="Tokyo Metropolitan University Marunouchi Satellite Campus">
+        <img style="flex: 1.3333;" src="https://i.imgur.com/xmVAJzL.jpg" alt="Akihabara UDX">
+    </div>
+    <figcaption>First impressions on leaving Akihabara station. On the left photo is the <a href="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_University">Tokyo Metropolitan University</a> Marunouchi Satellite Campus on the left and <a href="https://en.japantravel.com/tokyo/akihabara-udx/25529">Akihabara UDX</a> on the right.</figcaption>
+</figure>
 
 The shopping centre was so large we had to get some maps to find our way through it. Each floor was dedicated to a certain sort of appliances/products and had multiple counters spread throughout. You can easily get a closer insight on what it looks like, as it is a common attraction for adventurers looking for Youtube fame.
 
 We then crossed the street to the most iconic spot of Akihabara, informally known as Akihabara Crossing, formed by the intersection of the main commercial street with the street leading to the train station.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/aBC3hgX.jpg" alt="Akihabara Crossing, facing south"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/V46iSuv.jpg" alt="Akihabara Crossing, facing north"></div>
-        </div>
-        <figcaption>Akihabara Crossing (facing south on the left photo, facing north on the right photo). On the left, SEGA Akihabara Building 3 can be seen.</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/aBC3hgX.jpg" alt="Akihabara Crossing, facing south">
+        <img src="https://i.imgur.com/V46iSuv.jpg" alt="Akihabara Crossing, facing north">
+    </div>
+    <figcaption>Akihabara Crossing (facing south on the left photo, facing north on the right photo). On the left, SEGA Akihabara Building 3 can be seen.</figcaption>
+</figure>
 
 For starters, we entered in the SEGA building. It's called SEGA Akihabara Building 3. Actually SEGA has five huge buildings in Akihabara only, serving either as arcades or shops. From the ground floor one could confuse it for a simple game store, however it is only you take the escallator that you realise all the floors from the first to the top are 100% arcade machines. It was a mixed experience, as the sight was impressive, as is the way SEGA still holds on, even with arcade games; on the other side, it was almost depressing to say the least, as some of the people there seemed to live in the arcade judgind by the frenetic way they played.
 
 We went on for a bit, until the end of that area, just before crossing the [Kanda River](https://en.wikipedia.org/wiki/Kanda_River).
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/eLRmlRU.jpg" alt="Akihabara closer to the river, facing south"></div>
-            <div class="flex-image" style="flex: 0.7500;"><img src="https://i.imgur.com/OTPmsEC.jpg" alt="Akihabara closer to the river, facing north"></div>
-        </div>
-        <figcaption>Akihabara a bit closer to the river</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 1.3333;" src="https://i.imgur.com/eLRmlRU.jpg" alt="Akihabara closer to the river, facing south">
+        <img style="flex: 0.7500;" src="https://i.imgur.com/OTPmsEC.jpg" alt="Akihabara closer to the river, facing north">
+    </div>
+    <figcaption>Akihabara a bit closer to the river</figcaption>
+</figure>
 
 Because some of us wanted to have sushi and other didn't (including myself), we split into two groups. Now in a smaller group, we turned left to reenter Akihabara Station via the Electric Town South Exit to proceed to our next destination.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/kxzJYMM.jpg" alt="Near Electric Town South Exit, facing east"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/mbxKyKs.jpg" alt="Near Electric Town South Exit, facing south"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/AWFSuCL.jpg" alt="Near Electric Town South Exit, facing west"></div>
-        </div>
-        <figcaption>Near the Electric Town South Exit.<br>On the left, I'm facing east; at the end of the street is the train station exit.<br>On the middle, I'm at the corner and facing south, away from the train station exit; just by the corner is SEGA Akihabara Building 4.<br>On the right, I'm at the corner and facing west, so the train station is to my right.</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/kxzJYMM.jpg" alt="Near Electric Town South Exit, facing east">
+        <img src="https://i.imgur.com/mbxKyKs.jpg" alt="Near Electric Town South Exit, facing south">
+        <img src="https://i.imgur.com/AWFSuCL.jpg" alt="Near Electric Town South Exit, facing west">
+    </div>
+    <figcaption>Near the Electric Town South Exit.<br>On the left, I'm facing east; at the end of the street is the train station exit.<br>On the middle, I'm at the corner and facing south, away from the train station exit; just by the corner is SEGA Akihabara Building 4.<br>On the right, I'm at the corner and facing west, so the train station is to my right.</figcaption>
+</figure>
 
 #### Pachinko
 
@@ -72,12 +64,10 @@ Gambling is a ravaging epidemic within Japanese society, which may be explained 
 
 We entered Akihabara to catch a commuter train from the [Chūō-Sōbu Line](https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D%E2%80%93S%C5%8Dbu_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JR_JB_line_symbol.svg" class="inline">, for a short ride (2min) to [Ochanomizu Station](https://en.wikipedia.org/wiki/Ochanomizu_Station). Not before I had a first glance of a classical from Japan: all [white-collar workers](https://en.wikipedia.org/wiki/White-collar_worker) literally wear [dress shirts](https://en.wikipedia.org/wiki/Dress_shirt) everyday to work. And in nowadays Tokyo they are the majority, meaning the city is filled with "penguins" from 9am to 6pm.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/9c3lRRb.jpg" alt="People waiting for the train at Akihabara" width="50%" style="display: inline">
-        <figcaption>The Japanese Penguin in its natural habitat: a commuter train</figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/9c3lRRb.jpg" alt="People waiting for the train at Akihabara">
+    <figcaption>The Japanese Penguin in its natural habitat: a commuter train</figcaption>
+</figure>
 
 At [Ochanomizu](https://en.wikipedia.org/wiki/Ochanomizu) we didn't see anything special, as we were not really planning to do anything there, since we were only changing trains. The station has two parts, separated by the [Kanda River](https://en.wikipedia.org/wiki/Kanda_River) (which we had to cross through the [Ochanomizu Bridge](https://www.google.com/maps/place/Ochanomizu+Bridge/@35.6997827,139.7639489,18z/data=!4m12!1m6!3m5!1s0x60188db932ebcec3:0xd70d7986ecc0e1f1!2sHijiribashi!8m2!3d35.6997086!4d139.7655652!3m4!1s0x60188c19c406cc45:0xf5c74cb6d4d1418f!8m2!3d35.7002221!4d139.7635958?hl=en)):
 - [JR East](https://en.wikipedia.org/wiki/Ochanomizu_Station#JR_East) to the southeast (south of the river), serving trains;
@@ -112,25 +102,21 @@ At the the [Bunkyo Civic Center](https://en.wikipedia.org/wiki/Bunkyo_Civic_Cent
 
 The view was quite great, altough I was a bit disappointed as I could not see [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji), as I even brough my binoculars. In Tokyo it was only partly cloudy, but apparently it was misty around [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) so we couldn't see much in the distance.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/LfRGUoX.jpg" alt="View from Bunkyo Civic Center, facing east"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/24uzeH1.jpg" alt="View from Bunkyo Civic Center, facing northwest"></div>
-        </div>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/o0Jw38e.jpg" alt="View from Bunkyo Civic Center, facing west-southwest"></div>
-            <div class="flex-image"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg"  alt="Mount Fuji in the west-southwest, in a clear day"></div>
-        </div>
-        <figcaption>
-        	The views from <a href="https://en.wikipedia.org/wiki/Bunkyo_Civic_Center">Bunkyo Civic Center</a>.<br>
-        	Top left: facing east. You can see the <a href="https://en.wikipedia.org/wiki/Tokyo_Skytree">Tokyo Skytree</a> in the background.<br>
-        	Top right: facing northwest to the skyscrapers of <a href="https://en.wikipedia.org/wiki/Toshima">Toshima</a>.<br>
-        	Bottom left: facing west-southwest to <a href="https://en.wikipedia.org/wiki/Shinjuku">Shinjuku</a>. <a href="https://en.wikipedia.org/wiki/Mount_Fuji">Mount Fuji</a> would be visible to the left of the <a href="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Government_Building">Tokyo Metropolitan Government Building</a> on a clear day.<br>
-        	Bottom right: facing to <a href="https://en.wikipedia.org/wiki/Shinjuku">Shinjuku</a>, what I would have liked to see.
-        </figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/LfRGUoX.jpg" alt="View from Bunkyo Civic Center, facing east">
+        <img src="https://i.imgur.com/24uzeH1.jpg" alt="View from Bunkyo Civic Center, facing northwest">
+        <img src="https://i.imgur.com/o0Jw38e.jpg" alt="View from Bunkyo Civic Center, facing west-southwest">
+        <img src="https://i.imgur.com/PckO9FL.jpg"  alt="Mount Fuji in the west-southwest, in a clear day">
+    </div>
+    <figcaption>
+        The views from <a href="https://en.wikipedia.org/wiki/Bunkyo_Civic_Center">Bunkyo Civic Center</a>.<br>
+        Top left: facing east. You can see the <a href="https://en.wikipedia.org/wiki/Tokyo_Skytree">Tokyo Skytree</a> in the background.<br>
+        Top right: facing northwest to the skyscrapers of <a href="https://en.wikipedia.org/wiki/Toshima">Toshima</a>.<br>
+        Bottom left: facing west-southwest to <a href="https://en.wikipedia.org/wiki/Shinjuku">Shinjuku</a>. <a href="https://en.wikipedia.org/wiki/Mount_Fuji">Mount Fuji</a> would be visible to the left of the <a href="https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Government_Building">Tokyo Metropolitan Government Building</a> on a clear day.<br>
+        Bottom right: facing to <a href="https://en.wikipedia.org/wiki/Shinjuku">Shinjuku</a>, what I would have liked to see (from the public domain).
+    </figcaption>
+</figure>
  
 As we left the civic center, we passed by the [Tokyo Dome](https://en.wikipedia.org/wiki/Tokyo_Dome). is a baseball stadium, home to the [Yomiuri Giants](https://en.wikipedia.org/wiki/Yomiuri_Giants), the current title winner and the team with most [Central League](https://en.wikipedia.org/wiki/Central_League) titles. The stadium is so large it is often used in Japan to compare large sizes, and it is also often used for other events, most notably concerts.
 
@@ -138,9 +124,7 @@ Adjacent to the stadium is the [Tokyo Dome City](https://en.wikipedia.org/wiki/T
 
 We then had lunch at Koraku McDonald's (the place you're most likely to be understood in English, and even so Kevin got a regular, hot tea instead of an iced tea), and then crossed the Suidōbashi bridge over the Kanda River to catch the train at [Suidōbashi Station](https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station) to get to our next destination.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/1cczQjp.jpg" alt="Tokyo Dome" style="display: inline" class="half"><img src="https://i.imgur.com/IpIn3Dt.jpg" alt="LaQua" style="display: inline" class="half"><img src="https://i.imgur.com/Uo5rwnL.jpg" alt="Kanda River at Suidobachi bridge" style="display: inline" class="half">
-        <figcaption><a href="https://en.wikipedia.org/wiki/Tokyo_Dome">Tokyo Dome</a>, the <a href="https://en.wikipedia.org/wiki/Tokyo_Dome_City">Tokyo Dome City</a> from the inside, and the <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River</a> from <a href="https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station">Suidōbashi</a> bridge.</figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/1cczQjp.jpg" alt="Tokyo Dome" class="half"><img src="https://i.imgur.com/IpIn3Dt.jpg" alt="LaQua" class="half"><img src="https://i.imgur.com/Uo5rwnL.jpg" alt="Kanda River at Suidobachi bridge" class="half">
+    <figcaption><a href="https://en.wikipedia.org/wiki/Tokyo_Dome">Tokyo Dome</a>, the <a href="https://en.wikipedia.org/wiki/Tokyo_Dome_City">Tokyo Dome City</a> from the inside, and the <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River</a> from <a href="https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station">Suidōbashi</a> bridge.</figcaption>
+</figure>

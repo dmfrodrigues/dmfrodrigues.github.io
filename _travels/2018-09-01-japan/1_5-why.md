@@ -14,9 +14,7 @@ We were accompanied by two 'teachers', both former competitors:
 - Leader Pedro Ribeiro (teacher @FCUP, organizer of ONI)
 - Deputy leader Pedro Paredes (PhD student @CMU)
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://i.imgur.com/CBDwWw5.jpg" alt="Portuguese team in IOI18" width="80%" style="display: inline">
-        <figcaption>From left to right: Pedro Paredes, Kevin Pucci, André Nascimento, Pedro Ribeiro, David Nassauer and yours truly</figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://i.imgur.com/CBDwWw5.jpg" alt="Portuguese team in IOI18">
+    <figcaption>From left to right: Pedro Paredes, Kevin Pucci, André Nascimento, Pedro Ribeiro, David Nassauer and yours truly</figcaption>
+</figure>

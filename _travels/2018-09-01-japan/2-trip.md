@@ -16,31 +16,25 @@ Luckily our flight had the right to an airport sleeve, so we had little idea on 
 
 As we were (finally) picked up at the airport, we took the [Ken-Ō Expressway](https://en.wikipedia.org/wiki/Ken-%C5%8C_Expressway) <img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/C4_Expressway_%28Japan%29.png/68px-C4_Expressway_%28Japan%29.png"> to Tsukuba (curiously enough, there was a considerable length of that expressway with only one lane in each way), so we drove for about an hour through the Japanese countryside. And to be honest, it was unparalleled to anything I had ever seen in my life, particularly for an European used to reasonably small trees prepared for harsh European winters: the tall and leafy trees making up dense forests, intertwined with vast fields (assumed to be rice; some green, and some brown-ish) and long canals, and occasionally some agricultural buildings, two-story houses and warehouses. Although it was such a simple view, just reflecting on the uniqueness of this country I had arrived to a couple hours before, and considering the average countryside and landscape was so simple yet beautiful, it almost made me shed a tear in happiness and wonder how much Japan would amaze me.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/SiFJh8w.jpg" alt="Landscape at Jusanmado (Kawachi, Inashiki district)"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/zDOjJtL.jpg" alt="Landscape at Ono river (Komazuka, Inashiki)"></div>
-        </div>
-        <div class="flex-image-stripe">
-            <div class="flex-image"><img src="https://i.imgur.com/9hglLKh.jpg" alt="Landscape at Koike (Ami, Inashiki district)"></div>
-            <div class="flex-image"><img src="https://i.imgur.com/6ksII8q.jpg" alt="Landscape at Kamikashiwada (Ushiku)"></div>
-        </div>
-        <figcaption>Japanese rural landscape in <a href="https://en.wikipedia.org/wiki/Ibaraki_Prefecture">Ibaraki Prefecture</a> from the <a href="https://en.wikipedia.org/wiki/Ken-%C5%8C_Expressway">Ken-Ō Expressway</a>. From left to right and top to bottom:<br><a href="https://www.google.com/maps/@35.9043102,140.3751123,139a,35y,307.27h,58.44t/data=!3m1!1e3?hl=en">Jusanmado</a> (<a href="https://en.wikipedia.org/wiki/Kawachi,_Ibaraki">Kawachi</a>, <a href="https://en.wikipedia.org/wiki/Inashiki_District,_Ibaraki">Inashiki district</a>); <a href="https://www.google.com/maps/@35.9392512,140.3312605,83a,35y,254.53h,75.59t/data=!3m1!1e3?hl=en">Ono river</a> (Komazuka, <a href="https://en.wikipedia.org/wiki/Inashiki,_Ibaraki">Inashiki</a>);<br>
-        <a href="https://www.google.com/maps/@35.9923544,140.1903331,47a,35y,202.97h,75.36t/data=!3m1!1e3?hl=en">Koike</a> (<a href="https://en.wikipedia.org/wiki/Ami,_Ibaraki">Ami</a>, <a href="https://en.wikipedia.org/wiki/Inashiki,_Ibaraki">Inashiki</a>); <a href="https://www.google.com/maps/@35.9944758,140.1594784,31a,35y,206.72h,77.14t/data=!3m1!1e3?hl=en">Kamikashiwada</a> (<a href="https://en.wikipedia.org/wiki/Ushiku,_Ibaraki">Ushiku</a>)</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img src="https://i.imgur.com/SiFJh8w.jpg" alt="Landscape at Jusanmado (Kawachi, Inashiki district)">
+        <img src="https://i.imgur.com/zDOjJtL.jpg" alt="Landscape at Ono river (Komazuka, Inashiki)">
+        <img src="https://i.imgur.com/9hglLKh.jpg" alt="Landscape at Koike (Ami, Inashiki district)">
+        <img src="https://i.imgur.com/6ksII8q.jpg" alt="Landscape at Kamikashiwada (Ushiku)">
+    </div>
+    <figcaption>Japanese rural landscape in <a href="https://en.wikipedia.org/wiki/Ibaraki_Prefecture">Ibaraki Prefecture</a> from the <a href="https://en.wikipedia.org/wiki/Ken-%C5%8C_Expressway">Ken-Ō Expressway</a>. From left to right and top to bottom:<br><a href="https://www.google.com/maps/@35.9043102,140.3751123,139a,35y,307.27h,58.44t/data=!3m1!1e3?hl=en">Jusanmado</a> (<a href="https://en.wikipedia.org/wiki/Kawachi,_Ibaraki">Kawachi</a>, <a href="https://en.wikipedia.org/wiki/Inashiki_District,_Ibaraki">Inashiki district</a>); <a href="https://www.google.com/maps/@35.9392512,140.3312605,83a,35y,254.53h,75.59t/data=!3m1!1e3?hl=en">Ono river</a> (Komazuka, <a href="https://en.wikipedia.org/wiki/Inashiki,_Ibaraki">Inashiki</a>);<br>
+    <a href="https://www.google.com/maps/@35.9923544,140.1903331,47a,35y,202.97h,75.36t/data=!3m1!1e3?hl=en">Koike</a> (<a href="https://en.wikipedia.org/wiki/Ami,_Ibaraki">Ami</a>, <a href="https://en.wikipedia.org/wiki/Inashiki,_Ibaraki">Inashiki</a>); <a href="https://www.google.com/maps/@35.9944758,140.1594784,31a,35y,206.72h,77.14t/data=!3m1!1e3?hl=en">Kamikashiwada</a> (<a href="https://en.wikipedia.org/wiki/Ushiku,_Ibaraki">Ushiku</a>)</figcaption>
+</figure>
 
 #### The religion: a first impression
 
 From behind the forest, a statue appears in the distance: a huge standing Buddha (also known as [大仏](https://en.wikipedia.org/wiki/Daibutsu), *Daibutsu*, 'giant Buddha'). I later came to know it was the [Ushiku Daibutsu](https://en.wikipedia.org/wiki/Ushiku_Daibutsu), the highest statue in Japan and 4th highest statue in the world as of 2018, made out of bronze in the 1990s.
 
-<div class="div-of-images">
-    <figure>
-        <div class="flex-image-stripe">
-            <div class="flex-image" style="flex: 1.3333;"><img src="https://i.imgur.com/OUBgST4.jpg"></div>
-            <div class="flex-image" style="flex: 1.3636;"><img src="https://upload.wikimedia.org/wikipedia/en/6/62/Ushiku.jpg"></div>
-        </div>
-    <figcaption><a href="https://en.wikipedia.org/wiki/Ushiku_Daibutsu">Ushiku Daibutsu</a> (on the left as I saw it, on the right as it should be seen)</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-image-stripe">
+        <img style="flex: 1.3333;" src="https://i.imgur.com/OUBgST4.jpg">
+        <img style="flex: 1.3636;" src="https://upload.wikimedia.org/wikipedia/en/6/62/Ushiku.jpg">
+    </div>
+<figcaption><a href="https://en.wikipedia.org/wiki/Ushiku_Daibutsu">Ushiku Daibutsu</a> (on the left as I saw it, on the right as it should be seen)</figcaption>
+</figure>
