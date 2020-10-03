@@ -158,52 +158,46 @@ I found the cost of living in Japan quite affordable when compared to Portugal; 
 There was one particularity I noticed in Japanese currency: all coins are relatively 'normal' (they have no holes and bear their values in arabic numerals), except for one small copper coin: it has a hole and bears no value in arabic numerals. Yu-san then explained us they're worth ¥5, and since they're called 五円 (*go en*, 'five yen') which sounds similar to 御縁 (*go-en*, 'spiritual connection') they're usually kept in wallets or thrown in shrines for good luck and prosperity by establishing a good connection with spirits. She additionally told us that ¥50 coins, called 五十円 (*gojū-en*, 'fifty yen'), are also considered by some to give good luck due to similarities with the 5¥ coin (similar name, and the hole).
 
 <figure>
-    <table class="table-of-images">
-        <tr>
-            <td>
-                <table class="table-in-table">
-                    <tr>
-                        <th>Coin</th>
-                        <th>Value</th>
-                        <th>Coin</th>
-                        <th>Value</th>
-                    </tr>
-                    <tr>
-                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/1JPY.JPG"></td><td>¥1</td>
-                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/50JPY.JPG"></td><td>¥50</td>
-                    </tr>
-                    <tr>
-                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/5JPY.JPG"></td><td>¥5</td>
-                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/100JPY.JPG"></td><td>¥100</td>
-                    </tr>
-                    <tr>
-                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/10JPY.JPG"></td><td>¥10</td>
-                        <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/500JPY.JPG"></td><td>¥500</td>
-                    </tr>
-                </table>
-            </td>
-            <td>
-                <table class="table-in-table">
-                    <tr>
-                        <th>Note</th>
-                        <th>Value</th>
-                    </tr>
-                    <tr>
-                        <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/1000_yen_banknote_2004.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/1000_Yen_from_Back.jpg"></td><td>¥1,000</td>
-                    </tr>
-                    <tr>
-                        <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/P103-2000Yen-%282000%29_front.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/2000_Yen_Murasaki_Shikibu.jpg"></td><td>¥2,000</td>
-                    </tr>
-                    <tr>
-                        <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/5000_Yenes_%282004%29_%28Anverso%29.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/5000_Yenes_%282004%29_%28Reverso%29.jpg"></td><td>¥5,000</td>
-                    </tr>
-                    <tr>
-                        <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/10000_Yenes_%28Anverso%29.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/10000_Yenes_%28Reverso%29.jpg"></td><td>¥10,000</td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
+    <div class="flex-image-stripe">
+        <table>
+            <tr>
+                <th>Coin</th>
+                <th>Value</th>
+                <th>Coin</th>
+                <th>Value</th>
+            </tr>
+            <tr>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/1JPY.JPG"></td><td>¥1</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/50JPY.JPG"></td><td>¥50</td>
+            </tr>
+            <tr>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/5JPY.JPG"></td><td>¥5</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/100JPY.JPG"></td><td>¥100</td>
+            </tr>
+            <tr>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/10JPY.JPG"></td><td>¥10</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/500JPY.JPG"></td><td>¥500</td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <th>Note</th>
+                <th>Value</th>
+            </tr>
+            <tr>
+                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/1000_yen_banknote_2004.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/1000_Yen_from_Back.jpg"></td><td>¥1,000</td>
+            </tr>
+            <tr>
+                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/P103-2000Yen-%282000%29_front.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/2000_Yen_Murasaki_Shikibu.jpg"></td><td>¥2,000</td>
+            </tr>
+            <tr>
+                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/5000_Yenes_%282004%29_%28Anverso%29.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/5000_Yenes_%282004%29_%28Reverso%29.jpg"></td><td>¥5,000</td>
+            </tr>
+            <tr>
+                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/10000_Yenes_%28Anverso%29.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/10000_Yenes_%28Reverso%29.jpg"></td><td>¥10,000</td>
+            </tr>
+        </table>
+    </div>
     <figcaption>Japanese yen coins and banknotes</figcaption>
 </figure>
 
