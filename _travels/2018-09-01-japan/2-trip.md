@@ -17,7 +17,7 @@ Luckily our flight had the right to an airport sleeve, so we had little idea on 
 As we were (finally) picked up at the airport, we took the [Ken-Ō Expressway](https://en.wikipedia.org/wiki/Ken-%C5%8C_Expressway) <img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/C4_Expressway_%28Japan%29.png/68px-C4_Expressway_%28Japan%29.png"> to Tsukuba (curiously enough, there was a considerable length of that expressway with only one lane in each way), so we drove for about an hour through the Japanese countryside. And to be honest, it was unparalleled to anything I had ever seen in my life, particularly for an European used to reasonably small trees prepared for harsh European winters: the tall and leafy trees making up dense forests, intertwined with vast fields (assumed to be rice; some green, and some brown-ish) and long canals, and occasionally some agricultural buildings, two-story houses and warehouses. Although it was such a simple view, just reflecting on the uniqueness of this country I had arrived to a couple hours before, and considering the average countryside and landscape was so simple yet beautiful, it almost made me shed a tear in happiness and wonder how much Japan would amaze me.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/SiFJh8w.jpg" alt="Landscape at Jusanmado (Kawachi, Inashiki district)">
         <img src="https://i.imgur.com/zDOjJtL.jpg" alt="Landscape at Ono river (Komazuka, Inashiki)">
         <img src="https://i.imgur.com/9hglLKh.jpg" alt="Landscape at Koike (Ami, Inashiki district)">
@@ -32,7 +32,7 @@ As we were (finally) picked up at the airport, we took the [Ken-Ō Expressway](h
 From behind the forest, a statue appears in the distance: a huge standing Buddha (also known as [大仏](https://en.wikipedia.org/wiki/Daibutsu), *Daibutsu*, 'giant Buddha'). I later came to know it was the [Ushiku Daibutsu](https://en.wikipedia.org/wiki/Ushiku_Daibutsu), the highest statue in Japan and 4th highest statue in the world as of 2018, made out of bronze in the 1990s.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 1.3333;" src="https://i.imgur.com/OUBgST4.jpg">
         <img style="flex: 1.3636;" src="https://upload.wikimedia.org/wikipedia/en/6/62/Ushiku.jpg">
     </div>

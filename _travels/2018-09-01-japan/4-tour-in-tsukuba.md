@@ -54,7 +54,7 @@ On the outside there is a real-scale model of the [H-II](https://en.wikipedia.or
 We visited the Exhibition Hall, which is the Tsukuba Space Center visitors venue by excellence, showcasing the most important (and impressive) parts of the work developed by JAXA and the organizations that preceded it.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/MNhm9Fn.jpg" alt="Kounotori, from the side">
         <img src="https://i.imgur.com/r5c9XJj.jpg" alt="Kounotori, from below">
         <img src="https://i.imgur.com/XZCSD9n.jpg" alt="Inside of Kounotori, from below">
@@ -63,7 +63,7 @@ We visited the Exhibition Hall, which is the Tsukuba Space Center visitors venue
 </figure>
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 1.3333;" src="https://i.imgur.com/6cMzExZ.jpg" alt="Kibō module, from the side">
         <img style="flex: 0.7500;" src="https://i.imgur.com/uUk6KeK.jpg" alt="Kibō module, experiment logistics module">
     </div>
@@ -76,7 +76,7 @@ Here are some of the satellites that are part of Japanese space development:
 - [ETS-VIII](https://en.wikipedia.org/wiki/ETS-VIII) (also called *Kiku-8*), a communications satellite, launched in 2007 and deactivated in 2017, operated at [GEO](https://en.wikipedia.org/wiki/Geosynchronous_orbit) orbit. Its deployable antenna was the size of a tennis court, making it the largest geostationary satellite in the world.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/yOwIWaQ.jpg" alt="Kiku-4, 7 and 8">
         <img src="https://i.imgur.com/AMcQ9C5.jpg" alt="Japanese space rockets">
     </div>
@@ -87,7 +87,7 @@ Here are some of the satellites that are part of Japanese space development:
 We also saw the [SELENE](https://en.wikipedia.org/wiki/SELENE) (also known as *Kaguya*), a lunar orbiter launched in 2007 and decomissioned in 2009 after it was intentionally crashed into the Moon. Its distinctive feature is its black color, unusual for spacecraft which are usually either white (as a standard color) or gold (because they are covered in gold leaf, which is highly reflective).
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/bq6NYws.jpg" alt="LE-5 second stage engine">
         <img src="https://i.imgur.com/HGqqqkD.jpg" alt="SELENE satellite model">
     </div>

@@ -42,20 +42,18 @@ As the dorms had vending machines in the ground floor, I often bought cold tea f
 
 During my stay at NITS I had right to a small room with a bed, a desk, a drying rack and a small bathroom with one of those high-tech toilets (aka [washlets](https://en.wikipedia.org/wiki/Washlet)) and a sink. It wasn't much, but it was nice and comfy, and every room had air conditioning (every room and common space had its own air conditioning UNIT, not just a thermostat and an air vent), which was good since, although it was not particularly hot the rest of the days, the room walls were always pretty warm so the temperature inside the room would rise quite rapidly.
 
-<div style="text-align: center; width:100%">
-	<figure>
-	    <table class="table-of-images">
-		    <tr>
-                <td rowspan="2"  width="34.2%" vertical-align="center"><img src="https://i.imgur.com/dvPNUVs.jpg" alt="My room"/></td>
-                <td width="30%" vertical-align="center"><img src="https://i.imgur.com/Hna0o5c.jpg" alt="View from my room, to the left" /></td>
-            </tr>
-            <tr>
-		        <td width="30%" vertical-align="center"><img src="https://i.imgur.com/I5Ilc1j.jpg" alt="View from my room, to the right" /></td>
-            </tr>
-		</table>
-	    <figcaption>My room, and the views from the window</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-row">
+        <div class="flex-column" style="flex: 1">
+            <img src="https://i.imgur.com/dvPNUVs.jpg" alt="My room"/>
+        </div>
+        <div class="flex-column" style="flex: 0.8822">
+            <img src="https://i.imgur.com/Hna0o5c.jpg" alt="View from my room, to the left" />
+            <img src="https://i.imgur.com/I5Ilc1j.jpg" alt="View from my room, to the right"/>
+        </div>
+    </div>
+    <figcaption>My room, and the views from the window</figcaption>
+</figure>
 
 We had free WiFi all over NITS, and in some places I even had [eduroam](https://en.wikipedia.org/wiki/Eduroam).
 
@@ -158,7 +156,7 @@ I found the cost of living in Japan quite affordable when compared to Portugal; 
 There was one particularity I noticed in Japanese currency: all coins are relatively 'normal' (they have no holes and bear their values in arabic numerals), except for one small copper coin: it has a hole and bears no value in arabic numerals. Yu-san then explained us they're worth ¥5, and since they're called 五円 (*go en*, 'five yen') which sounds similar to 御縁 (*go-en*, 'spiritual connection') they're usually kept in wallets or thrown in shrines for good luck and prosperity by establishing a good connection with spirits. She additionally told us that ¥50 coins, called 五十円 (*gojū-en*, 'fifty yen'), are also considered by some to give good luck due to similarities with the 5¥ coin (similar name, and the hole).
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <table>
             <tr>
                 <th>Coin</th>
@@ -208,7 +206,7 @@ On the eve of the second day of the competition (4 Sep), we were warned [typhoon
 It was not much to worry as the constructions at NITS were pretty solid, but the trees shook quite a lot during the afternoon, and I experienced the strongest winds in my life, capable of dragging a standing person. I definitely don't live in a hurricane/typhoon area; on the other hand the Pacific has a typhoon season every **year**.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 1.00;" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Jebi_2018_track.png" alt="Typhoon Jebi track and intensity">
         <img style="flex: 0.75;" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Jebi_2018-08-31_0330Z.jpg" alt="Satellite footage of typhoon Jebi">
     </div>
@@ -224,7 +222,7 @@ The next day (5 Sep) I checked the news, but there was barely any trace of what 
 The next night, another earthquake happened, this time at 6 Sep 3:08. I was about to go to sleep as the shaking started. It was clearly less intense, and since I already knew what was going on I just stayed laid in my bed, feeling it shaking a bit. This second time was a curious experience, it was just unfortunate to know the next day that it was so intense it had its own [Wikipedia page](https://en.wikipedia.org/wiki/2018_Hokkaido_Eastern_Iburi_earthquake). It had magnitude 6.6, and happened in the southern coastal subprefecture of [Iburi, Hokkaido](https://en.wikipedia.org/wiki/Iburi_Subprefecture), about 30km below ground. It caused several service disruptions and landslides in Hokkaido, killing 41, injuring 691 and causing power outages for 5.3M people. The total damage was estimated to be at least 367.5 billion yen (2.85 billion €, about 1.4% of the Portuguese GDP, which means we are just one or two degrees of magnitude below the scale of what a country produces in a year).
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 0.8947;" src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg" alt="USGS intensity map of Ibaraki September 5 earthquake">
         <img style="flex: 0.8512;" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg" alt="USGS shakemap of Hokkaido September 6 earthquake">
     </div>
@@ -238,7 +236,7 @@ A fun fact for some, an inconvenience and a tragic event for others.
 During the second part of the competition, I had to use the toilet. First of all, the queue was so long I had to wait for about 15min for an empty toilet in the middle of the competition. Secondly, as my time finally came I just entered the first empty toilet, only to find it was a [squat toilet](https://en.wikipedia.org/wiki/Squat_toilet), a first to me. It is however paradigmatic how a society obsessed with hygiene and [washlets](https://en.wikipedia.org/wiki/Washlet), the most technologically and functionally advanced Western-style toilets, can coexist with apparently traditional squat toilets.
 
 <figure style="width: 80%;">
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 1.3333;" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg" alt="Washlet">
         <img style="flex: 0.7500;" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg" alt="Japanese squat toilet">
     </div>

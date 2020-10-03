@@ -5,7 +5,7 @@ We then arrived at Akihabara station, one of the most famous and busiest train s
 As soon as I set foot outside the train station (through the Main Gate North Exit), I was amazed at the sea of tall buildings. We didn't lose much time and entered the first shopping centre we found, Yodobashi-Akiba. It is the largest shopping centre in Akihabara, with a huge area and seven-story high. It is one of a series of shopping centres managed by electronics retailer [Yodobashi Camera](https://en.wikipedia.org/wiki/Yodobashi_Camera).
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 0.7500;" src="https://i.imgur.com/t2GiloX.jpg" alt="Tokyo Metropolitan University Marunouchi Satellite Campus">
         <img style="flex: 1.3333;" src="https://i.imgur.com/xmVAJzL.jpg" alt="Akihabara UDX">
     </div>
@@ -17,7 +17,7 @@ The shopping centre was so large we had to get some maps to find our way through
 We then crossed the street to the most iconic spot of Akihabara, informally known as Akihabara Crossing, formed by the intersection of the main commercial street with the street leading to the train station.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/aBC3hgX.jpg" alt="Akihabara Crossing, facing south">
         <img src="https://i.imgur.com/V46iSuv.jpg" alt="Akihabara Crossing, facing north">
     </div>
@@ -29,7 +29,7 @@ For starters, we entered in the SEGA building. It's called SEGA Akihabara Buildi
 We went on for a bit, until the end of that area, just before crossing the [Kanda River](https://en.wikipedia.org/wiki/Kanda_River).
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 1.3333;" src="https://i.imgur.com/eLRmlRU.jpg" alt="Akihabara closer to the river, facing south">
         <img style="flex: 0.7500;" src="https://i.imgur.com/OTPmsEC.jpg" alt="Akihabara closer to the river, facing north">
     </div>
@@ -39,7 +39,7 @@ We went on for a bit, until the end of that area, just before crossing the [Kand
 Because some of us wanted to have sushi and other didn't (including myself), we split into two groups. Now in a smaller group, we turned left to reenter Akihabara Station via the Electric Town South Exit to proceed to our next destination.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/kxzJYMM.jpg" alt="Near Electric Town South Exit, facing east">
         <img src="https://i.imgur.com/mbxKyKs.jpg" alt="Near Electric Town South Exit, facing south">
         <img src="https://i.imgur.com/AWFSuCL.jpg" alt="Near Electric Town South Exit, facing west">
@@ -73,20 +73,18 @@ At [Ochanomizu](https://en.wikipedia.org/wiki/Ochanomizu) we didn't see anything
 - [JR East](https://en.wikipedia.org/wiki/Ochanomizu_Station#JR_East) to the southeast (south of the river), serving trains;
 - [Tokyo Metro](https://en.wikipedia.org/wiki/Ochanomizu_Station#Tokyo_Metro) to the north of the river, serving metros.
 
-<div style="text-align: center; width:100%">
-	<figure>
-	    <table class="table-of-images">
-		    <tr>
-                <td width="30%" vertical-align="center"><img src="https://i.imgur.com/wuD20DO.jpg" alt="View at Ochanomizu Station exit" /></td>
-                <td rowspan="2"  width="34.2%" vertical-align="center"><img src="https://i.imgur.com/1NXSfLH.jpg" alt="Kanda River from Ochanomizu bridge" /></td>
-            </tr>
-            <tr>
-		        <td width="30%" vertical-align="center"><img src="https://i.imgur.com/cv11lOP.jpg" alt="Tokyo Medical and Dental University and Juntendo University Hospital" /></td>
-            </tr>
-		</table>
-	    <figcaption>At <a href="https://en.wikipedia.org/wiki/Ochanomizu">Ochanomizu</a>. On the top left, the view as we left the station.<br>On the bottom left, the view across the bridge (on the center is the <a href="https://www.skyscrapercenter.com/tokyo/md-tower/23795/">M&D Tower</a>; both the buildings on the right and center are part of the <a href="https://en.wikipedia.org/wiki/Tokyo_Medical_and_Dental_University">Tokyo Medical and Dental University</a>; on the left is the <a href="https://www.juntendo.ac.jp/hospital/global/english/">Juntendo University Hospital</a>.<br>On the right, <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River. </a></figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-row">
+        <div class="flex-column" style="flex: 0.8822">
+            <img src="https://i.imgur.com/wuD20DO.jpg" alt="View at Ochanomizu Station exit" />
+            <img src="https://i.imgur.com/cv11lOP.jpg" alt="Tokyo Medical and Dental University and Juntendo University Hospital" />
+        </div>
+        <div class="flex-column" style="flex: 1">
+            <img src="https://i.imgur.com/1NXSfLH.jpg" alt="Kanda River from Ochanomizu bridge" />
+        </div>
+    </div>
+    <figcaption>At <a href="https://en.wikipedia.org/wiki/Ochanomizu">Ochanomizu</a>. On the top left, the view as we left the station.<br>On the bottom left, the view across the bridge (on the center is the <a href="https://www.skyscrapercenter.com/tokyo/md-tower/23795/">M&D Tower</a>; both the buildings on the right and center are part of the <a href="https://en.wikipedia.org/wiki/Tokyo_Medical_and_Dental_University">Tokyo Medical and Dental University</a>; on the left is the <a href="https://www.juntendo.ac.jp/hospital/global/english/">Juntendo University Hospital</a>.<br>On the right, <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River. </a></figcaption>
+</figure>
 
 So we went to Ochanomizu Tokyo Metro, and headed to [Kōrakuen Station](https://en.wikipedia.org/wiki/K%C5%8Drakuen_Station), in the central part of [Bunkyo](https://en.wikipedia.org/wiki/Bunky%C5%8D), using the [Marunouchi Line](https://en.wikipedia.org/wiki/Tokyo_Metro_Marunouchi_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Logo_of_Tokyo_Metro_Marunouchi_Line.svg" class="inline">.
 
@@ -103,7 +101,7 @@ At the the [Bunkyo Civic Center](https://en.wikipedia.org/wiki/Bunkyo_Civic_Cent
 The view was quite great, altough I was a bit disappointed as I could not see [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji), as I even brough my binoculars. In Tokyo it was only partly cloudy, but apparently it was misty around [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) so we couldn't see much in the distance.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/LfRGUoX.jpg" alt="View from Bunkyo Civic Center, facing east">
         <img src="https://i.imgur.com/24uzeH1.jpg" alt="View from Bunkyo Civic Center, facing northwest">
         <img src="https://i.imgur.com/o0Jw38e.jpg" alt="View from Bunkyo Civic Center, facing west-southwest">

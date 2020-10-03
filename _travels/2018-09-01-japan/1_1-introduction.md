@@ -1,5 +1,5 @@
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 1.5000;" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Flag of Japan">
         <img style="flex: 1.1068;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/850px-Japan_bluemarble_location_map_with_side_map_of_the_Ryukyu_Islands.jpg" alt="Map of Japan">
     </div>

@@ -28,7 +28,7 @@ Before going into details, let me just mention the Japanese railroads and metro 
 Resuming: we eventually arrived at the Tsukuba Station, where we met our teachers. We bought and charged our cards, and then took the [Tsukuba Express](https://en.wikipedia.org/wiki/Tsukuba_Express) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Tsukuba_Express_mark.svg" class="inline"> to [Akihabara Station](https://en.wikipedia.org/wiki/Akihabara_Station) (¥1,205).
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/5p8L5pv.jpg" alt="Bus terminal at Tsukuba Station">
         <img src="https://i.imgur.com/jB8e4F1.jpg" alt="Buildings surrounding Tsukuba Station">
     </div>
@@ -53,7 +53,7 @@ One typical feature of the Japanese suburb is that almost all cables are placed 
 That day was a bit cloudy and misty (there was light rain twice that day). As we started approaching Tokyo, the landscape progressively changed from rice fields into a few houses, then to huge plains of two-story houses, then growing buildings. It was quite a remarkable sight, a demonstration of how many we humans really are and the extent people go to have affordable and comfortable housing. Finally, in the distance, the huge [Tokyo Skytree](https://en.wikipedia.org/wiki/Tokyo_Skytree) (tallest tower in the world) started appearing from the light mist: we were finally entering Tokyo, the greatest metropolis on the surface of Earth.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/y90tb33.jpg" alt="Approaching Tokyo with Tokyo Skytree in the background">
         <img src="https://i.imgur.com/b9Qdfa5.jpg" alt="Approaching Tokyo, some green areas and cable towers">
     </div>

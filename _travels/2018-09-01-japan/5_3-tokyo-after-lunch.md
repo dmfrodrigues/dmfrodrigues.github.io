@@ -29,7 +29,7 @@ The [Meiji Shrine](https://en.wikipedia.org/wiki/Meiji_Shrine) is the Shinto shr
 We entered the shrine via the southeast entry (the first [Torii](https://en.wikipedia.org/wiki/Torii) gate of the shrine, which is also the largest wooden torii in the world), and took a curve to left and then to the right to enter the central part of the shrine using the southern inner gate. In the way we found two very particular structures, one with sake vessels, and other with large wine barrels with golden plates mostly engraved with French names; these were donations of sake and Burgundy wine to the shrine.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/nK9vUum.jpg" alt="Sake donations at Meiji Shrine">
         <img src="https://i.imgur.com/Q54I7pc.jpg" alt="Wine donations at Meiji Shrine">
     </div>
@@ -39,7 +39,7 @@ We entered the shrine via the southeast entry (the first [Torii](https://en.wiki
 On approaching the inner gate there was a small water fountain, to wash our hands before entering the central part of the shrine. Inside the shrine the northern side housed the main praying and offerings area, which we were asked not to photograph by shrine guards. Aside from that, there was a prayers tree, with a large wooden structure around it to strap small wood tables with prayers. This sort of prayers are often collected and burnt so the gods listen to them.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/RhY8evk.jpg" alt="Meiji Shrine south inner gate from the outside">
         <img src="https://i.imgur.com/TM3Ijbs.jpg" alt="Inside the Meiji Shrine main yard, facing north">
         <img src="https://i.imgur.com/FXjfucy.jpg" alt="Prayers around a tree in the main yard">
@@ -80,7 +80,7 @@ Having taken a short rest, we continued our way to [Yoyogi Station](https://en.w
 We left [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Station) through the north, and continued to the east, up to Akabane Bridge (or *Akabane-Bashi* in Romaji), where we had our first sight of the iconic [Tokyo Tower](https://en.wikipedia.org/wiki/Tokyo_Tower). In old times it was topped by television and radio broadcast antennas, but given most surrounding buildings are now at least as tall as the tower it was mostly repurposed as an observatory. It is built in an Eiffel Tower-like lattice style, and painted white and international orange to comply with air safety regulations.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/mDvWBvv.jpg" alt="Tokyo Tower from the Akabane Bridge">
         <img src="https://i.imgur.com/PnyrmFi.jpg" alt="Sakurada-Dori Avenue crossing Akabane Bridge">
     </div>
@@ -94,7 +94,7 @@ We left [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Statio
 We then kept going east, and entered the [Shiba Park](https://en.wikipedia.org/wiki/Shiba_Park) from the south. This park was built around the [Zōjō-ji temple](https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji), and it is a popular place among locals and tourists for its great views over the temple and Tokyo Tower. It is also a commonplace in advertisements and movies, but it particularly struck me when I saw [Tokyo Magnitude 8.0](https://en.wikipedia.org/wiki/Tokyo_Magnitude_8.0) as it is one of the areas where the series takes place.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 0.7500;" src="https://i.imgur.com/iUpDZg6.jpg" alt="Tokyo Tower from Shiba Park">
         <img style="flex: 1.3333;" src="https://i.imgur.com/M2lPRSa.jpg" alt="Zōjō-ji temple from the south">
     </div>
@@ -115,7 +115,7 @@ The [Zōjō-ji temple](https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji) is a lar
 After a quite long metro trip, we decided to have a quick look around the perimeter of the park, and then took a sit to have some rest and appretiate the view as the Tokyo Tower started to light up.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/xrGhXOx.jpg" alt="Gate of Taitoku-in Mausoleum">
         <img src="https://i.imgur.com/dZAIH9x.jpg" alt="Kuromon">
     </div>
@@ -126,7 +126,7 @@ After a quite long metro trip, we decided to have a quick look around the perime
 </figure>
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 1.3333;" src="https://i.imgur.com/C6J5mUi.jpg" alt="Tokyo Tower and Ankokuden Hall">
         <!-- <img style="flex: 1.3333;" src="https://i.imgur.com/8fcxDsp.jpg" alt="Tokyo Tower and Daiden"> -->
         <img style="flex: 0.7500;" src="https://i.imgur.com/UB8xZZL.jpg" alt="Tokyo Tower lighting up in the evening">
@@ -144,7 +144,7 @@ As we were walking by the northern part of the temple, we noticed these small st
 At the time all the statues had pinwheels. The considerable wind made them rapidly turn, not too fast so it was not too agitated, but not too slow for it muffled all the noise of the surrounding metropolis. A moment of relative calm, and truly one of those sights that hits you in the feels.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img style="flex: 1.3333;" src="https://i.imgur.com/xo9PERr.jpg" alt="Jizō statues">
         <img style="flex: 0.7500;" src="https://i.imgur.com/84ingEp.jpg" alt="More Jizō statues, in a long row">
         <img style="flex: 0.7500;" src="https://i.imgur.com/wjw9ZBM.jpg" alt="Some Jizō statues up close">
@@ -166,7 +166,7 @@ We left the temple grounds through a side gate, and went around the perimeter of
 We went up the street in front of the *Sangedatsumon* to find our last visit point in Shiba: the [World Trade Center Building](https://en.wikipedia.org/wiki/World_Trade_Center_(Tokyo)), a 40-story commercial building topped by an observation floor. The tickets costed us ¥620 each, so it was definitely worth for the incredible views at night (although it was better before the neighbouring Nippon Life Hamamatsucho Crea Tower was built to the west). We were there for almost an hour.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/EaMkKKJ.jpg" alt="View 1 from WTC">
         <img src="https://i.imgur.com/NXUgw2f.jpg" alt="View 2 from WTC">
         <img src="https://i.imgur.com/a0mIvtu.jpg" alt="View 3 from WTC">
@@ -196,7 +196,7 @@ As we arrived at [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station
 As we were in Shibuya we could not miss the [Shibuya Crossing](https://en.wikipedia.org/wiki/Shibuya_Crossing), the most well-known Japanese scramble crossing. We crossed it twice just for the sake of being able to say we crossed it 🙂.
 
 <figure>
-    <div class="flex-image-stripe">
+    <div class="flex-row">
         <img src="https://i.imgur.com/WBJySwf.jpg" alt="Hachikō Square, crowded">
         <img src="https://i.imgur.com/Tm53IKa.jpg" alt="Buildings around Hachikō Square">
     </div>

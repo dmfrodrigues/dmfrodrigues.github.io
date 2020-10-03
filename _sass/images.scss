@@ -1,6 +1,11 @@
 figure > img,
-figure div.flex-image-stripe > img {
+figure div.flex-row > img,
+figure div.flex-row div.flex-column > img {
     margin: 2px;
+}
+
+figure > img,
+figure div.flex-row > img {
     max-width: 600px;
     max-height: 600px;
 }
@@ -42,7 +47,7 @@ table.table-of-images>tr>td, table.table-of-images>tbody>tr>td {
     border: 0;
 }
 
-div.flex-image-stripe > table {
+div.flex-row > table {
     width: auto;
     margin-bottom: 0px;
 }
@@ -51,14 +56,13 @@ figure {
     text-align: center;
 }
 
-div.flex-image-stripe {
+div.flex-row {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
 }
 
-div.flex-image-stripe > img {
+div.flex-row > img {
     flex: 1;
     min-height: 220px;
 }
@@ -83,3 +87,71 @@ td.banknote > img {
     width: 100px;
 }
 
+div.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+/*
+
+figure > div.grid {
+    display: grid;
+    grid-gap: 4px;
+}
+
+figure > div.grid > div.nw {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+figure > div.grid > div.sw {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+
+figure > div.grid > div.ne {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+figure > div.grid > div.se {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+figure > div.grid > div.n {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+figure > div.grid > div.s {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+figure > div.grid > div.w {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+figure > div.grid > div.e {
+    grid-column-start: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+*/
