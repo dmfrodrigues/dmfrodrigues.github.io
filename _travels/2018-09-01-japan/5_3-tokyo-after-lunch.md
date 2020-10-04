@@ -172,7 +172,7 @@ We went up the street in front of the *Sangedatsumon* to find our last visit poi
         <img src="https://i.imgur.com/a0mIvtu.jpg" alt="View 3 from WTC">
         <img src="https://i.imgur.com/7ksWy7K.jpg" alt="View 4 from WTC">
     </div>
-    <img src="https://i.imgur.com/QQpH0v2.jpg" alt="View 5 from WTC">
+    <img class="wide" src="https://i.imgur.com/QQpH0v2.jpg" alt="View 5 from WTC">
     <figcaption>
         The view from the World Trade Center Building observatory
     </figcaption>

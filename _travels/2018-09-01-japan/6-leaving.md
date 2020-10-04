@@ -12,7 +12,7 @@ Since the Portuguese were the first Europeans to contact with the Japanese, it i
 At the duty-free zone I did have my first look at Castella. As a brief note, in Portugal a good *pão de ló* costs €15-20/kg, so you can see *castella* is a premium in Japan when a box with clearly less than a kilogram costs ¥3,000 (€23.26), quite expensive even for a duty-free shop.
 
 <figure>
-    <img src="https://i.imgur.com/XUg9Ujy.jpg" alt="Castella sponge cake at Narita Airport">
+    <img class="discrete" src="https://i.imgur.com/XUg9Ujy.jpg" alt="Castella sponge cake at Narita Airport">
     <figcaption>Castella at the airport</figcaption>
 </figure>
 

@@ -8,6 +8,8 @@ figure > img,
 figure div.flex-row > img {
     max-width: 600px;
     max-height: 600px;
+    width: 100%;
+    object-fit: contain;
 }
 
 figure > img {
@@ -19,6 +21,11 @@ figure img.discrete {
     max-height: 400px;
 }
 
+figure img.wide {
+    max-width: none;
+    max-height: none;
+}
+
 div.flex-row > table {
     width: auto;
     margin-bottom: 0px;
@@ -28,11 +35,20 @@ figure {
     text-align: center;
 }
 
+figure > table {
+    margin: 0;
+}
+
+figure > figcaption {
+    margin: 0.5em 0 0 0;
+}
+
 div.flex-row {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
+    margin: auto;
 }
 
 div.flex-row > img {

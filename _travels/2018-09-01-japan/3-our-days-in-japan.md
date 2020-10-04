@@ -235,8 +235,8 @@ A fun fact for some, an inconvenience and a tragic event for others.
 
 During the second part of the competition, I had to use the toilet. First of all, the queue was so long I had to wait for about 15min for an empty toilet in the middle of the competition. Secondly, as my time finally came I just entered the first empty toilet, only to find it was a [squat toilet](https://en.wikipedia.org/wiki/Squat_toilet), a first to me. It is however paradigmatic how a society obsessed with hygiene and [washlets](https://en.wikipedia.org/wiki/Washlet), the most technologically and functionally advanced Western-style toilets, can coexist with apparently traditional squat toilets.
 
-<figure style="width: 80%;">
-    <div class="flex-row">
+<figure>
+    <div class="flex-row" style="max-width: 580px;">
         <img style="flex: 1.3333;" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Calmic-3.jpg" alt="Washlet">
         <img style="flex: 0.7500;" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/C75-MK7.jpg" alt="Japanese squat toilet">
     </div>

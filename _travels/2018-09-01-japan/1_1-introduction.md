@@ -18,7 +18,7 @@
 - [**Shikoku**](https://en.wikipedia.org/wiki/Shikoku) (四国, 'Four Provinces'), south of Honshu and northeast of Kyushu, is the smallest of the four islands, with 3.8M people. It is named after the four ancient provinces that made up the island. It is historically considered the most isolated region of Japan, so the original Japanese cultural traces are more lively there. Its largest city is [Matsuyama](https://en.wikipedia.org/wiki/Matsuyama).
 
 <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" alt="Administrative divisions of Japan" width="50%">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Regions_and_Prefectures_of_Japan_2.svg" alt="Administrative divisions of Japan" style="width: 50%;">
     <figcaption>Administrative divisions of Japan. White lines delineate prefectures, and colors indicate the regions: <span style="color:red"><strong>Hokkaido</strong></span>, <span style="color:#DDDD00"><strong>Tohoku</strong></span>, <span style="color:green"><strong>Kanto</strong></span>, <span style="color:cyan"><strong>Chubu</strong></span>, <span style="color:blue"><strong>Kansai</strong></span>, <span style="color:orange"><strong>Chugoku</strong></span>, <span style="color:gray"><strong>Kyushu</strong></span> and <span style="color:purple"><strong>Shikoku</strong></span></figcaption>
 </figure>
 
