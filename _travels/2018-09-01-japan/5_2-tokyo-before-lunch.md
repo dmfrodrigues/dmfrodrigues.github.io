@@ -123,6 +123,10 @@ Adjacent to the stadium is the [Tokyo Dome City](https://en.wikipedia.org/wiki/T
 We then had lunch at Koraku McDonald's (the place you're most likely to be understood in English, and even so Kevin got a regular, hot tea instead of an iced tea), and then crossed the Suidōbashi bridge over the Kanda River to catch the train at [Suidōbashi Station](https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station) to get to our next destination.
 
 <figure>
-    <img src="https://i.imgur.com/1cczQjp.jpg" alt="Tokyo Dome" class="half"><img src="https://i.imgur.com/IpIn3Dt.jpg" alt="LaQua" class="half"><img src="https://i.imgur.com/Uo5rwnL.jpg" alt="Kanda River at Suidobachi bridge" class="half">
+    <div class="flex-row">
+        <img src="https://i.imgur.com/1cczQjp.jpg" alt="Tokyo Dome">
+        <img src="https://i.imgur.com/IpIn3Dt.jpg" alt="LaQua">
+        <img src="https://i.imgur.com/Uo5rwnL.jpg" alt="Kanda River at Suidobachi bridge">
+    </div>
     <figcaption><a href="https://en.wikipedia.org/wiki/Tokyo_Dome">Tokyo Dome</a>, the <a href="https://en.wikipedia.org/wiki/Tokyo_Dome_City">Tokyo Dome City</a> from the inside, and the <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River</a> from <a href="https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station">Suidōbashi</a> bridge.</figcaption>
 </figure>

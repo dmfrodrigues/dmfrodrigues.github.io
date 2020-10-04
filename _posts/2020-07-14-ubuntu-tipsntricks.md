@@ -14,13 +14,13 @@ However, some particular customizations are not readily available and of great u
 
 The splash screen was probably adopted by Canonical in the line of recent developments in Linux distributions, with the intention of showing Linux distibutions are not niche operating systems for developers only. Thus, they are taking an understandable approach similar to Microsoft Windows, which prefers to hide errors and text messages that might scare the average user and rather try to solve them by itself.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://miro.medium.com/max/700/1*h3RuU3wg_hq6605CnvbugA.jpeg" alt="Ubuntu splash screen" class="half" height="49.4%">
-        <img src="https://i.stack.imgur.com/jR65l.jpg" alt="Ubuntu kernel messages" width="48.2%" height="48.2%">
-        <figcaption>Ubuntu splash screen and kernel messages</figcaption>
-    </figure>
-</div>
+<figure>
+    <div class="flex-row">
+        <img style="flex: 1.3384;" src="https://miro.medium.com/max/700/1*h3RuU3wg_hq6605CnvbugA.jpeg" alt="Ubuntu splash screen">
+        <img style="flex: 1.3163;" src="https://i.stack.imgur.com/jR65l.jpg" alt="Ubuntu kernel messages">
+    </div>
+    <figcaption>Ubuntu splash screen and kernel messages</figcaption>
+</figure>
 
 However, the splash screen is as close to useless as it can get. On the other side, you may have noticed that sometimes on startup and shutdown some strange messages show up, as follows.
 
