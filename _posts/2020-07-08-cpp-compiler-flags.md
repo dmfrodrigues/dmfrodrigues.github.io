@@ -31,6 +31,8 @@ First time into a GNU compiler (`gcc`/`g++`), you're told to use `-Wall` to acti
 
 and many more.
 
+Before going into specifics of compilation flags, there is an interesting feature of GNU compilers: you can assign some names with *attributes* (`__attribute__`), which are to be understood by the GNU compilers. One that I find particular is the `__attribute__((warn_unused_result))`, which warns you if you are ignoring the result of that function somewhere else in your code. This can be useful to remind you the result of that function is important, or otherwise that you should never forget to handle return codes.
+
 ### Being paranoid in GNU G++
 
 Here is a list of `g++` warnings I usually find useful (most of them are self-descriptive, although I will focus on some of them):
