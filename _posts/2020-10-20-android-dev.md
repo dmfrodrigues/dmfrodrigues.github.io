@@ -42,4 +42,26 @@ Then, open it, select all default options, and [install the Flutter and Dart plu
 
 ### Project
 
-It is possible that you might have to [change the gradle version](https://stackoverflow.com/questions/61289461/java-lang-noclassdeffounderror-could-not-initialize-class-org-codehaus-groovy-v). After doing that, try to compile by selecting "Run" in the upper right corner (you have to select a VM first). If it complains about not having accepted some licenses, open the shell, go to `~/Android/Sdk/tools/bin`, run `./sdkmanager --licenses` and accept all licenses. Now try to recompile, and it should hopefully (and finally!) work.
+It is possible that you might have to [change the gradle version](https://stackoverflow.com/questions/61289461/java-lang-noclassdeffounderror-could-not-initialize-class-org-codehaus-groovy-v). After doing that, try to compile by selecting "Run" in the upper right corner (you have to select a VM first).
+
+### Licenses
+
+If it complains about not having accepted some licenses, open the shell, go to `~/Android/Sdk/tools/bin`, run `./sdkmanager --licenses` and accept all licenses. Now try to recompile, and it should hopefully (and finally!) work.
+
+If `./sdkmanager --licenses` fails (most notably if you're using Java 14) with message
+
+```txt
+Exception in thread "main" java.lang.NoClassDefFoundError: javax/xml/bind/annotation/XmlSchema
+	at com.android.repository.api.SchemaModule$SchemaModuleVersion.<init>(SchemaModule.java:156)
+	at com.android.repository.api.SchemaModule.<init>(SchemaModule.java:75)
+	at com.android.sdklib.repository.AndroidSdkHandler.<clinit>(AndroidSdkHandler.java:81)
+	at com.android.sdklib.tool.sdkmanager.SdkManagerCli.main(SdkManagerCli.java:73)
+	at com.android.sdklib.tool.sdkmanager.SdkManagerCli.main(SdkManagerCli.java:48)
+Caused by: java.lang.ClassNotFoundException: javax.xml.bind.annotation.XmlSchema
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:602)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 5 more
+```
+
+then the easiest solution is really to install `openjdk-8-jdk`, change the current Java version to 8, run `./sdkmanager --licenses` and swap again to Java 14. This solution seems pretty dumb, but I find it quite easier than manually changing code you haven't written, as suggested [here](https://stackoverflow.com/a/51644855).
