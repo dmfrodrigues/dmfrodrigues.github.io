@@ -11,11 +11,11 @@ I didn't see anything particular, aside from the fact the street is a bit narrow
     <figcaption>West side of <a href="https://en.wikipedia.org/wiki/Takeshita_Street">Takeshita Street</a>.</figcaption>
 </figure>
 
-We met the sushi group at Takeshita street. They had arrived earlier so while we were checking on the shops the sushi group decided to have some [bubble tea](https://en.wikipedia.org/wiki/Bubble_tea). I can't recall precisely the details, but in broad terms I remember they told us they were guided by an old man from Takeshita street into some adjacent narrow alleys, had to go through multiple staircases and some gates, and finally arrived at some undergroud sort of café. Who would've thought it would be necessary to use means that slightly surpass those of shady businesses just to get some bubble tea.
+We met the sushi group at Takeshita street. They had arrived earlier so while we were checking on the shops the sushi group decided to have some [bubble tea](https://en.wikipedia.org/wiki/Bubble_tea). I can't recall precisely the details, but in broad terms I remember they told us they were guided by an old man from Takeshita street into some adjacent narrow alleys, had to go through multiple staircases and some gates, and finally arrived at some underground sort of café. Who would've thought it would be necessary to use means that slightly surpass those of shady businesses just to get some bubble tea.
 
-Either way while we were waiting I got myself some icecream, after which I had the brilliant idea of going down the street and try to enter this large park with my icecream. Not only was it not just a park (it was *the* Meiji Shrine, one of the most important temples of the *de facto* religion of Japan), but I was barred by a policeman from entering it as soon as I crossed the road. Honestly I hadn't even noticed the policeman, and when I did I didn't realise he was talking to me at first. As he realised I was (obviously) not Japanese he said in some sort of broken english that it was forbidden to eat inside the Shrine (I am of course familiar with the fact one must not eat, and preferrably not drink either, in places of cult, but that usually only applies to closed spaces, so it would be natural to assume I could bring my icecream inside the shrine, as long as it was outdoors and I didn't drop it). Either way we had a seat at a café right in front of the shrine gate.
+Either way while we were waiting I got myself some ice cream, after which I had the brilliant idea of going down the street and try to enter this large park with my ice cream. Not only was it not just a park (it was *the* Meiji Shrine, one of the most important temples of the *de facto* religion of Japan), but I was barred by a policeman from entering it as soon as I crossed the road. Honestly I hadn't even noticed the policeman, and when I did I didn't realise he was talking to me at first. As he realized I was (obviously) not Japanese he said in some sort of broken english that it was forbidden to eat inside the Shrine (I am of course familiar with the fact one must not eat, and preferably not drink either, in places of cult, but that usually only applies to closed spaces, so it would be natural to assume I could bring my ice cream inside the shrine, as long as it was outdoors and I didn't drop it). Either way we had a seat at a café right in front of the shrine gate.
 
-Only recently I noticed the very own bridge I (and my icecream) crossed was itself somewhat of an attraction: [Jingu Bashi](https://en.wikipedia.org/wiki/Jingu_Bashi) (神宮橋, 'Shrine Bridge') is a hotspot for cosplaying given its central position in [Harajuku](https://en.wikipedia.org/wiki/Harajuku).
+Only recently I noticed the very own bridge I (and my ice cream) crossed was itself somewhat of an attraction: [Jingu Bashi](https://en.wikipedia.org/wiki/Jingu_Bashi) (神宮橋, 'Shrine Bridge') is a hotspot for cosplaying given its central position in [Harajuku](https://en.wikipedia.org/wiki/Harajuku).
 
 #### Meiji Shrine
 
@@ -112,7 +112,7 @@ The [Zōjō-ji temple](https://en.wikipedia.org/wiki/Z%C5%8Dj%C5%8D-ji) is a lar
     </figcaption>
 </figure>
 
-After a quite long metro trip, we decided to have a quick look around the perimeter of the park, and then took a sit to have some rest and appretiate the view as the Tokyo Tower started to light up.
+After a quite long metro trip, we decided to have a quick look around the perimeter of the park, and then took a sit to have some rest and appreciate the view as the Tokyo Tower started to light up.
 
 <figure>
     <div class="flex-row">
@@ -163,7 +163,7 @@ We left the temple grounds through a side gate, and went around the perimeter of
     </figcaption>
 </figure>
 
-We went up the street in front of the *Sangedatsumon* to find our last visit point in Shiba: the [World Trade Center Building](https://en.wikipedia.org/wiki/World_Trade_Center_(Tokyo)), a 40-story commercial building topped by an observation floor. The tickets costed us ¥620 each, so it was definitely worth for the incredible views at night (although it was better before the neighbouring Nippon Life Hamamatsucho Crea Tower was built to the west). We were there for almost an hour.
+We went up the street in front of the *Sangedatsumon* to find our last visit point in Shiba: the [World Trade Center Building](https://en.wikipedia.org/wiki/World_Trade_Center_(Tokyo)), a 40-story commercial building topped by an observation floor. The tickets costed us ¥620 each, so it was definitely worth for the incredible views at night (although it was better before the neighboring Nippon Life Hamamatsucho Crea Tower was built to the west). We were there for almost an hour.
 
 <figure>
     <div class="flex-row">

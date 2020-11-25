@@ -1,6 +1,6 @@
 #### Akihabara
 
-We then arrived at Akihabara station, one of the most famous and busiest train stations in the world. Its fame is owned to the neighbourhood surrounding it, unofficially called Akihabara (or otherwise shortened to Akiba) after the station. It started as a center for household appliances of all sorts and sizes (TVs, vacuum cleaners, pianos, headsets, you name it), and eventually became the capital of Japanese pop culture (games, music, anime/manga, assembly kits, plushes, maid cafés, etc.).
+We then arrived at Akihabara station, one of the most famous and busiest train stations in the world. Its fame is owned to the neighborhood surrounding it, unofficially called Akihabara (or otherwise shortened to Akiba) after the station. It started as a center for household appliances of all sorts and sizes (TVs, vacuum cleaners, pianos, headsets, you name it), and eventually became the capital of Japanese pop culture (games, music, anime/manga, assembly kits, plushes, maid cafés, etc.).
 
 As soon as I set foot outside the train station (through the Main Gate North Exit), I was amazed at the sea of tall buildings. We didn't lose much time and entered the first shopping centre we found, Yodobashi-Akiba. It is the largest shopping centre in Akihabara, with a huge area and seven-story high. It is one of a series of shopping centres managed by electronics retailer [Yodobashi Camera](https://en.wikipedia.org/wiki/Yodobashi_Camera).
 
@@ -24,7 +24,7 @@ We then crossed the street to the most iconic spot of Akihabara, informally know
     <figcaption>Akihabara Crossing (facing south on the left photo, facing north on the right photo). On the left, SEGA Akihabara Building 3 can be seen.</figcaption>
 </figure>
 
-For starters, we entered in the SEGA building. It's called SEGA Akihabara Building 3. Actually SEGA has five huge buildings in Akihabara only, serving either as arcades or shops. From the ground floor one could confuse it for a simple game store, however it is only you take the escallator that you realise all the floors from the first to the top are 100% arcade machines. It was a mixed experience, as the sight was impressive, as is the way SEGA still holds on, even with arcade games; on the other side, it was almost depressing to say the least, as some of the people there seemed to live in the arcade judgind by the frenetic way they played.
+For starters, we entered in the SEGA building. It's called SEGA Akihabara Building 3. Actually SEGA has five huge buildings in Akihabara only, serving either as arcades or shops. From the ground floor one could confuse it for a simple game store, however it is only you take the escalator that you realise all the floors from the first to the top are 100% arcade machines. It was a mixed experience, as the sight was impressive, as is the way SEGA still holds on, even with arcade games; on the other side, it was almost depressing to say the least, as some of the people there seemed to live in the arcade judging by the frenetic way they played.
 
 We went on for a bit, until the end of that area, just before crossing the [Kanda River](https://en.wikipedia.org/wiki/Kanda_River).
 
@@ -53,12 +53,12 @@ As a side note, on the left photo there is a sign reading "APPLE. & PACHINKO", w
 
 1. The balls are the active element of the game, but they are also the bet (you rent balls for cash) and the prize (to 'win' is to have as many balls as possible).
 2. The balls cannot be taken out of the parlor nor exchanged for money (which is illegal), but they can be exchanged for tokens, or 'special prizes' (which is legal).
-3. These tokens can in turn be taken out of the parlor and (legally) exchanged for a certain sum in specialized shops (which are ostensively independent of, but often owned by, Pachinko parlor owners).
+3. These tokens can in turn be taken out of the parlor and (legally) exchanged for a certain sum in specialized shops (which are ostensibly independent of, but often owned by, Pachinko parlor owners).
 
-Gambling is a ravaging epidemic within Japanese society, which may be explained by the pressure to have success taken to such a level that some are led by an obcessive, short-sighted pursuit of success and persistently bet in games of chance.
+Gambling is a ravaging epidemic within Japanese society, which may be explained by the pressure to have success taken to such a level that some are led by an obsessive, short-sighted pursuit of success and persistently bet in games of chance.
 
 - On one side, the corporates and Pachinko parlor owners: in 1999, Pachinko revenues and sales represented 5.6% of Japan's GDP, and as of 2015 it generated more revenue than gambling in Las Vegas, Macau and Singapore **together**;
-- On the other, the people: in 2014, 9.04% of men and 1.6% of women in Japan showed pathological gambling tendencies (by comparison, the USA has 1.6% globally), and in 1999 a 29% of Pachinko players addmited to have a gambling addiction, and 30% admitted to go over their budgets and borrowed amounts.
+- On the other, the people: in 2014, 9.04% of men and 1.6% of women in Japan showed pathological gambling tendencies (by comparison, the USA has 1.6% globally), and in 1999 a 29% of Pachinko players admitted to have a gambling addiction, and 30% admitted to go over their budgets and borrowed amounts.
 
 #### Ochanomizu
 
@@ -94,11 +94,11 @@ So we went to Ochanomizu Tokyo Metro, and headed to [Kōrakuen Station](https://
 
 After exiting [Kōrakuen Station](https://en.wikipedia.org/wiki/K%C5%8Drakuen_Station), we started by visiting the main attraction: the [Bunkyo Civic Center](https://en.wikipedia.org/wiki/Bunkyo_Civic_Center), a 28-storey, 146m-tall building, serving as the government building for Bunkyo ward. It is most well-known for having a **free** observation deck (and we didn't have to take the stairs), from which you can easily see [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) on a clear day.
 
-[**Mount Fuji**](https://en.wikipedia.org/wiki/Mount_Fuji) is the highest mountain in Japan, with 3776m. It is located in the eastern parts of Chubu, and can be seen from many places, especially in the [Kanto Plain](https://en.wikipedia.org/wiki/Kant%C5%8D_Plain) (it is clearly visible from several locations in Tokyo, even though Tokyo is 60km to the northeast of Mount Fuji). It is an active stractovolcano, and it last erupted in 1708.   Its almost perfectly symmetrical shape, associated to the fact it is easily visible from Tokyo, the capital of Japan since 1600, prompted its numerous appearances in Japanese art, culture and folklore.
+[**Mount Fuji**](https://en.wikipedia.org/wiki/Mount_Fuji) is the highest mountain in Japan, with 3776m. It is located in the eastern parts of Chubu, and can be seen from many places, especially in the [Kanto Plain](https://en.wikipedia.org/wiki/Kant%C5%8D_Plain) (it is clearly visible from several locations in Tokyo, even though Tokyo is 60km to the northeast of Mount Fuji). It is an active stratovolcano, and it last erupted in 1708. Its almost perfectly symmetrical shape, associated to the fact it is easily visible from Tokyo, the capital of Japan since 1600, prompted its numerous appearances in Japanese art, culture and folklore.
 
-At the the [Bunkyo Civic Center](https://en.wikipedia.org/wiki/Bunkyo_Civic_Center) we took the elevator (which was surprisingly fast yet confortable), mixed with the local government staff. The elevator stopped twice, and both times we saw huge open offices full of white-collars. We could have literally wandered around the offices, in a certain way a physical demonstration of what transparency should look like in local and public administration.
+At the the [Bunkyo Civic Center](https://en.wikipedia.org/wiki/Bunkyo_Civic_Center) we took the elevator (which was surprisingly fast yet comfortable), mixed with the local government staff. The elevator stopped twice, and both times we saw huge open offices full of white-collars. We could have literally wandered around the offices, in a certain way a physical demonstration of what transparency should look like in local and public administration.
 
-The view was quite great, altough I was a bit disappointed as I could not see [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji), as I even brough my binoculars. In Tokyo it was only partly cloudy, but apparently it was misty around [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) so we couldn't see much in the distance.
+The view was quite great, although I was a bit disappointed as I could not see [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji), as I even brought my binoculars. In Tokyo it was only partly cloudy, but apparently it was misty around [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) so we couldn't see much in the distance.
 
 <figure>
     <div class="flex-row">
@@ -118,7 +118,7 @@ The view was quite great, altough I was a bit disappointed as I could not see [M
  
 As we left the civic center, we passed by the [Tokyo Dome](https://en.wikipedia.org/wiki/Tokyo_Dome). is a baseball stadium, home to the [Yomiuri Giants](https://en.wikipedia.org/wiki/Yomiuri_Giants), the current title winner and the team with most [Central League](https://en.wikipedia.org/wiki/Central_League) titles. The stadium is so large it is often used in Japan to compare large sizes, and it is also often used for other events, most notably concerts.
 
-Adjacent to the stadium is the [Tokyo Dome City](https://en.wikipedia.org/wiki/Tokyo_Dome_City), an entertainment complex including an amusement park, a hoteland several other commerce shops. The weather was starting to heat up so we stayed in the Tokyo Dome City for a while since it had a fountain lake with water sprayers (so the air would be cooler even though it was an open-air area), but also because Prof. Pedro Ribeiro decided to have his way with the [Thunder Dolphin](https://en.wikipedia.org/wiki/Thunder_Dolphin) rollercoaster.
+Adjacent to the stadium is the [Tokyo Dome City](https://en.wikipedia.org/wiki/Tokyo_Dome_City), an entertainment complex including an amusement park, a hotel and several other commerce shops. The weather was starting to heat up so we stayed in the Tokyo Dome City for a while since it had a fountain lake with water sprayers (so the air would be cooler even though it was an open-air area), but also because Prof. Pedro Ribeiro decided to have his way with the [Thunder Dolphin](https://en.wikipedia.org/wiki/Thunder_Dolphin) rollercoaster.
 
 We then had lunch at Koraku McDonald's (the place you're most likely to be understood in English, and even so Kevin got a regular, hot tea instead of an iced tea), and then crossed the Suidōbashi bridge over the Kanda River to catch the train at [Suidōbashi Station](https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station) to get to our next destination.
 
