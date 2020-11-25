@@ -40,17 +40,27 @@
                     "name": "Path",
                     "year": "2000",
                     "link": "https://www.youtube.com/watch?v=m9xqO9kKqyk"
+				},
+				{
+                    "name": "I'm Not Jesus",
+                    "year": "2007",
+                    "link": "https://www.youtube.com/watch?v=SXi0NSghf5Q"
                 },
                 {
                     "name": "I Don't Care",
                     "year": "2007",
                     "link": "https://www.youtube.com/watch?v=yN3lUM-r6bk"
-                },
+				},
+				{
+                    "name": "Not Strong Enough",
+                    "year": "2010",
+                    "link": "https://www.youtube.com/watch?v=AlZuqUTgcss"
+				},
                 {
                     "name": "Fields of Verdun",
                     "year": "2019",
                     "link": "https://www.youtube.com/watch?v=bQDJpL_PbGg"
-                }
+				}
             ]
         },
         {
@@ -133,6 +143,17 @@
 					"year": "2015"
 				}
 			]
+		},
+		{
+			"link": "https://everture.bandcamp.com/",
+			"name": "Everture",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=aEvPCuL19Ms",
+					"name": "Long Way Down",
+					"year": "2019"
+				}
+			]
 		}
     ],
     "bands_right": [
@@ -149,6 +170,32 @@
 					"link": "https://www.youtube.com/watch?v=4HC3nLsXhLo",
 					"name": "Suffocated",
 					"year": "2009"
+				}
+			]
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Grave_Pleasures",
+			"name": "Grave Pleasures",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=Zr2oG9g22SQ",
+					"name": "Infatuation Overkill",
+					"year": "2017"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=_iaTNzan09E",
+					"name": "Doomsday Rainbows",
+					"year": "2017"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=A-OxW0KcyoQ",
+					"name": "Be My Hiroshima",
+					"year": "2017"
+				},
+				{
+					"link": "https://www.youtube.com/watch?v=xvdnT4esPzQ",
+					"name": "Joy Through Death",
+					"year": "2017"
 				}
 			]
 		},
@@ -171,6 +218,17 @@
 					"link": "https://www.youtube.com/watch?v=-6Xl9tBWt54",
 					"name": "Hard Rock Hallelujah",
 					"year": "2006"
+				}
+			]
+		},
+		{
+			"link": "https://fi.wikipedia.org/wiki/Raaka-aine_(yhtye)",
+			"name": "Raaka-Aine",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=7YVkWHvRr4w",
+					"name": "Ihmisenä Täysi Paska",
+					"year": "2016"
 				}
 			]
 		},
@@ -258,6 +316,17 @@
 				{
 					"link": "https://www.youtube.com/watch?v=wwTQtNt1QtA",
 					"name": "Pyhä Maa",
+					"year": "2013"
+				}
+			]
+		},
+		{
+			"link": "https://www.facebook.com/Valayhtye",
+			"name": "Vala",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=eflxDiaJlaM",
+					"name": "Antaudu En Milloinkaan",
 					"year": "2013"
 				}
 			]
