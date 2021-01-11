@@ -101,7 +101,7 @@ At the the [Bunkyo Civic Center](https://en.wikipedia.org/wiki/Bunkyo_Civic_Cent
 The view was quite great, although I was a bit disappointed as I could not see [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji), as I even brought my binoculars. In Tokyo it was only partly cloudy, but apparently it was misty around [Mount Fuji](https://en.wikipedia.org/wiki/Mount_Fuji) so we couldn't see much in the distance.
 
 <figure>
-    <div class="flex-row">
+    <div class="flex-row flex-row-half">
         <img src="https://i.imgur.com/LfRGUoX.jpg" alt="View from Bunkyo Civic Center, facing east">
         <img src="https://i.imgur.com/24uzeH1.jpg" alt="View from Bunkyo Civic Center, facing northwest">
         <img src="https://i.imgur.com/o0Jw38e.jpg" alt="View from Bunkyo Civic Center, facing west-southwest">
@@ -123,10 +123,10 @@ Adjacent to the stadium is the [Tokyo Dome City](https://en.wikipedia.org/wiki/T
 We then had lunch at Koraku McDonald's (the place you're most likely to be understood in English, and even so Kevin got a regular, hot tea instead of an iced tea), and then crossed the Suidōbashi bridge over the Kanda River to catch the train at [Suidōbashi Station](https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station) to get to our next destination.
 
 <figure>
-    <div class="flex-row">
-        <img src="https://i.imgur.com/1cczQjp.jpg" alt="Tokyo Dome">
-        <img src="https://i.imgur.com/IpIn3Dt.jpg" alt="LaQua">
-        <img src="https://i.imgur.com/Uo5rwnL.jpg" alt="Kanda River at Suidobachi bridge">
+    <div class="flex-row flex-row-half">
+        <img class="half" src="https://i.imgur.com/1cczQjp.jpg" alt="Tokyo Dome">
+        <img class="half" src="https://i.imgur.com/IpIn3Dt.jpg" alt="LaQua">
+        <img class="half" src="https://i.imgur.com/Uo5rwnL.jpg" alt="Kanda River at Suidobachi bridge">
     </div>
     <figcaption><a href="https://en.wikipedia.org/wiki/Tokyo_Dome">Tokyo Dome</a>, the <a href="https://en.wikipedia.org/wiki/Tokyo_Dome_City">Tokyo Dome City</a> from the inside, and the <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River</a> from <a href="https://en.wikipedia.org/wiki/Suid%C5%8Dbashi_Station">Suidōbashi</a> bridge.</figcaption>
 </figure>

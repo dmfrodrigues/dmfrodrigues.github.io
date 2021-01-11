@@ -1,3 +1,7 @@
+img.half {
+    max-width: 49.4% !important;
+}
+
 figure > img,
 figure div.flex-row > img,
 figure div.flex-row div.flex-column > img {
@@ -54,6 +58,11 @@ div.flex-row {
 div.flex-row > img {
     flex: 1;
     min-height: 220px;
+    min-width: 0px;
+}
+
+div.flex-row-half > img {
+    min-width: 300px;
 }
 
 td.coin, td.banknote {
