@@ -105,7 +105,18 @@
 					"year": "2017"
 				}
 			]
-        },
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Children_of_Bodom",
+			"name": "Children of Bodom",
+			"songs": [
+				{
+					"link": "https://www.youtube.com/watch?v=aNJXS9X0yY0",
+					"name": "Are You Dead Yet",
+					"year": "2005"
+				}
+			]
+		},
         {
 			"link": "https://www.deadendfinland.com/",
 			"name": "Dead End Finland",
