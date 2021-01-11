@@ -15,12 +15,10 @@ As military feudal lords grew increasingly important, they started governing the
 
 It was also in this epoch, in 1543, that the Portuguese arrived at [Tanegashima](https://en.wikipedia.org/wiki/Tanegashima), the first Europeans to set foot in Japan. There was always a fragile balance between the will of the Japanese to trade and learn from the Portuguese, but also an effort to limit foreign influence by limiting trade, and to maintain public order by prohibiting the Jesuits from preaching Christianity and converting the Japanese in land outside Portuguese colonies. To trade with Japan and organize their Far East activities, the Portuguese were given the city of [Nagasaki](https://en.wikipedia.org/wiki/Nagasaki), which saw great development from a small fishing village into a major trade hub.
 
-<div class="div-of-images">
-    <figure>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Portuguese_Black_Ship_Namban.jpg" alt="Portuguese black ship arriving at Japan">
-        <figcaption>Portuguese <a href="https://en.wikipedia.org/wiki/Black_Ships">black ship</a> arriving at Japan, 16th century</figcaption>
-    </figure>
-</div>
+<figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Portuguese_Black_Ship_Namban.jpg" alt="Portuguese black ship arriving at Japan">
+    <figcaption>Portuguese <a href="https://en.wikipedia.org/wiki/Black_Ships">black ship</a> arriving at Japan, 16th century</figcaption>
+</figure>
 
 The last period of this epoch was the [Sengoku period](https://en.wikipedia.org/wiki/Sengoku_period) (戦国時代, *Sengoku Jidai*, ‘Age of Warring States’), from 1467 to 1615, a period of intrigue, social upheaval and permanent civil war, which greatly benefited Portugal and Spain, since there was great interest by some shoguns to ally with, and learn from, the European powers.
 

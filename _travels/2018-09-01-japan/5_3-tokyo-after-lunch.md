@@ -39,7 +39,7 @@ We entered the shrine via the southeast entry (the first [Torii](https://en.wiki
 On approaching the inner gate there was a small water fountain, to wash our hands before entering the central part of the shrine. Inside the shrine the northern side housed the main praying and offerings area, which we were asked not to photograph by shrine guards. Aside from that, there was a prayers tree, with a large wooden structure around it to strap small wood tables with prayers. This sort of prayers are often collected and burnt so the gods listen to them.
 
 <figure>
-    <div class="flex-row">
+    <div class="flex-row flex-row-half">
         <img src="https://i.imgur.com/RhY8evk.jpg" alt="Meiji Shrine south inner gate from the outside">
         <img src="https://i.imgur.com/TM3Ijbs.jpg" alt="Inside the Meiji Shrine main yard, facing north">
         <img src="https://i.imgur.com/FXjfucy.jpg" alt="Prayers around a tree in the main yard">
@@ -166,7 +166,7 @@ We left the temple grounds through a side gate, and went around the perimeter of
 We went up the street in front of the *Sangedatsumon* to find our last visit point in Shiba: the [World Trade Center Building](https://en.wikipedia.org/wiki/World_Trade_Center_(Tokyo)), a 40-story commercial building topped by an observation floor. The tickets costed us ¥620 each, so it was definitely worth for the incredible views at night (although it was better before the neighboring Nippon Life Hamamatsucho Crea Tower was built to the west). We were there for almost an hour.
 
 <figure>
-    <div class="flex-row">
+    <div class="flex-row flex-row-half">
         <img src="https://i.imgur.com/EaMkKKJ.jpg" alt="View 1 from WTC">
         <img src="https://i.imgur.com/NXUgw2f.jpg" alt="View 2 from WTC">
         <img src="https://i.imgur.com/a0mIvtu.jpg" alt="View 3 from WTC">

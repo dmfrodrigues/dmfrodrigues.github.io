@@ -77,8 +77,7 @@ Written Japanese uses three alphabets organized into two groups. They are:
 
 [**Rōmaji**](https://en.wikipedia.org/wiki/Romanization_of_Japanese) (ローマ字, 'roman characters') is the use of Latin script to write in Japanese. There are many ways to transliterate Japanese to *romaji*, but all tend to reproduce Japanese as if written in a Western language that has all the sounds there are in Japanese, for instance Portuguese (actually the earliest *romaji* systems were [based on Portuguese orthography](https://en.wikipedia.org/wiki/Romanization_of_Japanese#History), given the Portuguese were the first to arrive to Japan and to publish Japanese dictionaries in an European language, and also because Portuguese has one of the richest vowel and consonant phonologies among European languages).
 
-<div class="div-of-images">
-    <figure>
+<figure>
     <table>
         <tr>
             <td><strong>Japanese</strong></td>
@@ -94,13 +93,11 @@ Written Japanese uses three alphabets organized into two groups. They are:
         </tr>
     </table>
         <figcaption>Sample Japanese sentence. In <span style="color:blue">blue</span>, <emp>hiragana</emp>; in <span style="color:green">green</span>, <emp>katakana</emp>; in <span style="color:red">red</span>, <emp>kanji</emp>.</figcaption>
-    </figure>
-</div>
+</figure>
 
 They are not proper alphabets in the sense that they are better described as sets of symbols, as a sentence in Japanese is often written with a mix of symbols from different alphabets (although all Japanese sentences can be written in hiragana only, or katakana only). 
 
-<div class="div-of-images">
-    <figure>
+<figure>
         <table>
             <tr>
                 <th>Kanji</th>
@@ -138,8 +135,7 @@ They are not proper alphabets in the sense that they are better described as set
             </tr>
         </table>
         <figcaption>Equivalence of the three Japanese alphabets. The <emp>kanji</emp> form is almost always preferred, except in small children's books.</figcaption>
-    </figure>
-</div>
+</figure>
 
 The problem is exactly that they are hard to learn (because they are a lot), as well as to even read, as they are completely different from the Latin alphabet.
 
