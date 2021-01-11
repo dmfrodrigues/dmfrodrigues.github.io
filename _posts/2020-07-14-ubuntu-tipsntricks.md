@@ -160,3 +160,12 @@ sudo systemctl enable apache2   # Enable service on startup
 ```
 
 Once you disable the service and reboot your computer, you can run `sudo service apache2 status` to check that it is not running. If you go to your browser and access `localhost`, you may notice it still displays the Apache landing page; just clear your browser cache and try accessing `localhost` again (you will see that the browser is unable to connect to `localhost`).
+
+## Duplicate Git repository
+
+For a complete guide, see [here](https://android.jlelse.eu/how-to-migrate-gitlab-bitbucket-to-github-in-a-simple-way-e38bc60b1547). Basically you have to:
+
+1. Clone the repository
+2. Edit `.git/config`, by replacing the url in `[remote "origin"] url = ...` with the new URL
+3. Close and save the file
+4. Run `git push --all` in the branches you want to push
