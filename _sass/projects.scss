@@ -5,23 +5,34 @@
 .project-gallery {
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 1em;
 }
 
 .project-gallery>article{
     flex: 1;
     margin: 0.5em;
     padding: 1em;
-    max-width: 570px;
     min-width: 400px;
     min-height: 0px;
 
     border-radius: 1em;
     cursor: pointer;
+
+    box-shadow: 0px 0px 5px -2px #808080;
 }
 
 .project-gallery>article:hover{
-    box-shadow: 0px 0px 20px -10px #000000;
+    box-shadow: 0px 0px 20px -5px #000000;
     transition: 0.1s;
+}
+
+.project-gallery>article.placeholder{
+    box-shadow: none;
+}
+.project-gallery>article.placeholder:hover{
+    box-shadow: none;
+    transition: none;
+    cursor: auto;
 }
 
 .project-gallery>article img{
@@ -44,4 +55,20 @@
 
 .project-gallery>article>p:last-child{
     margin-bottom: 0;
+}
+
+.scroll {
+    overflow: auto;
+    white-space: nowrap;
+
+    margin-bottom: 15px;
+}
+.scroll p {
+    margin-bottom: 0.5em;
+}
+.scroll img {
+    max-height: 15em;
+    min-height: 15em;
+    border-radius: 1.5em;
+    margin-right: 0.5em;
 }

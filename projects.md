@@ -7,7 +7,8 @@ permalink: /projects/
 ## Personal projects
 
 <div class="project-gallery">
-<article markdown="1">
+<article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/fractals'">
 
 ### Fractal apps
 
@@ -26,7 +27,8 @@ An AI model to estimate population density from satellite imagery was designed, 
 
 </article>
 
-<article markdown="1">
+<article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/2048'">
 
 ### 2048
 
@@ -34,6 +36,7 @@ An AI model to estimate population density from satellite imagery was designed, 
 
 A desktop clone of mobile/web game [2048! by Gabriele Cirulli](https://github.com/gabrielecirulli/2048/) that took the world by storm in 2014. Used SFML. Made in 2018 (I knew C++ since 2015 but did not have any formal knowledge on programming or software engineering by the time I wrote this clone).
 </article>
+<article class="placeholder"></article>
 </div>
 
 ## As an author
@@ -109,6 +112,7 @@ As an INESC researcher, I developed an integrated web interface to let users per
 
 
 </article>
+<article class="placeholder"></article>
 </div>
 
 ## As a collaborator
@@ -121,4 +125,5 @@ onclick="location.href='https://man7.org/linux/man-pages/changelog.html#release_
 
 Fixed a typo; although a minor contribution, it is still curious.
 </article>
+<article class="placeholder"></article>
 </div>
