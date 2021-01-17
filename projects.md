@@ -99,10 +99,11 @@ A simple game/3D scene where you can control an airship, drop crates and change 
 </article>
 </div>
 
-## As a commiter
+## As a project member
 
 <div class="project-gallery">
-<article markdown="1">
+<article markdown="1"
+onclick="location.href='https://recap-preterm.eu'">
 
 ### RECAP Preterm
 
