@@ -42,7 +42,8 @@ A desktop clone of mobile/web game [2048! by Gabriele Cirulli](https://github.co
 ## As an author
 
 <div class="project-gallery">
-<article markdown="1">
+<article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/glaisher'">
 
 ### Glaisher
 
