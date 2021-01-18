@@ -61,7 +61,8 @@ A two-player board game where each player controls stacks of pieces, your goal i
 An application for conferences to provide accessibility to people with earing and speech disabilities.
 </article>
 
-<article markdown="1">
+<article markdown="1"
+onclick="location.href='https://github.com/dmfrodrigues/feup-ltw-proj'">
 
 ### Forever Home
 
