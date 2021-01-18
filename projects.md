@@ -80,7 +80,8 @@ A pet adoption website subconsciously biased towards cats. Supports login/signup
 Route planning application for an airport transfer service, with semi-graphical interface.
 </article>
 
-<article markdown="1">
+<article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/the-cursed-catacombs'">
 
 ### The Cursed Catacombs
 
