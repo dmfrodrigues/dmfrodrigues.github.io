@@ -100,6 +100,18 @@ onclick="location.href='{{ site.baseurl }}/projects/cgra'">
 A simple game/3D scene where you can control an airship, drop crates and change cameras.
 
 </article>
+
+<article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/labwars'">
+
+### LabWars
+
+![labwars](https://raw.githubusercontent.com/dmfrodrigues/feup-lcom/master/proj/doc/report/images/zombies01.png)
+
+A top-down shooter supporting chat, zombie and multiplayer modes. The actual challenge is that it targets Minix, which means we had to program everything starting from system-level I/O interfaces.
+
+</article>
+<article class="placeholder"></article>
 </div>
 
 ## As a project member
