@@ -21,7 +21,7 @@ The main attraction is rather the 3D scenarios.
 
 - **Environment:** WebGL, SICStus Prolog, Browser (Firefox/Chrome)
 - **Tools:** Javascript, Prolog
-- **Concepts:** autonomous player, user interface, 3D graphics
+- **Concepts:** autonomous player, user interface, 3D graphics, animation, shaders, texturing
 
 This game uses WebGL (a 3D graphics framework for browsers), which by practical experience has much better performance on Chrome/Chromium than on Firefox.
 

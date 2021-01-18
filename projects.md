@@ -88,7 +88,8 @@ Route planning application for an airport transfer service, with semi-graphical 
 You are a noble knight seeking to assist Her Majesty in cleansing the capital's catacombs from the many monsters that inhabit it. Your mission is to kill all monsters and collect as many coins as possible across multiple levels.
 </article>
 
-<article markdown="1">
+<article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/cgra'">
 
 ### CGRA project
 
