@@ -36,7 +36,24 @@ onclick="location.href='{{ site.baseurl }}/projects/2048'">
 
 A desktop clone of mobile/web game [2048! by Gabriele Cirulli](https://github.com/gabrielecirulli/2048/) that took the world by storm in 2014. Used SFML. Made in 2018 (I knew C++ since 2015 but did not have any formal knowledge on programming or software engineering by the time I wrote this clone).
 </article>
-<article class="placeholder"></article>
+
+<article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/calc-progs'">
+
+### Calculator programs
+
+<div class="images-wrapper">
+    <div class="images-grid">
+        <img class="fast" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/chaos.gif">
+        <img class="fast" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/julia.gif">
+        <img class="fast" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/langton.gif">
+        <img class="fast" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/snake.gif">
+    </div>
+</div>
+
+A set of small TI-BASIC programs I wrote for a TI-84 Plus calculator. These were my first steps in programming.
+</article>
+
 </div>
 
 ## As an author
