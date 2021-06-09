@@ -60,6 +60,17 @@ A set of small TI-BASIC programs I wrote for a TI-84 Plus calculator. These were
 
 <div class="project-gallery">
 <article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/graphviewercpp'">
+
+### GraphViewerCpp
+
+![graphviewercpp](https://i.imgur.com/1O18gZ7.png)
+
+A tool for graph/map visualization using the SFML library, written 100% in C++. Currently being used by students of subject Algorithm Design and Analysis (CAL) at the Faculty of Engineering of the University of Porto.
+
+</article>
+
+<article markdown="1"
 onclick="location.href='{{ site.baseurl }}/projects/glaisher'">
 
 ### Glaisher
@@ -88,7 +99,8 @@ onclick="location.href='https://github.com/dmfrodrigues/feup-ltw-proj'">
 A pet adoption website subconsciously biased towards cats. Supports login/signup, image upload, create/manage pets, comment on a pet, ask to addopt a pet, chat with the user that posted the pet and reset password via email and random tokens. Implements several security features.
 </article>
 
-<article markdown="1">
+<article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/porto-city-transfers'">
 
 ### PortoCityTransfers
 
