@@ -25,6 +25,9 @@ window.addEventListener("load", async function(){
 
     {% for country in site.data.locations_visited.countries %}
         globe.highlightCountry("{{country.country}}");
+        {% if country.link %}
+            globe.addAnchor("{{country.country}}", "{{country.link}}");
+        {% endif %}
     {% endfor %}
 
     {% for country in site.data.locations_visited.countries %}
