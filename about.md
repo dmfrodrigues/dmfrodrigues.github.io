@@ -2,6 +2,10 @@
 layout: about
 title: About
 permalink: /about/
+custom_js_external:
+- "https://cdn.jsdelivr.net/npm/d3@7"
+- "https://unpkg.com/topojson@3"
+- "https://cdn.jsdelivr.net/gh/dmfrodrigues/globe@latest/js/globe.js"
 ---
 
 My name is Diogo Rodrigues, and I am a 3rd year [Informatics Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742) student at [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL). I live in [Maia](https://en.wikipedia.org/wiki/Maia,_Portugal), near the city of [Porto](https://en.wikipedia.org/wiki/Porto), in Portugal. I am not yet sure on what I want to work with in the future, although I have interest in algorithmics, critical systems/operating systems, cybersecurity and web development (in this order). I am also into competitive programming, and I regularly attend national and international competititions.
@@ -22,7 +26,26 @@ Every year I go through approximately the same sequence of events: national comp
 
 ## Travelling
 
-It is one of my favourite hobbies, and I like every part of the trip (even being closed in a flying metal box for hours is fascinating, if not for the views or whatever I have to entertain myself, then for the expectation). You can find more about my travels [here]({{ site.baseurl }}/travels).
+<svg id="globe" class="globe center" viewBox="0 0 400 400"></svg>
+<script>
+window.addEventListener("load", async function(){
+    let globe = new Globe("svg#globe", 400);
+    globe.rotation = [0, -10, 0];
+    await globe.initialize();
+
+    globe.nativeCountry("Portugal");
+
+    {% for country in site.data.locations_visited.countries %}
+        globe.highlightCountry("{{country.country}}");
+    {% endfor %}
+
+    globe.enableDrag();
+
+    globe.registerRotation(10, 0.002);
+});
+</script>
+
+It is one of my favourite hobbies, and I like every part of the trip (even being closed in a flying metal box for hours is fascinating, if not for the views or whatever I have to entertain myself, then for the expectation). You can find more about my travels [here]({{ site.baseurl }}/travels), or by clicking in the globe.
 
 </div>
 <div markdown="1">
