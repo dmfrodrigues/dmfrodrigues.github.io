@@ -1,14 +1,29 @@
 .about {
     max-width: calc(1000px - (30px * 2));
 
+    .projects-grid-container {
+        display: grid;
+        grid-template-columns: auto auto;
+
+        div {
+            img {
+                max-width: 100%;
+                height: auto;
+                object-fit: cover;
+            }
+        }
+    }
+
     .music-grid-container {
         display: grid;
         grid-template-columns: auto auto auto;
 
-        img {
-            max-width: 100%;
-            height: auto;
-            object-fit: cover;
+        div {
+            img {
+                max-width: 100%;
+                height: auto;
+                object-fit: cover;
+            }
         }
     }
 }
