@@ -1,10 +1,18 @@
 ---
-layout: page
+layout: university
 title: University
 permalink: /university/
 ---
 
 # FEUP
+
+I am taking an Integrated Masters (3 years Bachelor of Engineering + 2 years Master of Engineering) in Informatics and Computing Engineering at the Faculty of Engineering of the University of Porto. The main focuses of this course are:
+
+1. Software Engineering skills and tools;
+2. A solid Engineering foothold, including a decent amount of algebra, calculus and physics (including mechanics and electromagnetism);
+3. Knowledge of fields not directly more theoretical fields like algorithmics, discrete mathematics, number theory and encryption.
+
+Items 2. and 3. are the ones that usually distinguish a Software Engineer from an Informatics Engineer as I see it; a Software Engineer is an expert on developing software, but an Informatics Engineer is required to have the creativity to overcome hard problems, and that can only be done with deep understanding of how things actually work.
 
 This is an index of all my projects and repositories related to FEUP curricular units as a student.
 
