@@ -10,12 +10,12 @@ custom_js_external:
 
 One of my favourite activities is travelling. Although most travels have nothing to do with my trade (and even if they do, I focused on the parts that may interest to a larger audience), I thought it was a good idea to leave here some thoughts and experiences of my stays abroad, almost like a diary. I mostly reflect on what's aesthetic (places to visit) and what makes up its people (language, history, culture, reasoning and attitudes).
 
-<svg id="globe" class="globe center" viewBox="0 0 800 800"></svg>
+<svg id="globe" class="globe center" viewBox="0 0 600 600"></svg>
 <script>
 window.addEventListener("load", async function(){
     const marker = await fetch("{{ site.baseurl }}/assets/marker.svg").then(r => r.text());
 
-    let globe = new Globe("svg#globe", 800, marker);
+    let globe = new Globe("svg#globe", 600, marker);
     globe.rotation = [0, -10, 0];
     await globe.initialize();
     globe.setMarker(marker, 7.025, 21.7833);
@@ -45,14 +45,14 @@ window.addEventListener("load", async function(){
 
 Here are the places I have visited so far:
 
-- 🇪🇸 **Spain**: Tordesillas (Jun 2014), Sevilla (Jul 2017)
+- 🇪🇸 **Spain**: Tordesillas (Jun 2014), Sevilla (Jul 2017), Madrid (Jul 2018), Vigo (?)
 - 🇩🇰 **Denmark**: Esbjerg, Ribe (Feb 2015), Copenhagen (May 2017)
 - 🇩🇪 **Germany**: Flensburg (Feb 2015)
 - 🇫🇷 **France**: Lyon (Jul 2016), Paris (Dec 2018, Jan 2020)
 - 🇮🇪 **Ireland**: Dublin (Jul 2018)
 - 🇯🇵 **Japan**: Tokyo, Tsukuba (Sep 2018)
 - 🇫🇮 **Finland**: Helsinki (Sep 2018)
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **England**: London, Oxford, Cambridge (Jul-Aug 2019)
+- 🇬🇧 **England**: London, Oxford, Cambridge (Jul-Aug 2019)
 
 
 I have written posts only for the most memorable ones, or the ones that triggered the most remarks.

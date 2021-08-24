@@ -20,6 +20,8 @@
 
 @import "globe";
 
+@import "university";
+
 p, ul, ol {
     text-align: justify;
 }
@@ -49,4 +51,28 @@ p, ul, ol {
 
 .img-icon {
     filter: brightness(50%);
+}
+
+.site-header {
+    border-top: none;
+
+    .wrapper {
+        max-width: none;
+        padding-left: 20px;
+        padding-right: 25px;
+    }
+}
+
+.site-title {
+    font-size: 32px;
+    line-height: 65px;
+}
+
+.site-nav {
+    font-size: 17px;
+    line-height: 65px;
+
+    .page-link:not(:last-child) {
+        margin-right: 25px;
+    }
 }
