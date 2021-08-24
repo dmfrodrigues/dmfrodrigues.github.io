@@ -12,6 +12,8 @@ My name is Diogo Rodrigues, and I am a 3rd year [Informatics Engineering](https:
 
 You can check on my full CV [in Portuguese](https://drive.google.com/uc?id=12vRqYdYs_r6E22g_MHJ5Fm8FdlEDVQVn) (CV in English is soon to come).
 
+I usually go by the username **dmfrodrigues**. For some other purposes I tend to use **Nautilus** or something along those lines, hence the slightly coiled-shell-themed website.
+
 <div class="masonry-vertical">
 <div markdown="1">
 
