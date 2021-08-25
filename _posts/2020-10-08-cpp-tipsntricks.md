@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C/C++ tips & tricks under GNU"
-date: 2020-07-14 18:37:37 +0100
+date: 2021-08-25 02:56:00 +0100
 ---
 
 Here are some tips and tricks that I found useful when programming in C/C++ under Linux, using the GNU GCC compiler suite. I will focus on the ones that I found useful, as can be seen from the fact I only mention a few pragmas when in fact the list of possible pragmas is quite long.
