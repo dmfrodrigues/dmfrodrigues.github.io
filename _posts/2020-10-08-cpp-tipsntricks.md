@@ -58,4 +58,27 @@ Anyway, don't trust on these shenanigans to make your slow code faster; improvem
 
 ## Attributes
 
-## Doxygen
+Attributes are meant to signal the compiler that a certain function has special properties related to its usage, and that should be used in a certain way; it is a way to warn a user that the author of a certain piece of code intended it to be used in a specific way that could not otherwise be made explicit using pure C/C++, or just to get rid of some warnings. This also makes your life much easier, because if you write a piece of code and impose some restrictions on its usage and later on you forget those restrictions, the compiler will be able to warn you about that.
+
+Attributes have the syntax `__attribute__((<specification>))`; some of the most common attributes are:
+
+- `__attribute__((warn_unused_result))`: which raises a warning if the user calls that function and ignores the return of that call; this is very useful, particularly at the low-level because if a low-level C programmer ignores a return code then his/her source code is ill-implemented, as it should instead take actions to mitigate the problem or at least propagate that problem by returning an error code. It is also useful if the information being returned is very important, for instance a function responsible for adding two numbers without side effects is expected to have its return value used, otherwise it would rather be better to just not call it altogether.
+
+```c
+int add(int lhs, int rhs) __attribute__((warn_unused_result)) { return lhs+rhs; }
+```
+
+- `__attribute__((unused))`: ignores the fact that an argument might not be used inside the function. This goes against best practices because all arguments should be used by a function, but is specially useful if for some reason you're forced to conform to a specific prototype and don't want to use the classical workaround of making a phantom-conversion of that argument to a `void`.
+
+```c
+// Causes a warning
+void doesNothingHandler(int signal){}
+// Doesn't cause a warning, but has no semantic; no good
+void doesNothingHandler(int signal){ (void)(signal); }
+// Doesn't cause a warning, and it is clear that the parameter is meant to be unused
+void doesNothingHandler(__attribute__((unused)) int signal){}
+```
+
+If you want to separate the prototype from the declaration, the attributes must always remain with the prototype.
+
+Attributes are a valuable tool to define some properties of functions that users must abide to. However, as for attributes that suppress warnings, the same reasoning as for pragmas should be applied: the fact you need to suppress a warning should be well-grounded because otherwise you're just hiding a real issue under the carpet.
