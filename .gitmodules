@@ -1,0 +1,3 @@
+[submodule "feup"]
+	path = feup
+	url = https://github.com/dmfrodrigues/feup.git

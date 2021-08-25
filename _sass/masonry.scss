@@ -1,0 +1,11 @@
+.masonry-vertical {
+    columns: 2 auto;
+    column-gap: 2em;
+}
+
+.masonry-vertical > div {
+    min-width: 400px;
+    margin: 0.5em 0em;
+    display: inline-block;
+    width: 100%;
+}
