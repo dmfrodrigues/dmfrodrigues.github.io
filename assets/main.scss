@@ -3,22 +3,16 @@
 
 @import "{{ site.theme }}";
 
-@import "post";
-
-@import "travel";
-
-@import "images";
-
-@import "responsive-column";
-
-@import "masonry";
-
-@import "music";
-
 @import "about";
-@import "projects";
-
 @import "globe";
+@import "images";
+@import "masonry";
+@import "music";
+@import "post";
+@import "projects";
+@import "responsive-column";
+@import "timeline";
+@import "travel";
 
 @import "university";
 
