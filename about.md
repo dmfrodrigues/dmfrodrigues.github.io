@@ -10,7 +10,7 @@ custom_js_external:
 
 My name is Diogo Rodrigues, and I am a 3rd year [Informatics Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742) student at [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL). I live in [Maia](https://en.wikipedia.org/wiki/Maia,_Portugal), near the city of [Porto](https://en.wikipedia.org/wiki/Porto), in Portugal. I am not yet sure on what I want to work with in the future, although I have interest in algorithmics, critical systems/operating systems, cybersecurity and web development (in this order). I am also into competitive programming, and I regularly attend national and international competitions.
 
-You can check on my full CV [in Portuguese](https://drive.google.com/uc?id=12vRqYdYs_r6E22g_MHJ5Fm8FdlEDVQVn) (CV in English is soon to come).
+You can check on [my "short" CV](https://drive.google.com/file/d/1RUwsTzns-WqlXfvZvPkRV9Fp_yV-hIjc) (in English).
 
 I usually go by the username **dmfrodrigues**. For some other purposes I tend to use **Nautilus** or something along those lines, hence the slightly coiled-shell-themed website.
 
