@@ -1,0 +1,98 @@
+{
+    "countries": [
+        {
+            "country": "Japan",
+            "link": "/travels/2018-sep-japan/",
+            "cities": [
+                {
+                    "city": "Tokyo",
+                    "coordinates": [139.6503, 35.6762]
+                }
+            ]
+        },
+        {
+            "country": "Spain",
+            "cities": [
+                {
+                    "city": "Seville",
+                    "coordinates": [-5.9845, 37.3891]
+                },
+                {
+                    "city": "Madrid",
+                    "coordinates": [-3.7038, 40.4168]
+                },
+                {
+                    "city": "Tordesillas",
+                    "coordinates": [-4.9987, 41.5015]
+                },
+                {
+                    "city": "Vigo",
+                    "coordinates": [-8.7207, 42.2406]
+                }
+            ]
+        },
+        {
+            "country": "France",
+            "cities": [
+                {
+                    "city": "Paris",
+                    "coordinates": [2.3522, 48.8566]
+                },
+                {
+                    "city": "Lyon",
+                    "coordinates": [4.8357, 45.7640]
+                }
+            ]
+        },
+        {
+            "country": "United Kingdom",
+            "cities": [
+                {
+                    "city": "London",
+                    "coordinates": [-0.1278, 51.5074]
+                }
+            ]
+        },
+        {
+            "country": "Ireland",
+            "cities": [
+                {
+                    "city": "Dublin",
+                    "coordinates": [-6.2603, 53.3498]
+                }
+            ]
+        },
+        {
+            "country": "Germany",
+            "cities": [
+                {
+                    "city": "Flensburg",
+                    "coordinates": [9.4470, 54.7937]
+                }
+            ]
+        },
+        {
+            "country": "Denmark",
+            "cities": [
+                {
+                    "city": "Copenhagen",
+                    "coordinates": [12.5683, 55.6761]
+                },
+                {
+                    "city": "Ribe",
+                    "coordinates": [8.7747, 55.3269]
+                }
+            ]
+        },
+        {
+            "country": "Finland",
+            "link": "/travels/2018-sep-finland/",
+            "cities": [
+                {
+                    "city": "Helsinki",
+                    "coordinates": [24.9384, 60.1699]
+                }
+            ]
+        }
+    ]
+}

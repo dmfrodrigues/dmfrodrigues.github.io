@@ -1,0 +1,72 @@
+/* (A) "SET" THE TIMELINE CONTAINER */
+.vertical_timeline {
+    position: relative;                 /* (A1) RELATIVE POSITION NECESSARY TO PROPERLY POSITION TIMELINE LATER */
+    padding: 10px 0px 5px 50px;       /* (A2) RESERVE MORE SPACE TO THE LEFT FOR THE TIMELINE */
+}
+
+/* (B) DRAW TIMELINE USING ::BEFORE */
+.vertical_timeline::before {
+    /* (B1) DRAW THE TIMELINE */
+    content: "";    
+    width: 4px;
+    background-color: #1aaade;
+    /* (B2) POSITION IT TO THE LEFT */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 16px;
+}
+
+.vertical_timeline {
+    /* (C) STYLES FOR THE EVENTS */
+    div.event {
+        position: relative;
+        margin-bottom: 10px;
+
+        p {
+            margin-bottom: 0.5em;
+        }
+
+        div.title {
+            font-size: 1.1em;
+            //  font-weight: bold;
+            margin-bottom: 0.5em;
+            color: #106f91;
+        }
+    }
+
+    div.event::after {
+        content: "";
+        background: #fff;
+        border: 4px solid #1aaade;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        position: absolute;
+        top: 3px;
+        left: -44px;
+    }
+
+    div.event_large {
+        position: relative;
+        margin-bottom: 10px;
+
+        div.title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #106f91;
+        }
+    }
+
+    div.event_large::after {
+        content: "";
+        background: #1aaade;
+        border: 4px solid #1aaade;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        position: absolute;
+        top: 10%;
+        left: -44px;
+    }
+}
