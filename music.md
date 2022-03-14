@@ -12,6 +12,7 @@ My main music platform is Spotify (here is [my account](https://open.spotify.com
 
 <iframe class="spotify" src="https://open.spotify.com/embed/playlist/0F23GzaobTTgSsqpN0CZgl" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+<!--
 <div class="vertical_timeline">
     <div class="event"><div class="title">2nd week (12/jul/2021)</div>
         <p markdown="1">Decided to listen again to Grave Pleasures' *Motherblood* (2017). I had already added some songs, but after playing the album on repeat I found all the songs great, and ended up adding them all because they are *soo goood*. It is fairly obvious that the same rhythmic and acoustic recipe is used over the entire album, but it is still very good.</p>
@@ -22,3 +23,4 @@ My main music platform is Spotify (here is [my account](https://open.spotify.com
     </div>
     <div class="event_large"><div class="title">Jul 2021</div></div>
 </div>
+-->
