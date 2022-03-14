@@ -17,7 +17,7 @@ I usually go by the username **dmfrodrigues**. For some other purposes I tend to
 <div class="masonry-vertical">
 <div markdown="1">
 
-## Projects
+## [Projects](/projects/)
 
 I have been involved in several projects, some related to university, others not no much. Check them out [here](/projects/)!
 
@@ -40,7 +40,7 @@ Every year I go through approximately the same sequence of events: national comp
 </div>
 <div markdown="1">
 
-## Travelling ✈️
+## [Travelling ✈️](/travels/)
 
 <svg id="globe" class="globe center" viewBox="0 0 400 400"></svg>
 <script>
@@ -61,12 +61,12 @@ window.addEventListener("load", async function(){
 });
 </script>
 
-It is one of my favourite hobbies, and I like every part of the trip (even being closed in a flying metal box for hours is fascinating, if not for the views or whatever I have to entertain myself, then for the expectation). You can find more about my travels [here]({{ site.baseurl }}/travels).
+It is one of my favourite hobbies, and I like every part of the trip (even being closed in a flying metal box for hours is fascinating, if not for the views or whatever I have to entertain myself, then for the expectation). You can find more about my travels [here](/travels/).
 
 </div>
 <div markdown="1">
 
-## Music 🎸
+## [Music 🎸](/music/)
 
 My favourite genre is metal, but I also like alternative/progressive rock. My favourite band is [Muse](https://en.wikipedia.org/wiki/Muse_(band)), occasionally followed by [System of a Down](https://en.wikipedia.org/wiki/System_of_a_Down) although I usually prefer more artsy music. My favorite album is [Origin of Symmetry](https://en.wikipedia.org/wiki/Origin_of_Symmetry) by Muse. More on my favorite songs [here](/music/).
 
