@@ -31,7 +31,7 @@ I have been involved in several projects, some related to university, others not
 </div>
 <div markdown="1">
 
-## Competitive programming
+## [Competitive programming](/achievements/)
 
 Competitive programming is a sport, involving several contestants trying to solve as many problems as possible in a given time limit, often using creative approaches to those problems. One of the things people benefit the most from competitive programming is algorithmic reasoning: to truly understand what algorithms do, so you can adapt them or invent new ones to solve problems. Competitive programming is a very good hobby for your professional life for three main reasons: it helps potential developers with job interviews, it keeps you thinking about interesting problems and the languages you use to solve problems will always stay fresh.
 

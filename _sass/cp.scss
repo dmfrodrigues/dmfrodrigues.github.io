@@ -1,0 +1,44 @@
+.cp {
+    max-width: calc(952px);
+
+    table.cp-scoreboard {
+        td, th {
+            padding: 5px 10px;
+            white-space: nowrap;
+        }
+        
+        th.rotate {
+            box-sizing: border-box;
+            padding: 10px 14px;
+            border-right: 2px solid #c9c9c9;
+            min-width: 50px;
+            writing-mode: sideways-lr;
+        }
+
+        margin-bottom: 10px;
+    }
+
+    .participated {
+        background-color: rgba(0,255,0,0.2);
+    }
+    .didntoccur {
+        background-color: rgba(255,0,0,0.2);
+    }
+    .notallowed {
+        background-color: rgba(0,0,0,0.10);
+    }
+
+    .square {
+        display: inline-block;
+        position: relative;
+        top: 4px;
+        width : 16px;
+        height: 16px;
+        border: 1px solid rgba(0, 0, 0, 0.2);
+    }
+
+    .legend {
+        font-size: 0.8em;
+        margin-bottom: 20px;
+    }
+}
