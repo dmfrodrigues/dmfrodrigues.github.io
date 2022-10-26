@@ -1,0 +1,6 @@
+[submodule "feup"]
+	path = feup
+	url = https://github.com/dmfrodrigues/feup.git
+[submodule "tum"]
+	path = tum
+	url = https://github.com/dmfrodrigues/tum.git

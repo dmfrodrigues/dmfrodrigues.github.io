@@ -3,17 +3,19 @@
 
 @import "{{ site.theme }}";
 
+@import "about";
+@import "globe";
+@import "images";
+@import "masonry";
+@import "music";
 @import "post";
-
+@import "projects";
+@import "responsive-column";
+@import "timeline";
 @import "travel";
 
-@import "images";
-
-@import "responsive-column";
-
-@import "music";
-
-@import "projects";
+@import "university";
+@import "cp";
 
 p, ul, ol {
     text-align: justify;
@@ -41,3 +43,58 @@ p, ul, ol {
     padding-right: 5px;
     // vertical-align: text-top;
 }
+
+.img-icon {
+    filter: brightness(50%);
+}
+
+.site-header {
+    border-top: none;
+
+    .wrapper {
+        max-width: none;
+        padding-left: 20px;
+        padding-right: 25px;
+    }
+}
+
+.site-title {
+    font-size: 32px;
+    line-height: 65px;
+}
+
+.site-nav {
+    font-size: 17px;
+    line-height: 65px;
+
+    .page-link:not(:last-child) {
+        margin-right: 25px;
+    }
+}
+
+.quote-author {
+    text-align: right;
+    font-size: 0.9em;
+    margin-top: -15px;
+    margin-bottom: 15px;
+}
+
+.home-img {
+    display: block;
+    margin: 0 auto;
+    filter: brightness(0.40);
+    max-width: 200px;
+}
+
+.post-list > li {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.post-list-separator {
+    border: none;
+    height: 1px;
+    background-color: #888;
+    margin: 15px auto;
+}
+

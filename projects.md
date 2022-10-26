@@ -12,7 +12,7 @@ onclick="location.href='{{ site.baseurl }}/projects/fractals'">
 
 ### Fractal apps
 
-![mandelbrot-detail](https://raw.githubusercontent.com/dmfrodrigues/mandelbrot/master/media/img/media1.png)
+![mandelbrot-detail](https://i.imgur.com/8UbiJI6h.png)
 
 A set of computer programs that dynamically calculate well-known fractals like Mandelbrot, Buddhabrot and Burning Ship. Used C++, multithreading and WxWidgets.
 </article>
@@ -21,7 +21,7 @@ A set of computer programs that dynamically calculate well-known fractals like M
 
 ### LIYSF2019 - AI for population density from satellite imagery
 
-![liysf2019](https://i.imgur.com/0h53r0m.png)
+![liysf2019](https://i.imgur.com/0h53r0ml.png)
 
 An AI model to estimate population density from satellite imagery was designed, implemented, trained and analysed; can be useful in places where demographic data is unreliable/old. Presented in [London Int'l Youth Science Forum 2019](https://www.liysf.org.uk/).
 
@@ -64,7 +64,7 @@ onclick="location.href='{{ site.baseurl }}/projects/graphviewercpp'">
 
 ### GraphViewerCpp
 
-![graphviewercpp](https://i.imgur.com/1O18gZ7.png)
+![graphviewercpp](https://i.imgur.com/1O18gZ7l.png)
 
 A tool for graph/map visualization using the SFML library, written 100% in C++. Currently being used by students of subject Algorithm Design and Analysis (CAL) at the Faculty of Engineering of the University of Porto.
 
@@ -75,7 +75,7 @@ onclick="location.href='{{ site.baseurl }}/projects/glaisher'">
 
 ### Glaisher
 
-![glaisher](https://i.imgur.com/MxQAUzl.jpg)
+![glaisher](https://i.imgur.com/MxQAUzll.jpg)
 
 A two-player board game where each player controls stacks of pieces, your goal is to conquer adversary stacks and connect opposing sides of the board with your stacks. The main attraction is rather the 3D scenarios. 
 </article>
@@ -94,7 +94,7 @@ onclick="location.href='https://github.com/dmfrodrigues/feup-ltw-proj'">
 
 ### Forever Home
 
-![](https://i.imgur.com/MeCjBa8.png)
+![](https://i.imgur.com/MeCjBa8l.png)
 
 A pet adoption website subconsciously biased towards cats. Supports login/signup, image upload, create/manage pets, comment on a pet, ask to addopt a pet, chat with the user that posted the pet and reset password via email and random tokens. Implements several security features.
 </article>
@@ -104,7 +104,7 @@ onclick="location.href='{{ site.baseurl }}/projects/porto-city-transfers'">
 
 ### PortoCityTransfers
 
-![porto-city-transfers](https://i.imgur.com/Y8ZJyr3.png)
+![porto-city-transfers](https://i.imgur.com/Y8ZJyr3l.png)
 
 Route planning application for an airport transfer service, with semi-graphical interface.
 </article>
@@ -124,7 +124,7 @@ onclick="location.href='{{ site.baseurl }}/projects/cgra'">
 
 ### CGRA project
 
-![CGRA-project](https://raw.githubusercontent.com/dmfrodrigues/feup-cgra-proj/master/subs/screenshots/portefolio/proj-t6g06-1.png)
+![CGRA-project](https://i.imgur.com/maYnTj8l.png)
 
 A simple game/3D scene where you can control an airship, drop crates and change cameras.
 
@@ -151,7 +151,7 @@ onclick="location.href='https://recap-preterm.eu'">
 
 ### RECAP Preterm
 
-![recap-preterm](https://recap-preterm.eu/wp-content/themes/RECAPpreterm/images/rc_visual_hero_01.jpg)
+![recap-preterm](https://i.imgur.com/xBvPZMJl.jpg)
 
 European project consisting of a database of EU babies born very prematurely, collected over 30 years for research purposes.
 As an INESC researcher, I developed an integrated web interface to let users perform simple statistical analysis in a fast and user-friendly fashion.

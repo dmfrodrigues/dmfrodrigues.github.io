@@ -1,0 +1,39 @@
+.globe {
+    --water-color: #d8d8d8;
+}
+
+.globe {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.globe .water {
+    fill: var(--water-color);
+}
+.globe .land {
+    fill: #808080;
+    stroke: var(--water-color);
+}
+.globe .land:hover {
+    filter: brightness(120%);
+}
+.globe .highlight {
+    fill: #0097e9;
+}
+.globe .highlight:hover {
+    filter: brightness(120%);
+}
+.globe .native {
+    fill: #69b82a;
+}
+.globe .native:hover {
+    filter: brightness(120%);
+}
+
+.marker:hover {
+    filter: brightness(80%);
+}
+
+.hidden {
+    display: none;
+}

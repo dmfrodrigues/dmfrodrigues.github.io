@@ -1,0 +1,27 @@
+.university {
+    max-width: calc(900px - (30px * 2));
+}
+
+table.uni-resources {
+    td, th {
+        padding: 5px 10px;
+    }
+    
+    th.rotate {
+        border-right: 2px solid #c9c9c9;
+        max-width: 20px;
+
+        div {
+            text-align: center;
+
+            transform: rotate(-90deg);
+            -webkit-transform: rotate(-90deg);
+            -moz-transform: rotate(-90deg);
+            -ms-transform: rotate(-90deg);
+            -o-transform: rotate(-90deg);
+    
+            min-width: 200px;
+            margin-left: -90px;
+        }
+    }
+}
