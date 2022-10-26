@@ -78,3 +78,23 @@ p, ul, ol {
     margin-top: -15px;
     margin-bottom: 15px;
 }
+
+.home-img {
+    display: block;
+    margin: 0 auto;
+    filter: brightness(0.40);
+    max-width: 200px;
+}
+
+.post-list > li {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.post-list-separator {
+    border: none;
+    height: 1px;
+    background-color: #888;
+    margin: 15px auto;
+}
+
