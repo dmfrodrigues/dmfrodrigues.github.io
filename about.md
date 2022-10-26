@@ -22,10 +22,10 @@ I usually go by the username **dmfrodrigues**. For some other purposes I tend to
 I have been involved in several projects, some related to university, others not no much. Check them out [here](/projects/)!
 
 <div class="projects-grid-container">
-<div><a href="/projects/"><img src="https://i.imgur.com/69YCcZ8.png" alt="mandelbrot-detail"></a></div>
-<div><a href="/projects/"><img src="https://i.imgur.com/zAOwCGe.png" alt="graphviewercpp"></a></div>
-<div><a href="/projects/"><img src="https://i.imgur.com/PiqStSQ.jpg" alt="glaisher"></a></div>
-<div><a href="/projects/"><img src="https://i.imgur.com/Y7H4LZl.png" alt="foreverhome"></a></div>
+<div><a href="/projects/"><img src="https://i.imgur.com/69YCcZ8m.png" alt="mandelbrot-detail"></a></div>
+<div><a href="/projects/"><img src="https://i.imgur.com/zAOwCGem.png" alt="graphviewercpp"></a></div>
+<div><a href="/projects/"><img src="https://i.imgur.com/PiqStSQm.jpg" alt="glaisher"></a></div>
+<div><a href="/projects/"><img src="https://i.imgur.com/Y7H4LZlm.png" alt="foreverhome"></a></div>
 </div>
 
 </div>
@@ -71,12 +71,12 @@ It is one of my favourite hobbies, and I like every part of the trip (even being
 My favourite genre is metal, but I also like alternative/progressive rock. My favourite band is [Muse](https://en.wikipedia.org/wiki/Muse_(band)), occasionally followed by [System of a Down](https://en.wikipedia.org/wiki/System_of_a_Down) although I usually prefer more artsy music. My favorite album is [Origin of Symmetry](https://en.wikipedia.org/wiki/Origin_of_Symmetry) by Muse. More on my favorite songs [here](/music/).
 
 <div class="music-grid-container">
-    <div><img src="https://i.imgur.com/r9WtLzu.jpg" alt="Origin of Symmetry (Muse)"></div>
-    <div><img src="https://i.imgur.com/ltV9mEb.jpg" alt="Homura Uta (MUCC)"></div>
-    <div><img src="https://i.imgur.com/ePOeitU.jpg" alt="Motherblood (Grave Pleasures)"></div>
-    <div><img src="https://i.imgur.com/m6O9XK8.gif" alt="O monstro precisa de amigos (Ornatos Violeta)"></div>
-    <div><img src="https://i.imgur.com/PrMvcEq.jpg" alt="The Observer (Artificial Language)"></div>
-    <div><img src="https://i.imgur.com/3xyfXrE.jpg" alt="Hypnotize (System of a Down)"></div>
+    <div><img src="https://i.imgur.com/r9WtLzut.jpg" alt="Origin of Symmetry (Muse)"></div>
+    <div><img src="https://i.imgur.com/ltV9mEbt.jpg" alt="Homura Uta (MUCC)"></div>
+    <div><img src="https://i.imgur.com/ePOeitUt.jpg" alt="Motherblood (Grave Pleasures)"></div>
+    <div><img src="https://i.imgur.com/m6O9XK8t.gif" alt="O monstro precisa de amigos (Ornatos Violeta)"></div>
+    <div><img src="https://i.imgur.com/PrMvcEqt.jpg" alt="The Observer (Artificial Language)"></div>
+    <div><img src="https://i.imgur.com/3xyfXrEt.jpg" alt="Hypnotize (System of a Down)"></div>
 </div>
 
 </div>
