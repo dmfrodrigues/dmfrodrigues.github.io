@@ -71,12 +71,12 @@ It is one of my favourite hobbies, and I like every part of the trip (even being
 My favourite genre is metal, but I also like alternative/progressive rock. My favourite band is [Muse](https://en.wikipedia.org/wiki/Muse_(band)), occasionally followed by [System of a Down](https://en.wikipedia.org/wiki/System_of_a_Down) although I usually prefer more artsy music. My favorite album is [Origin of Symmetry](https://en.wikipedia.org/wiki/Origin_of_Symmetry) by Muse. More on my favorite songs [here](/music/).
 
 <div class="music-grid-container">
-    <div><img src="https://i.scdn.co/image/ab67616d0000b2735225e9931a558f6d2f541a7d" alt="Origin of Symmetry (Muse)"></div>
-    <div><img src="https://i.scdn.co/image/ab67616d0000b273f502bfcff38d0a27bf41dbab" alt="Homura Uta (MUCC)"></div>
-    <div><img src="https://i.scdn.co/image/ab67616d0000b273cecde3079858fcb56021b7c7" alt="Motherblood (Grave Pleasures)"></div>
-    <div><img src="https://upload.wikimedia.org/wikipedia/pt/7/77/Capamonstro.gif"   alt="O monstro precisa de amigos (Ornatos Violeta)"></div>
-    <div><img src="https://i.scdn.co/image/ab67616d0000b273fb75066a81c90206179b5c24" alt="The Observer (Artificial Language)"></div>
-    <div><img src="https://i.scdn.co/image/ab67616d0000b273f5e7b2e5adaa87430a3eccff" alt="Hypnotize (System of a Down)"></div>
+    <div><img src="https://i.imgur.com/r9WtLzu.jpg" alt="Origin of Symmetry (Muse)"></div>
+    <div><img src="https://i.imgur.com/ltV9mEb.jpg" alt="Homura Uta (MUCC)"></div>
+    <div><img src="https://i.imgur.com/ePOeitU.jpg" alt="Motherblood (Grave Pleasures)"></div>
+    <div><img src="https://i.imgur.com/m6O9XK8.gif" alt="O monstro precisa de amigos (Ornatos Violeta)"></div>
+    <div><img src="https://i.imgur.com/PrMvcEq.jpg" alt="The Observer (Artificial Language)"></div>
+    <div><img src="https://i.imgur.com/3xyfXrE.jpg" alt="Hypnotize (System of a Down)"></div>
 </div>
 
 </div>
