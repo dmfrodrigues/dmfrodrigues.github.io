@@ -6,7 +6,10 @@
             "cities": [
                 {
                     "city": "Tokyo",
-                    "coordinates": [139.6503, 35.6762]
+                    "coordinates": [
+                        139.6503,
+                        35.6762
+                    ]
                 }
             ]
         },
@@ -15,19 +18,31 @@
             "cities": [
                 {
                     "city": "Seville",
-                    "coordinates": [-5.9845, 37.3891]
+                    "coordinates": [
+                        -5.9845,
+                        37.3891
+                    ]
                 },
                 {
                     "city": "Madrid",
-                    "coordinates": [-3.7038, 40.4168]
+                    "coordinates": [
+                        -3.7038,
+                        40.4168
+                    ]
                 },
                 {
                     "city": "Tordesillas",
-                    "coordinates": [-4.9987, 41.5015]
+                    "coordinates": [
+                        -4.9987,
+                        41.5015
+                    ]
                 },
                 {
                     "city": "Vigo",
-                    "coordinates": [-8.7207, 42.2406]
+                    "coordinates": [
+                        -8.7207,
+                        42.2406
+                    ]
                 }
             ]
         },
@@ -36,11 +51,29 @@
             "cities": [
                 {
                     "city": "Paris",
-                    "coordinates": [2.3522, 48.8566]
+                    "coordinates": [
+                        2.3522,
+                        48.8566
+                    ]
                 },
                 {
                     "city": "Lyon",
-                    "coordinates": [4.8357, 45.7640]
+                    "coordinates": [
+                        4.8357,
+                        45.7640
+                    ]
+                }
+            ]
+        },
+        {
+            "country": "Italy",
+            "cities": [
+                {
+                    "city": "Milan",
+                    "coordinates": [
+                        9.1900,
+                        45.4642
+                    ]
                 }
             ]
         },
@@ -49,7 +82,10 @@
             "cities": [
                 {
                     "city": "London",
-                    "coordinates": [-0.1278, 51.5074]
+                    "coordinates": [
+                        -0.1278,
+                        51.5074
+                    ]
                 }
             ]
         },
@@ -58,7 +94,10 @@
             "cities": [
                 {
                     "city": "Dublin",
-                    "coordinates": [-6.2603, 53.3498]
+                    "coordinates": [
+                        -6.2603,
+                        53.3498
+                    ]
                 }
             ]
         },
@@ -67,7 +106,17 @@
             "cities": [
                 {
                     "city": "Flensburg",
-                    "coordinates": [9.4470, 54.7937]
+                    "coordinates": [
+                        9.4470,
+                        54.7937
+                    ]
+                },
+                {
+                    "city": "Munich",
+                    "coordinates": [
+                        11.5820,
+                        48.1351
+                    ]
                 }
             ]
         },
@@ -76,11 +125,17 @@
             "cities": [
                 {
                     "city": "Copenhagen",
-                    "coordinates": [12.5683, 55.6761]
+                    "coordinates": [
+                        12.5683,
+                        55.6761
+                    ]
                 },
                 {
                     "city": "Ribe",
-                    "coordinates": [8.7747, 55.3269]
+                    "coordinates": [
+                        8.7747,
+                        55.3269
+                    ]
                 }
             ]
         },
@@ -90,7 +145,10 @@
             "cities": [
                 {
                     "city": "Helsinki",
-                    "coordinates": [24.9384, 60.1699]
+                    "coordinates": [
+                        24.9384,
+                        60.1699
+                    ]
                 }
             ]
         }

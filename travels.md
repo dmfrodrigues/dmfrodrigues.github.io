@@ -47,12 +47,13 @@ Here are the places I have visited so far:
 
 - 🇪🇸 **Spain**: Tordesillas (Jun 2014), Sevilla (Jul 2017), Madrid (Jul 2018), Vigo (?)
 - 🇩🇰 **Denmark**: Esbjerg, Ribe (Feb 2015), Copenhagen (May 2017)
-- 🇩🇪 **Germany**: Flensburg (Feb 2015)
+- 🇩🇪 **Germany**: Flensburg (Feb 2015), Munich (Oct 2022 - Mar 2023)
 - 🇫🇷 **France**: Lyon (Jul 2016), Paris (Dec 2018, Jan 2020)
 - 🇮🇪 **Ireland**: Dublin (Jul 2018)
 - 🇯🇵 **Japan**: Tokyo, Tsukuba (Sep 2018)
 - 🇫🇮 **Finland**: Helsinki (Sep 2018)
 - 🇬🇧 **England**: London, Oxford, Cambridge (Jul-Aug 2019)
+- 🇮🇹 **Italy**: Milan (Apr 2022, Feb 2023)
 
 <!--
 I have written posts only for the most memorable ones, or the ones that triggered the most remarks.
