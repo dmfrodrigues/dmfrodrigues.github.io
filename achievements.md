@@ -41,9 +41,9 @@ permalink: /achievements/
         <td style="text-align:center" class="notallowed"></td>
         <td style="text-align:center" class="notallowed"></td>
         <td style="text-align:center" class="notallowed"></td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center" class="participated">1</td>
         <td style="text-align:center" class="participated">2 🥈</td>
-        <td style="text-align:center"></td>
+        <td style="text-align:center" class="participated">62</td>
     </tr>
     <tr>
         <td>2021/22</td>
@@ -288,7 +288,7 @@ permalink: /achievements/
 </table>
 
 <div class="legend">
-Legend: <span class="square participated"></span> - participated; <span class="square didntoccur"></span> - did not occur, or could not participate; <span class="square notallowed"></span> - not elligible according to the rules; 🥇🥈🥉 - Gold, Silver and Bronze medals.
+Legend: <span class="square participated"></span> - participated; <span class="square didntoccur"></span> - did not occur, or could not participate; <span class="square notallowed"></span> - not elligible according to the rules; 🥇🥈🥉📜 - Gold, Silver and Bronze medals, and Honorable Mentions.
 Numbers are my places in the scoreboards.
 Gold, Silver and Bronze medals don't often correspond to 1st, 2nd and 3rd place, as most competitions issue more than one of each type of medal in a year.
 </div>
