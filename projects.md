@@ -60,6 +60,17 @@ A set of small TI-BASIC programs I wrote for a TI-84 Plus calculator. These were
 
 <div class="project-gallery">
 <article markdown="1"
+onclick="location.href='{{ site.baseurl }}/projects/dynaminator'">
+
+### DynamiNATOR
+
+![dynaminator](https://i.imgur.com/hIDbo78.gif)
+
+TODO.
+
+</article>
+
+<article markdown="1"
 onclick="location.href='{{ site.baseurl }}/projects/graphviewercpp'">
 
 ### GraphViewerCpp
