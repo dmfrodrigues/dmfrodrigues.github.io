@@ -64,9 +64,9 @@ onclick="location.href='{{ site.baseurl }}/projects/dynaminator'">
 
 ### DynamiNATOR
 
-![dynaminator](https://i.imgur.com/hIDbo78.gif)
+![dynaminator](https://i.imgur.com/bU3jXEJ.gif)
 
-TODO.
+A high-performance, mesoscopic, event-driven traffic simulator.
 
 </article>
 
