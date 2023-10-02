@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "GraphViewerCpp"
-permalink: /projects/graphviewercpp/
+permalink: /projects/graphviewercpp
 github: https://github.com/dmfrodrigues/GraphViewerCpp
 ---
 

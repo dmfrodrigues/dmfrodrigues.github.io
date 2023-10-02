@@ -1,8 +1,8 @@
 ## The trip
 
-On both flights we flew on [Japan Airlines](https://en.wikipedia.org/wiki/Japan_Airlines) <img class="inline" src="https://logos-download.com/wp-content/uploads/2016/05/Japan_Airlines_JAL_logo.png"> operated by [Iberia](https://en.wikipedia.org/wiki/Iberia_(airline)) <img class="inline" src="https://logosandtypes.com/wp-content/uploads/iberia.svg">.
+On both flights we flew on [Japan Airlines](https://en.wikipedia.org/wiki/Japan_Airlines) <img class="inline" src="https://logos-download.com/wp-content/uploads/2016/05/Japan_Airlines_JAL_logo.png" alt="JAL logo"> operated by [Iberia](https://en.wikipedia.org/wiki/Iberia_(airline)) <img class="inline" src="https://logosandtypes.com/wp-content/uploads/2020/07/iberia.svg" alt="Iberia logo">.
 
-We left [Lisbon, Portugal](https://en.wikipedia.org/wiki/Lisbon_Airport) on the 31 August at 06:50 (GMT+01) and flew a short 1h20min flight to [Madrid-Barajas](https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport), having landed at 09:10 (GMT+02). After lunch (13:05 GMT+02), we took a 13h20min , overnight flight to [Narita International Airport](https://en.wikipedia.org/wiki/Narita_International_Airport), where we arrived at 09:25 (GTM+09) of Sep 1. I couldn't sleep during that flight, partly because of the excitement, the fear of not being able to sleep, and the freezing temperature usual to long-range flights during the night.
+We left [Lisbon, Portugal](https://en.wikipedia.org/wiki/Lisbon_Airport) on the 31 August at 06:50 (GMT+01) and flew a short 1h20min flight to [Madrid-Barajas](https://en.wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport), having landed at 09:10 (GMT+02). After lunch (13:05 GMT+02), we took a 13h20min, overnight flight to [Narita International Airport](https://en.wikipedia.org/wiki/Narita_International_Airport), where we arrived at 09:25 (GTM+09) of Sep 1. I couldn't sleep during that flight, partly because of the excitement, the fear of not being able to sleep, and the freezing temperature usual to long-range flights during the night.
 
 Just before landing we were handed the usual customs declaration. Oddly enough, the only time I saw the ocean in Japan was as we were landing in [Narita](https://en.wikipedia.org/wiki/Narita,_Chiba). We landed in [Narita Int'l](https://en.wikipedia.org/wiki/Narita_International_Airport) before lunchtime, and met our guide Yukine (or otherwise Yu-san), which was going to help us out during our stay, mostly by monitoring us, assuring we were on schedule and translate things for us.
 
@@ -14,7 +14,7 @@ Luckily our flight had the right to an airport sleeve, so we had little idea on 
 
 #### The landscape
 
-As we were (finally) picked up at the airport, we took the [Ken-Ō Expressway](https://en.wikipedia.org/wiki/Ken-%C5%8C_Expressway) <img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/C4_Expressway_%28Japan%29.png/68px-C4_Expressway_%28Japan%29.png"> to Tsukuba (curiously enough, there was a considerable length of that expressway with only one lane in each way), so we drove for about an hour through the Japanese countryside. And to be honest, it was unparalleled to anything I had ever seen in my life, particularly for an European used to reasonably small trees prepared for harsh European winters: the tall and leafy trees making up dense forests, intertwined with vast fields (assumed to be rice; some green, and some brown-ish) and long canals, and occasionally some agricultural buildings, two-story houses and warehouses. Although it was such a simple view, just reflecting on the uniqueness of this country I had arrived to a couple hours before, and considering the average countryside and landscape was so simple yet beautiful, it almost made me shed a tear in happiness and wonder how much Japan would amaze me.
+As we were (finally) picked up at the airport, we took the [Ken-Ō Expressway](https://en.wikipedia.org/wiki/Ken-%C5%8C_Expressway) <img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/C4_Expressway_%28Japan%29.png/68px-C4_Expressway_%28Japan%29.png" alt="Ken-Ō Expressway logo"> to Tsukuba (curiously enough, there was a considerable length of that expressway with only one lane in each way), so we drove for about an hour through the Japanese countryside. And to be honest, it was unparalleled to anything I had ever seen in my life, particularly for an European used to reasonably small trees prepared for harsh European winters: the tall and leafy trees making up dense forests, intertwined with vast fields (assumed to be rice; some green, and some brown-ish) and long canals, and occasionally some agricultural buildings, two-story houses and warehouses. Although it was such a simple view, just reflecting on the uniqueness of this country I had arrived to a couple hours before, and considering the average countryside and landscape was so simple yet beautiful, it almost made me shed a tear in happiness and wonder how much Japan would amaze me.
 
 <figure>
     <div class="flex-row flex-row-half">
@@ -33,8 +33,8 @@ From behind the forest, a statue appears in the distance: a huge standing Buddha
 
 <figure>
     <div class="flex-row flex-row-half">
-        <img style="flex: 1.3333;" src="https://i.imgur.com/OUBgST4.jpg">
-        <img style="flex: 1.3636;" src="https://upload.wikimedia.org/wikipedia/en/6/62/Ushiku.jpg">
+        <img style="flex: 1.3333;" src="https://i.imgur.com/OUBgST4.jpg" alt="Ushiku Daibutsu (my own photo, from its left side)">
+        <img style="flex: 1.3636;" src="https://upload.wikimedia.org/wikipedia/en/6/62/Ushiku.jpg" alt="Ushiku Daibutsu (from Wikipedia)">
     </div>
 <figcaption><a href="https://en.wikipedia.org/wiki/Ushiku_Daibutsu">Ushiku Daibutsu</a> (on the left as I saw it, on the right as it should be seen)</figcaption>
 </figure>

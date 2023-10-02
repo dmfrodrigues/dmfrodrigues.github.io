@@ -1,6 +1,6 @@
 #### Takeshita Street
 
-We took the [Chūō Line (Rapid)](https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D_Line_(Rapid)) <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/JR_JC_line_symbol.svg" class="inline"> to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), and then the [Yamanote Line](https://en.wikipedia.org/wiki/Yamanote_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/JR_JY_line_symbol.svg" class="inline"> to [Harajuku Station](https://en.wikipedia.org/wiki/Harajuku_Station), in the [Harajuku district](https://en.wikipedia.org/wiki/Harajuku). This district is known for being a center of youth culture (in some cases alternative culture and counter-culture).
+We took the [Chūō Line (Rapid)](https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D_Line_(Rapid)) <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/JR_JC_line_symbol.svg" alt="Chūō Line (Rapid) logo" class="inline"> to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), and then the [Yamanote Line](https://en.wikipedia.org/wiki/Yamanote_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/JR_JY_line_symbol.svg" alt="Yamanote Line logo" class="inline"> to [Harajuku Station](https://en.wikipedia.org/wiki/Harajuku_Station), in the [Harajuku district](https://en.wikipedia.org/wiki/Harajuku). This district is known for being a center of youth culture (in some cases alternative culture and counter-culture).
 
 We started by visiting [Takeshita Street](https://en.wikipedia.org/wiki/Takeshita_Street), a narrow pedestrian street with all kinds of shops, restaurants and boutiques. It has some well-known shops, but most are independent businesses with varying styles. It was known in the 1990's as a reliable place to purchase counterfeit Japanese and American brand goods; similarly for [Loureiro Street](https://pt.wikipedia.org/wiki/Rua_do_Loureiro) in Porto, which was known for its many electronics shops and counterfeit quality products.
 
@@ -69,7 +69,7 @@ We left the Meiji Shrine through the north gate, near the Harajuku Fire Station 
 
 On the other hand I was quite amused to find a vending machine in a residential street adjacent to the garden entry. And it did not sell just any drinks: it had [Dr Pepper](https://en.wikipedia.org/wiki/Dr_Pepper), one of the mythical soft drinks. I was quite curious to taste it, as it is one of those American products that really sticked in some parts of Japan (and a common appearance in [Steins;Gate](https://en.wikipedia.org/wiki/Steins;Gate)), so I got a 75ml bottle of Dr Pepper for ¥120. It had such an unimaginable amount of sugar I almost couldn't finish it (even for a 7up appreciator like myself, criticized by some for being too sweet already), and although it tasted decent it was nothing special really, so I can say it was worth but merely to satisfy my curiosity.
 
-Having taken a short rest, we continued our way to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), where we caught a metro of the [Ōedo Line](https://en.wikipedia.org/wiki/Toei_%C5%8Cedo_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Toei_Oedo_line_symbol.svg" class="inline"> to [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Station), in Shiba.
+Having taken a short rest, we continued our way to [Yoyogi Station](https://en.wikipedia.org/wiki/Yoyogi_Station), where we caught a metro of the [Ōedo Line](https://en.wikipedia.org/wiki/Toei_%C5%8Cedo_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Toei_Oedo_line_symbol.svg" alt="Ōedo Line logo" class="inline"> to [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Station), in Shiba.
 
 #### Shiba
 
@@ -86,7 +86,7 @@ We left [Akabanebashi Station](https://en.wikipedia.org/wiki/Akabanebashi_Statio
     </div>
     <figcaption>
         At Akabane Bridge.<br>
-        On the left, the <a href="https://en.wikipedia.org/wiki/Tokyo_Tower">Tokyo Tower</a> (slightly to the right are some of Minato's skyscrapers; from left to right: <a href="https://en.wikipedia.org/wiki/Toranomon_Hills">Toranomon Hills</a>, <a href="https://en.wikipedia.org/wiki/Atago_Green_Hills#Mori_Tower">Agato Green Hills</a> Mori Tower and Forest Tower, all of which built by the powerful Mori family).<br>
+        On the left, the <a href="https://en.wikipedia.org/wiki/Tokyo_Tower">Tokyo Tower</a> (slightly to the right are some of Minato's skyscrapers; from left to right: <a href="https://en.wikipedia.org/wiki/Toranomon_Hills">Toranomon Hills</a>, <a href="https://en.wikipedia.org/wiki/Atago_Green_Hills">Agato Green Hills</a> Mori Tower and Forest Tower, all of which built by the powerful Mori family).<br>
         On the right, the Sakurada-Dori Avenue crossing Akabane Bridge (facing south).
     </figcaption>
 </figure>
@@ -178,7 +178,7 @@ We went up the street in front of the *Sangedatsumon* to find our last visit poi
     </figcaption>
 </figure>
 
-We then entered [Hamamatsuchō Station](https://en.wikipedia.org/wiki/Hamamatsuch%C5%8D_Station), and took the [Yamanote Line](https://en.wikipedia.org/wiki/Yamanote_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/JR_JY_line_symbol.svg" class="inline"> to [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station) for our last destination.
+We then entered [Hamamatsuchō Station](https://en.wikipedia.org/wiki/Hamamatsuch%C5%8D_Station), and took the [Yamanote Line](https://en.wikipedia.org/wiki/Yamanote_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/JR_JY_line_symbol.svg" alt="Yamanote Line logo" class="inline"> to [Shibuya Station](https://en.wikipedia.org/wiki/Shibuya_Station) for our last destination.
 
 #### Shibuya
 

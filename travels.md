@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Travels
-permalink: /travels/
+emoji: ✈️
+permalink: /travels
 custom_js_external:
 - "https://cdn.jsdelivr.net/npm/d3@7"
 - "https://unpkg.com/topojson@3"
@@ -55,7 +56,6 @@ Here are the places I have visited so far:
 - 🇬🇧 **England**: London, Oxford, Cambridge (Jul-Aug 2019)
 - 🇮🇹 **Italy**: Milan (Apr 2022, Feb 2023)
 
-<!--
 I have written posts only for the most memorable ones, or the ones that triggered the most remarks.
 
 <ul class="post-list">
@@ -67,4 +67,3 @@ I have written posts only for the most memorable ones, or the ones that triggere
         </li>
     {% endfor %}
 </ul>
--->

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "DynamiNATOR"
-permalink: /projects/dynaminator/
+permalink: /projects/dynaminator
 github: https://github.com/dmfrodrigues/dynaminator
 ---
 

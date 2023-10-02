@@ -18,7 +18,7 @@ As I discover new music mostly via Spotify, there are two things I must mention:
 	<div class="column">
 		{% for band in site.data.music_japan.bands_left %}
 		<div class="band">
-			<div class="band-name"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyl_record.svg"> <a href="{{ band.link }}">{{ band.name }}</a></div>
+			<div class="band-name"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyl_record.svg" alt="vinyl icon"> <a href="{{ band.link }}">{{ band.name }}</a></div>
 			{% for song in band.songs %}
 			<div class="song"><a href="{{ song.link }}">{{ song.name }}</a> <span style="float: right;">({{ song.year }})</span></div>
 			{% endfor %}
@@ -28,7 +28,7 @@ As I discover new music mostly via Spotify, there are two things I must mention:
 	<div class="column">
 		{% for band in site.data.music_japan.bands_right %}
 		<div class="band">
-			<div class="band-name"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyl_record.svg"> <a href="{{ band.link }}">{{ band.name }}</a></div>
+			<div class="band-name"><img class="inline" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Vinyl_record.svg" alt="vinyl icon"> <a href="{{ band.link }}">{{ band.name }}</a></div>
 			{% for song in band.songs %}
 			<div class="song"><a href="{{ song.link }}">{{ song.name }}</a> <span style="float: right;">({{ song.year }})</span></div>
 			{% endfor %}

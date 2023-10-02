@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Music
-permalink: /music/
+emoji: 🎸
+permalink: /music
 ---
 
 I love music. I think it goes well with everything (especially studying, travelling, and sleeping) and is appropriate pretty much everytime. I can't really remember how much time Spotify Wrapped said I was listening to Spotify, but it was quite a lot (maybe above 100,000 minutes in 2019).

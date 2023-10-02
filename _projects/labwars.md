@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "LabWars"
-permalink: /projects/labwars/
+permalink: /projects/labwars
 github: https://github.com/dmfrodrigues/feup-lcom
 ---
 

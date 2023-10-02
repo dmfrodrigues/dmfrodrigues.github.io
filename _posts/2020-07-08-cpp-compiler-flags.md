@@ -14,7 +14,7 @@ Warnings are the way the compiler has to tell you "I'm gonna compile that, but I
 
 ## Being paranoid
 
-The more extensive the list of active warnings (the more *paranoid* you are), the more problems you can find and fix. We could be tempted to demand something like [CLang's `-Weverything`](https://clang.llvm.org/docs/UsersManual.html#cmdoption-weverything). It is well-known that `-Weverything` should not be used in production, as its behaviour might be somewhat unpredictable or unwanted; it is however useful to have a comprehensive list of available warnings that can be activated and usually give rise to better coding.
+The more extensive the list of active warnings (the more *paranoid* you are), the more problems you can find and fix. We could be tempted to demand something like [CLang's `-Weverything`](https://clang.llvm.org/docs/UsersManual.html#cmdoption-Weverything). It is well-known that `-Weverything` should not be used in production, as its behaviour might be somewhat unpredictable or unwanted; it is however useful to have a comprehensive list of available warnings that can be activated and usually give rise to better coding.
 
 In general, you always want to be careful about what C/C++ standard you will use. Other than that, most details depend on the compiler system.
 
@@ -106,4 +106,4 @@ In terms of warnings, MSVC is pretty straightforward:
 - `/GS` detects some exploits related to buffer overruns, by analysing the code in compile time and making small changes to avoid some hacks. Is enabled by default.
 - `/sdl` adds more security checks and enables additional warnings. It is a superset of `/GS` and is disabled by default.
 
-MSVC is not as familiar to me as GNU GCC, so there's not much I can add to it. If you are familiar to GNU GCC and struggle to understand how MSVC works, or if you otherwise prefer a free alternative for native Windows applications, try [MinGW-W64](https://mingw-w64.org/doku.php).
+MSVC is not as familiar to me as GNU GCC, so there's not much I can add to it. If you are familiar to GNU GCC and struggle to understand how MSVC works, or if you otherwise prefer a free alternative for native Windows applications, try [MinGW-W64](https://www.mingw-w64.org/).

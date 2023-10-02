@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Calculator programs"
-permalink: /projects/calc-progs/
+permalink: /projects/calc-progs
 github: https://github.com/dmfrodrigues/calc-progs
 ---
 

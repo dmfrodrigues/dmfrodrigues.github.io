@@ -1,7 +1,8 @@
 ---
 layout: technologies
 title: Technologies
-permalink: /tech/
+emoji: 🖥️
+permalink: /tech
 
 visual:
     ## Environment

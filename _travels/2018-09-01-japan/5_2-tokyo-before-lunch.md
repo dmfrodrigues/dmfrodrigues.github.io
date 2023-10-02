@@ -62,7 +62,7 @@ Gambling is a ravaging epidemic within Japanese society, which may be explained 
 
 #### Ochanomizu
 
-We entered Akihabara to catch a commuter train from the [Chūō-Sōbu Line](https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D%E2%80%93S%C5%8Dbu_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JR_JB_line_symbol.svg" class="inline">, for a short ride (2min) to [Ochanomizu Station](https://en.wikipedia.org/wiki/Ochanomizu_Station). Not before I had a first glance of a classical from Japan: all [white-collar workers](https://en.wikipedia.org/wiki/White-collar_worker) literally wear [dress shirts](https://en.wikipedia.org/wiki/Dress_shirt) everyday to work. And in nowadays Tokyo they are the majority, meaning the city is filled with "penguins" from 9am to 6pm.
+We entered Akihabara to catch a commuter train from the [Chūō-Sōbu Line](https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D%E2%80%93S%C5%8Dbu_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JR_JB_line_symbol.svg" alt="Chūō-Sōbu Line logo" class="inline">, for a short ride (2min) to [Ochanomizu Station](https://en.wikipedia.org/wiki/Ochanomizu_Station). Not before I had a first glance of a classical from Japan: all [white-collar workers](https://en.wikipedia.org/wiki/White-collar_worker) literally wear [dress shirts](https://en.wikipedia.org/wiki/Dress_shirt) everyday to work. And in nowadays Tokyo they are the majority, meaning the city is filled with "penguins" from 9am to 6pm.
 
 <figure>
     <img src="https://i.imgur.com/9c3lRRb.jpg" alt="People waiting for the train at Akihabara">
@@ -86,7 +86,7 @@ At [Ochanomizu](https://en.wikipedia.org/wiki/Ochanomizu) we didn't see anything
     <figcaption>At <a href="https://en.wikipedia.org/wiki/Ochanomizu">Ochanomizu</a>. On the top left, the view as we left the station.<br>On the bottom left, the view across the bridge (on the center is the <a href="https://www.skyscrapercenter.com/tokyo/md-tower/23795/">M&D Tower</a>; both the buildings on the right and center are part of the <a href="https://en.wikipedia.org/wiki/Tokyo_Medical_and_Dental_University">Tokyo Medical and Dental University</a>; on the left is the <a href="https://www.juntendo.ac.jp/hospital/global/english/">Juntendo University Hospital</a>.<br>On the right, <a href="https://en.wikipedia.org/wiki/Kanda_River">Kanda River. </a></figcaption>
 </figure>
 
-So we went to Ochanomizu Tokyo Metro, and headed to [Kōrakuen Station](https://en.wikipedia.org/wiki/K%C5%8Drakuen_Station), in the central part of [Bunkyo](https://en.wikipedia.org/wiki/Bunky%C5%8D), using the [Marunouchi Line](https://en.wikipedia.org/wiki/Tokyo_Metro_Marunouchi_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Logo_of_Tokyo_Metro_Marunouchi_Line.svg" class="inline">.
+So we went to Ochanomizu Tokyo Metro, and headed to [Kōrakuen Station](https://en.wikipedia.org/wiki/K%C5%8Drakuen_Station), in the central part of [Bunkyo](https://en.wikipedia.org/wiki/Bunky%C5%8D), using the [Marunouchi Line](https://en.wikipedia.org/wiki/Tokyo_Metro_Marunouchi_Line) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Logo_of_Tokyo_Metro_Marunouchi_Line.svg" alt="Marunouchi Line logo" class="inline">.
 
 #### Bunkyō
 

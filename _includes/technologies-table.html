@@ -1,6 +1,7 @@
 {% assign d=include.data %}
 {% assign s=include.separator | default: '' %}
-{% assign gh="https://github.com/" | append: site.social_links.github %}
+{% assign gh_social_entry=site.minima.social_links | where: "platform", "github" | first %}
+{% assign gh=gh_social_entry.user_url %}
 | Project                                                                                                     | Environment                  | Languages                                          | Frameworks/libraries                                                 | Build/deploy                              | Testing                        | Technologies                                                          | Docs                            |
 |-------------------------------------------------------------------------------------------------------------|:----------------------------:|:--------------------------------------------------:|:--------------------------------------------------------------------:|:-----------------------------------------:|:------------------------------:|:---------------------------------------------------------------------:|:-------------------------------:|
 | **[2048 clone                                     ]({{gh}}/2048                 )** <br /> Personal project | GUI                          | {{d.cpp}}                                          | {{d.sfml}}                                                           | Make                                      |                                |                                                                       |                                 |

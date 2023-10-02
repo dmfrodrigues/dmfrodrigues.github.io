@@ -1,7 +1,8 @@
 ---
 layout: projects
 title: Projects
-permalink: /projects/
+emoji: 📋
+permalink: /projects
 ---
 
 ## Personal projects
@@ -44,10 +45,10 @@ onclick="location.href='{{ site.baseurl }}/projects/calc-progs'">
 
 <div class="images-wrapper">
     <div class="images-grid">
-        <img class="fast" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/chaos.gif">
-        <img class="fast" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/julia.gif">
-        <img class="fast" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/langton.gif">
-        <img class="fast" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/snake.gif">
+        <img class="fast" alt="Chaos" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/chaos.gif">
+        <img class="fast" alt="Julia" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/julia.gif">
+        <img class="fast" alt="Langton" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/langton.gif">
+        <img class="fast" alt="Snake" src="https://raw.githubusercontent.com/dmfrodrigues/calc-progs/master/media/snake.gif">
     </div>
 </div>
 

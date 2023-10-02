@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Fractal apps"
-permalink: /projects/fractals/
+permalink: /projects/fractals
 ---
 
 <div class="scroll" markdown="1">

@@ -1,7 +1,8 @@
 ---
 layout: cp
-title: Achievements
-permalink: /achievements/
+title: Competitive programming
+emoji: 🏆
+permalink: /cp
 ---
 
 <table class="cp-scoreboard">
@@ -300,13 +301,13 @@ Here is a brief explanation of each competition:
 - **[OPaulista - Paulistan Mathematics Olympiad](http://www.opm.mat.br/)**: Mathematics competition for students of the Brazilian state of São Paulo, and for Portugal
 - **[Equamat/Mat12](https://pmate.ua.pt/cnc/)**: Mathematics competitions that are part of the multi-disciplinary CNC (National Science Competitions) organized by University of Aveiro
 - **[OChemistry](https://www.olimpiadas.spq.pt/)**: National Chemistry competition with theoretical and practical components. Consists of two stages (regional and national).
-- **[OdF - Physics Olympiad](http://olimpiadas.spf.pt/)**: National Physics competition with theoretical and practical components. Consists of two stages (regional and national).
-- **[EUSO - European Union Science Olympiad](euso2017.dk/)**: European Science competition with theoretical and practical components, covering topics on Physics, Chemistry and Biology.
+- **[OdF - Physics Olympiad](https://olimpiadas.spf.pt/)**: National Physics competition with theoretical and practical components. Consists of two stages (regional and national).
+- **[EUSO - European Union Science Olympiad](https://euso2017.dk/)**: European Science competition with theoretical and practical components, covering topics on Physics, Chemistry and Biology.
 - **[IPhO - International Physics Olympiad](https://ipho2018.pt/)**: The most important Physics competition in the world.
 - **[ONI - National Informatics Olympiad](https://oni.dcc.fc.up.pt/)**: National Programming competition. Consists of two stages (national qualifiers and national final), each stage having an exam with ~4 programming challenges scored using public and hidden test cases.
 - **[CIIC - Ibero-american Competition of Informatics and Computation](https://oni.dcc.fc.up.pt/2018/)**: Programming competition for students of Portugal, Spain and South America.
 - **[IOI - International Olympiad in Informatics](https://ioinformatics.org/)**: The most important Programming competition in the world for pre-university students.
-- **[SInf - Week of Informatics](sinf.pt)**: Informatics competition held by the Informatics Nucleus of FEUP during the yearly event *Week of Informatics*.
-- **[MIUP - Inter-University Programming Marathon](dei.uc.pt/miup)**: National Programming competition for university students. National stage of [ICPC - International Collegiate Programming Competition](https://icpc.global/).
+- **[SInf - Week of Informatics](https://www.sinf.pt/)**: Informatics competition held by the Informatics Nucleus of FEUP during the yearly event *Week of Informatics*.
+- **[MIUP - Inter-University Programming Marathon](https://dei.uc.pt/miup/)**: National Programming competition for university students. National stage of [ICPC - International Collegiate Programming Competition](https://icpc.global/).
 - **[SWERC - South-Western Europe Regional Contest](https://swerc.eu)**: Regional Programming competition for university students from Portugal, Spain, France, Italy, Switzerland and Israel. Regional stage of [ICPC - International Collegiate Programming Competition](https://icpc.global/).
 

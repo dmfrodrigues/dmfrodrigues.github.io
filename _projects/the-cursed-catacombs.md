@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "The Cursed Catacombs"
-permalink: /projects/the-cursed-catacombs/
+permalink: /projects/the-cursed-catacombs
 github: https://github.com/dmfrodrigues/feup-lpoo-proj
 ---
 

@@ -3,10 +3,12 @@
 }
 
 table.uni-resources {
-    td, th {
+    td,
+    th {
         padding: 5px 10px;
+        white-space: nowrap;
     }
-    
+
     th.rotate {
         border-right: 2px solid #c9c9c9;
         max-width: 20px;
@@ -19,7 +21,7 @@ table.uni-resources {
             -moz-transform: rotate(-90deg);
             -ms-transform: rotate(-90deg);
             -o-transform: rotate(-90deg);
-    
+
             min-width: 200px;
             margin-left: -90px;
         }

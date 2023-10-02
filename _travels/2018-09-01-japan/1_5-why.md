@@ -1,6 +1,6 @@
 ### Why
 
-On the 7 May 2018 I ranked 8th in the Portuguese [National Olympiad in Informatics](http://oni.dcc.fc.up.pt/2018/) (Olimpíadas Nacionais de Informática - ONI), so I had access to the selection stage for the [International Olympiad in Informatics](https://ioinformatics.org/) (IOI). In the selection test I ranked 4th, and had a global classification (ONI finals + selection test) that ranked me 4th, meaning I was one of the four lucky to attend the [IOI2018](https://ioi2018.jp/), from 1 to 8 September in Tsukuba, Ibaraki, Japan, as a proud representative of Portugal.
+On the 7 May 2018 I ranked 8th in the Portuguese [National Olympiad in Informatics](https://oni.dcc.fc.up.pt/2018/) (Olimpíadas Nacionais de Informática - ONI), so I had access to the selection stage for the [International Olympiad in Informatics](https://ioinformatics.org/) (IOI). In the selection test I ranked 4th, and had a global classification (ONI finals + selection test) that ranked me 4th, meaning I was one of the four lucky to attend the [IOI2018](https://ioi2018.jp/), from 1 to 8 September in Tsukuba, Ibaraki, Japan, as a proud representative of Portugal.
 
 ### With whom
 

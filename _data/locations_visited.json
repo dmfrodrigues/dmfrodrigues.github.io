@@ -2,7 +2,7 @@
     "countries": [
         {
             "country": "Japan",
-            "link": "/travels/2018-sep-japan/",
+            "link": "/travels/2018/09/japan",
             "cities": [
                 {
                     "city": "Tokyo",
@@ -141,7 +141,7 @@
         },
         {
             "country": "Finland",
-            "link": "/travels/2018-sep-finland/",
+            "link": "/travels/2018/09/finland",
             "cities": [
                 {
                     "city": "Helsinki",

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 <div class="home">
@@ -16,12 +16,13 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
+
   {%- if posts.size > 0 -%}
     <hr class="post-list-separator">
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    {{ page.list_intro }}</h2>
+    {{ page.list_intro }}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}

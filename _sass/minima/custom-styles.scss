@@ -1,7 +1,5 @@
----
----
-
-@import "{{ site.theme }}";
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
 @import "about";
 @import "globe";
@@ -18,7 +16,9 @@
 @import "cp";
 @import "tech";
 
-p, ul, ol {
+p,
+ul,
+ol {
     text-align: justify;
 }
 
@@ -83,7 +83,7 @@ p, ul, ol {
 .home-img {
     display: block;
     margin: 0 auto;
-    filter: brightness(0.40);
+    filter: brightness(0.4);
     max-width: 200px;
 }
 
@@ -98,4 +98,3 @@ p, ul, ol {
     background-color: #888;
     margin: 15px auto;
 }
-

@@ -134,7 +134,7 @@ You can install Apache by running `sudo apt install apache2`, and a more detaile
 Notice that Apache only makes a browser work properly with the files you provide for it, as it does not automatically make files available over the internet. It makes your computer IP available for access over a local network, to access your website in your browser just go to the address `localhost` and you should see the classic Apache landing page.
 
 <figure>
-    <img src="https://help.nextcloud.com/uploads/default/optimized/2X/1/1c46cfc954ab87f32bbcec2e6bf73d2f12b07964_1_582x500.png" alt="Apache default landing page">
+    <img src="https://www.codingcommanders.com/LAMP/default_apache.png" alt="Apache default landing page">
     <figcaption>Apache default landing page</figcaption>
 </figure>
 

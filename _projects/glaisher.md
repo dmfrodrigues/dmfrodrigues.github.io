@@ -1,9 +1,9 @@
 ---
 layout: project
 title: "Glaisher"
-permalink: /projects/glaisher/
+permalink: /projects/glaisher
 github: https://github.com/dmfrodrigues/feup-laig-proj/tree/master/TP3
-try-it: https://dmfrodrigues.github.io/feup-laig-proj/TP3/
+try-it: https://dmfrodrigues.github.io/feup-laig-proj/TP3
 ---
 
 <div class="scroll" markdown="1">

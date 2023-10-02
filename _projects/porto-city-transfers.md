@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "PortoCityTransfers"
-permalink: /projects/porto-city-transfers/
+permalink: /projects/porto-city-transfers
 github: https://github.com/dmfrodrigues/feup-cal-proj
 ---
 

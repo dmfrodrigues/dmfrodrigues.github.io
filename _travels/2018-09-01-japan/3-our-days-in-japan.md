@@ -4,7 +4,7 @@ We stayed at the [National Institute for School Teachers and Staff Development](
 
 ### The food
 
-In Portugal we are very used to rice. Actually, we are the [greatest rice consumers per capita in Europe](https://jornalsabores.com/consumo-arroz-baixar-portugal/) (around 16kg/year), followed by Spain with about half the amount of rice consumption per capita. Thus it would not come as much surprise for myself to see rice as a side or main dish almost every day. As a side dish in Portugal, it is usually boiled with onion, parsley and a bit of salt.
+In Portugal we are very used to rice. Actually, we are the [greatest rice consumers per capita in Europe](https://landgeist.com/2022/06/25/rice-consumption-in-europe/) (around 16kg/year), followed by Spain by quite a distance. Thus it would not come as much surprise for myself to see rice as a side or main dish almost every day. As a side dish in Portugal, it is usually boiled with onion, parsley and a bit of salt.
 
 I already had an idea about the Japanese habit of eating rice, but it didn't quite feel real until I experienced it first-hand. In Japan rice is hardly even considered a side dish, as it is practically mandatory at all meals (including breakfast), which made me realize Asians really are on another league when it comes to rice-eating. It is steamed (often with special pressure cookers), and due to its texture it becomes sticky, which makes it easier to eat with chopsticks (an instrument I have only mastered for a single meal, since I redundantly failed to use chopsticks properly on all but one occasion). Aside from that, there is nothing surprising about Japanese rice, as it has no flavor since no condiments are added (bamboo seeds may be added, but they don't add much of a flavor, and I don't really know if they are added before or after cooking though).
 
@@ -149,7 +149,7 @@ The official currency in Japan is the [Japanese yen](https://en.wikipedia.org/wi
 
 I found the cost of living in Japan quite affordable when compared to Portugal; the prices are actually quite similar. Of course products were a bit more expensive in Tokyo than in Tsukuba, but they were still affordable and prices in Tokyo were just 10-20% higher than in Tsukuba for food and other goods (if we were talking about housing or salaries that'd be a whole different story).
 
-There was one particularity I noticed in Japanese currency: all coins are relatively 'normal' (they have no holes and bear their values in arabic numerals), except for one small copper coin: it has a hole and bears no value in arabic numerals. Yu-san then explained us they're worth ¥5, and since they're called 五円 (*go en*, 'five yen') which sounds similar to 御縁 (*go-en*, 'spiritual connection') they're usually kept in wallets or thrown in shrines for good luck and prosperity by establishing a good connection with spirits. She additionally told us that ¥50 coins, called 五十円 (*gojū-en*, 'fifty yen'), are also considered by some to give good luck due to similarities with the 5¥ coin (similar name, and the hole).
+There was one particularity I noticed in Japanese currency: all coins are relatively 'normal', except for one small copper coin: it has a hole and bears no value in arabic numerals. Yu-san then explained us they're worth ¥5, and since they're called 五円 (*go en*, 'five yen') which sounds similar to 御縁 (*go-en*, 'spiritual connection') they're usually kept in wallets or thrown in shrines for good luck and prosperity by establishing a good connection with spirits. She additionally told us that ¥50 coins, called 五十円 (*gojū-en*, 'fifty yen'), are also considered by some to give good luck due to similarities with the 5¥ coin (similar name, and the hole).
 
 <figure>
     <div class="flex-row">
@@ -161,16 +161,16 @@ There was one particularity I noticed in Japanese currency: all coins are relati
                 <th>Value</th>
             </tr>
             <tr>
-                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/1JPY.JPG"></td><td>¥1</td>
-                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/50JPY.JPG"></td><td>¥50</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/1JPY.JPG" alt="¥1 coin"></td><td>¥1</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/50JPY.JPG" alt="¥50 coin"></td><td>¥50</td>
             </tr>
             <tr>
-                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/5JPY.JPG"></td><td>¥5</td>
-                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/100JPY.JPG"></td><td>¥100</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/5JPY.JPG" alt="¥50 coin"></td><td>¥5</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/100JPY.JPG" alt="¥100 coin"></td><td>¥100</td>
             </tr>
             <tr>
-                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/10JPY.JPG"></td><td>¥10</td>
-                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/500JPY.JPG"></td><td>¥500</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/8/86/10JPY.JPG" alt="¥10 coin"></td><td>¥10</td>
+                <td class="coin"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/500JPY.JPG" alt="¥500 coin"></td><td>¥500</td>
             </tr>
         </table>
         <table>
@@ -179,16 +179,16 @@ There was one particularity I noticed in Japanese currency: all coins are relati
                 <th>Value</th>
             </tr>
             <tr>
-                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/1000_yen_banknote_2004.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/1000_Yen_from_Back.jpg"></td><td>¥1,000</td>
+                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/1000_yen_banknote_2004.jpg" alt="¥1000 banknote (front)"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/1000_Yen_from_Back.jpg" alt="¥1000 banknote (back)"></td><td>¥1,000</td>
             </tr>
             <tr>
-                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/P103-2000Yen-%282000%29_front.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/2000_Yen_Murasaki_Shikibu.jpg"></td><td>¥2,000</td>
+                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/P103-2000Yen-%282000%29_front.jpg" alt="¥2000 banknote (front)"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/2000_Yen_Murasaki_Shikibu.jpg" alt="¥2000 banknote (back)"></td><td>¥2,000</td>
             </tr>
             <tr>
-                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/5000_Yenes_%282004%29_%28Anverso%29.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/5000_Yenes_%282004%29_%28Reverso%29.jpg"></td><td>¥5,000</td>
+                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/5000_Yenes_%282004%29_%28Anverso%29.jpg" alt="¥5000 banknote (front)"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/5000_Yenes_%282004%29_%28Reverso%29.jpg" alt="¥5000 banknote (back)"></td><td>¥5,000</td>
             </tr>
             <tr>
-                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/10000_Yenes_%28Anverso%29.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/10000_Yenes_%28Reverso%29.jpg"></td><td>¥10,000</td>
+                <td class="banknote"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/10000_Yenes_%28Anverso%29.jpg" alt="¥10000 banknote (front)"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/10000_Yenes_%28Reverso%29.jpg" alt="¥10000 banknote (back)"></td><td>¥10,000</td>
             </tr>
         </table>
     </div>
@@ -219,10 +219,10 @@ The next night, another earthquake happened, this time at 6 Sep 3:08. I was abou
 
 <figure>
     <div class="flex-row">
-        <img style="flex: 0.8947;" src="https://earthquake.usgs.gov/archive/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg" alt="USGS intensity map of Ibaraki September 5 earthquake">
+        <img style="flex: 0.8947;" src="https://earthquake.usgs.gov/product/dyfi/us2000h8dj/us/1538597324393/us2000h8dj_ciim_geo.jpg" alt="USGS intensity map of Ibaraki September 5 earthquake">
         <img style="flex: 0.8512;" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/2018_Iburi_earthquake_intensity_map.jpg" alt="USGS shakemap of Hokkaido September 6 earthquake">
     </div>
-    <figcaption>USGS intensity map of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/dyfi/intensity">Ibaraki Sep 5 earthquake</a> (left) and shakemap of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive#dyfi">Hokkaido Sep 6 earthquake</a> (right)</figcaption>
+    <figcaption>USGS intensity map of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8dj/dyfi/intensity">Ibaraki Sep 5 earthquake</a> (left) and shakemap of <a href="https://earthquake.usgs.gov/earthquakes/eventpage/us2000h8ty/executive">Hokkaido Sep 6 earthquake</a> (right)</figcaption>
 </figure>
 
 A fun fact for some, an inconvenience and a tragic event for others.

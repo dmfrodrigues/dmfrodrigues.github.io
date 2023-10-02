@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /about
 custom_js_external:
 - "https://cdn.jsdelivr.net/npm/d3@7"
 - "https://unpkg.com/topojson@3"
@@ -17,21 +17,23 @@ I usually go by the username **dmfrodrigues**. For some other purposes I tend to
 <div class="masonry-vertical">
 <div markdown="1">
 
-## [Projects](/projects/)
+{% assign p = site.pages | where: "title", "Projects" | first %}
+## [{{p.emoji}} {{p.title}}]({{ p.url | relative_url }})
 
-I have been involved in several projects, some related to university, others not no much. Check them out [here](/projects/)!
+I have been involved in several projects, some related to university, others not no much. Check them out [here](/projects)!
 
 <div class="projects-grid-container">
-<div><a href="/projects/"><img src="https://i.imgur.com/69YCcZ8m.png" alt="mandelbrot-detail"></a></div>
-<div><a href="/projects/"><img src="https://i.imgur.com/zAOwCGem.png" alt="graphviewercpp"></a></div>
-<div><a href="/projects/"><img src="https://i.imgur.com/PiqStSQm.jpg" alt="glaisher"></a></div>
-<div><a href="/projects/"><img src="https://i.imgur.com/Y7H4LZlm.png" alt="foreverhome"></a></div>
+<div><a href="/projects"><img src="https://i.imgur.com/69YCcZ8m.png" alt="mandelbrot-detail"></a></div>
+<div><a href="/projects"><img src="https://i.imgur.com/zAOwCGem.png" alt="graphviewercpp"></a></div>
+<div><a href="/projects"><img src="https://i.imgur.com/PiqStSQm.jpg" alt="glaisher"></a></div>
+<div><a href="/projects"><img src="https://i.imgur.com/Y7H4LZlm.png" alt="foreverhome"></a></div>
 </div>
 
 </div>
 <div markdown="1">
 
-## [Competitive programming](/achievements/)
+{% assign p = site.pages | where: "title", "Competitive programming" | first %}
+## [{{p.emoji}} {{p.title}}]({{ p.url | relative_url }})
 
 Competitive programming is a sport, involving several contestants trying to solve as many problems as possible in a given time limit, often using creative approaches to those problems. One of the things people benefit the most from competitive programming is algorithmic reasoning: to truly understand what algorithms do, so you can adapt them or invent new ones to solve problems. Competitive programming is a very good hobby for your professional life for three main reasons: it helps potential developers with job interviews, it keeps you thinking about interesting problems and the languages you use to solve problems will always stay fresh.
 
@@ -40,7 +42,8 @@ Every year I go through approximately the same sequence of events: national comp
 </div>
 <div markdown="1">
 
-## [Travelling ✈️](/travels/)
+{% assign p = site.pages | where: "title", "Travels" | first %}
+## [{{p.emoji}} {{p.title}}]({{ p.url | relative_url }})
 
 <svg id="globe" class="globe center" viewBox="0 0 400 400"></svg>
 <script>
@@ -61,14 +64,15 @@ window.addEventListener("load", async function(){
 });
 </script>
 
-It is one of my favourite hobbies, and I like every part of the trip (even being closed in a flying metal box for hours is fascinating, if not for the views or whatever I have to entertain myself, then for the expectation). You can find more about my travels [here](/travels/).
+It is one of my favourite hobbies, and I like every part of the trip (even being closed in a flying metal box for hours is fascinating, if not for the views or whatever I have to entertain myself, then for the expectation). You can find more about my travels [here](/travels).
 
 </div>
 <div markdown="1">
 
-## [Music 🎸](/music/)
+{% assign p = site.pages | where: "title", "Music" | first %}
+## [{{p.emoji}} {{p.title}}]({{ p.url | relative_url }})
 
-My favourite genre is metal, but I also like alternative/progressive rock. My favourite band is [Muse](https://en.wikipedia.org/wiki/Muse_(band)), occasionally followed by [System of a Down](https://en.wikipedia.org/wiki/System_of_a_Down) although I usually prefer more artsy music. My favorite album is [Origin of Symmetry](https://en.wikipedia.org/wiki/Origin_of_Symmetry) by Muse. More on my favorite songs [here](/music/).
+My favourite genre is metal, but I also like alternative/progressive rock. My favourite band is [Muse](https://en.wikipedia.org/wiki/Muse_(band)), occasionally followed by [System of a Down](https://en.wikipedia.org/wiki/System_of_a_Down) although I usually prefer more artsy music. My favorite album is [Origin of Symmetry](https://en.wikipedia.org/wiki/Origin_of_Symmetry) by Muse. More on my favorite songs [here](/music).
 
 <div class="music-grid-container">
     <div><img src="https://i.imgur.com/r9WtLzut.jpg" alt="Origin of Symmetry (Muse)"></div>
