@@ -151,6 +151,18 @@
                     ]
                 }
             ]
+        },
+        {
+            "country": "Greece",
+            "cities": [
+                {
+                    "city": "Athens",
+                    "coordinates": [
+                        23.7275,
+                        37.9838
+                    ]
+                }
+            ]
         }
     ]
 }

@@ -55,8 +55,9 @@ Here are the places I have visited so far:
 - 🇫🇮 **Finland**: Helsinki (Sep 2018)
 - 🇬🇧 **England**: London, Oxford, Cambridge (Jul-Aug 2019)
 - 🇮🇹 **Italy**: Milan (Apr 2022, Feb 2023)
+- 🇬🇷 **Greece**: Athens (Sep 2023)
 
-I have written posts only for the most memorable ones, or the ones that triggered the most remarks.
+<!-- I have written posts only for the most memorable ones, or the ones that triggered the most remarks.
 
 <ul class="post-list">
     {% assign travel_sorted = site.travels | sort: 'date' | reverse %}
@@ -66,4 +67,4 @@ I have written posts only for the most memorable ones, or the ones that triggere
             <h3><a class="post-link" href="{{ travel.url }}">{{ travel.country_flag_emoji }} {{ travel.country }} ({{ travel.where }})</a></h3>
         </li>
     {% endfor %}
-</ul>
+</ul> -->

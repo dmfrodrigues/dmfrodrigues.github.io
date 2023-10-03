@@ -47,7 +47,7 @@ One typical feature of the Japanese suburb is that almost all cables are placed 
 
 <figure>
     <img src="https://www.spoon-tamago.com/wp-content/uploads/2015/06/hachioji-electric-cables-2.jpg" alt="Overhead cables in Hachioji">
-    <figcaption><a href="https://www.spoon-tamago.com/2015/06/24/chaotic-photographs-of-electric-cables-suspended-over-japanese-streets/">Overhead cables in Hachioji, Japan</a></figcaption>
+    <figcaption><a href="https://www.spoon-tamago.com/chaotic-photographs-of-electric-cables-suspended-over-japanese-streets/">Overhead cables in Hachioji, Japan</a></figcaption>
 </figure>
 
 That day was a bit cloudy and misty (there was light rain twice that day). As we started approaching Tokyo, the landscape progressively changed from rice fields into a few houses, then to huge plains of two-story houses, then growing buildings. It was quite a remarkable sight, a demonstration of how many we humans really are and the extent people go to have affordable and comfortable housing. Finally, in the distance, the huge [Tokyo Skytree](https://en.wikipedia.org/wiki/Tokyo_Skytree) (tallest tower in the world) started appearing from the light mist: we were finally entering Tokyo, the greatest metropolis on the surface of Earth.
