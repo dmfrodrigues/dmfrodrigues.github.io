@@ -1,5 +1,9 @@
-.projects {
+.wide {
     max-width: calc(1200px - (30px * 2));
+}
+
+.narrow {
+    max-width: calc(800px - (30px * 2));
 }
 
 .project-gallery {

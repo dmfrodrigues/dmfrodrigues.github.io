@@ -2,6 +2,7 @@
 layout: post
 title: "Developing for Android in 2020"
 date: 2020-10-20 01:20:00 +0100
+image: /assets/images/banners/android.svg
 ---
 
 ## Installing

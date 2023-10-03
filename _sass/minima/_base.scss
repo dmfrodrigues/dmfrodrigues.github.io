@@ -55,7 +55,19 @@ hr {
  * `main` element
  */
 main {
-  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  display: flex;
+
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  padding-right: $spacing-unit * .5;
+  padding-left: $spacing-unit * .5;
+
+  @media screen and (min-width: $on-large) {
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+  }
 }
 
 
@@ -198,18 +210,11 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: calc(#{$content-width} - (#{$spacing-unit}));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit * .5;
-  padding-left: $spacing-unit * .5;
   @extend %clearfix;
-
-  @media screen and (min-width: $on-large) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-  }
+  
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 1.5));
+  padding-right: $spacing-unit * 1;
+  padding-left: $spacing-unit * 1;
 }
 
 

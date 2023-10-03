@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: base-narrow
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -25,6 +25,10 @@ layout: base
         {% endfor %}
       {%- endif -%}</p>
   </header>
+
+  {%- if page.image -%}
+    <img class="post-banner" src="{{ page.image | relative_url }}"/>
+  {%- endif -%}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}

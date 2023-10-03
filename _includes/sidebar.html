@@ -1,0 +1,10 @@
+<aside class="sidebar sidebar-right">
+  <h2>Quick links</h2>
+
+  {% assign linkedin = site.minima.social_links | where: "platform", "linkedin" %}
+
+  <ul>
+    <li><a href="{{site.minima.cv}}">📄 CV</a></li>
+    <li><a href="{{linkedin.user_url}}">📄 Linkedin</a></li>
+  </ul>
+</aside>

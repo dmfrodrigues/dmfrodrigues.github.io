@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page-wide
 title: Projects
 emoji: 📋
 permalink: /projects

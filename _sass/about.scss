@@ -1,29 +1,25 @@
-.about {
-    max-width: calc(1000px - (30px * 2));
+.projects-grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
 
-    .projects-grid-container {
-        display: grid;
-        grid-template-columns: auto auto;
-
-        div {
-            img {
-                max-width: 100%;
-                height: auto;
-                object-fit: cover;
-            }
+    div {
+        img {
+            max-width: 100%;
+            height: auto;
+            object-fit: cover;
         }
     }
+}
 
-    .music-grid-container {
-        display: grid;
-        grid-template-columns: auto auto auto;
+.music-grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
 
-        div {
-            img {
-                max-width: 100%;
-                height: auto;
-                object-fit: cover;
-            }
+    div {
+        img {
+            max-width: 100%;
+            height: auto;
+            object-fit: cover;
         }
     }
 }

@@ -1,5 +1,5 @@
 ---
-layout: cp
+layout: page
 title: Competitive programming
 emoji: 🏆
 permalink: /cp

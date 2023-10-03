@@ -1,5 +1,5 @@
 ---
-layout: university
+layout: page
 title: University
 emoji: 🎓
 permalink: /university

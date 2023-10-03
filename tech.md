@@ -1,5 +1,5 @@
 ---
-layout: technologies
+layout: page-wide
 title: Technologies
 emoji: 🖥️
 permalink: /tech

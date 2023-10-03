@@ -1,6 +1,6 @@
 .masonry-vertical {
     columns: 2 auto;
-    column-gap: 2em;
+    column-gap: 1.25*$spacing-unit;
 }
 
 .masonry-vertical > div {
