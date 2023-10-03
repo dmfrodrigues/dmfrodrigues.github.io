@@ -43,6 +43,8 @@ minima:
         user: dmfrodrigues2000,
         user_url: "https://open.spotify.com/user/dmfrodrigues2000",
       }
+
+  cv: https://github.com/dmfrodrigues/cv/releases/latest/download/CV_DR_en.pdf
 #
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
