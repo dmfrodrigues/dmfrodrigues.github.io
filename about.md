@@ -8,10 +8,11 @@ custom_js_external:
 - "https://cdn.jsdelivr.net/gh/dmfrodrigues/globe@latest/js/globe.js"
 ---
 
-My name is Diogo Rodrigues, and I am a 3rd year [Informatics Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742) student at [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL). I live in [Maia](https://en.wikipedia.org/wiki/Maia,_Portugal), near the city of [Porto](https://en.wikipedia.org/wiki/Porto), in Portugal. I am not yet sure on what I want to work with in the future, although I have interest in algorithmics, critical systems/operating systems, cybersecurity and web development (in this order). I am also into competitive programming, and I regularly attend national and international competitions.
+My name is Diogo Rodrigues, and I am a Software Engineer from [Maia](https://en.wikipedia.org/wiki/Maia,_Portugal), near the city of [Porto](https://en.wikipedia.org/wiki/Porto), in Portugal. I studied [Informatics Engineering](https://sigarra.up.pt/feup/en/cur_geral.cur_view?pv_curso_id=742) at [FEUP](https://sigarra.up.pt/feup/en/WEB_PAGE.INICIAL). I have interest in algorithmics, critical systems/operating systems, cybersecurity and web development (in this order). I am also into competitive programming, as I regularly attended national and international competitions.
+
+I am currently working as a Software Engineer at [SingleStore](https://www.singlestore.com/), the fastest OLAP database in the world. More specifically, I work in the Managed Services team, where we are building the future of cloud data processing for analytical workloads!
 
 You can check on [my "short" CV]({{site.cv}}) (in English).
-
 I usually go by the username **dmfrodrigues**. For some other purposes I tend to use **Nautilus** or something along those lines, hence the slightly coiled-shell-themed website.
 
 <div class="masonry-vertical">

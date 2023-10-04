@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-narrow
 title: Travels
 emoji: ✈️
 permalink: /travels

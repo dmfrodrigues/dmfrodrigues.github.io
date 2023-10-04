@@ -20,11 +20,11 @@ A set of computer programs that dynamically calculate well-known fractals like M
 
 <article markdown="1">
 
-### LIYSF2019 - AI for population density from satellite imagery
+### AI-enabled census from satellite imagery
 
 ![liysf2019](https://i.imgur.com/0h53r0ml.png)
 
-An AI model to estimate population density from satellite imagery was designed, implemented, trained and analysed; can be useful in places where demographic data is unreliable/old. Presented in [London Int'l Youth Science Forum 2019](https://www.liysf.org.uk/).
+An AI model to estimate population density from satellite imagery was designed, implemented, trained and analysed, and is most useful where data is unreliable/old. Presented in [London Int'l Youth Science Forum 2019](https://www.liysf.org.uk/).
 
 </article>
 
@@ -181,7 +181,14 @@ onclick="location.href='https://man7.org/linux/man-pages/changelog.html#release_
 
 ### The Linux man-pages project
 
-Fixed a typo; although a minor contribution, it is still curious.
+Fixed a typo 🙂
 </article>
-<article class="placeholder"></article>
+<!-- <article class="placeholder"></article> -->
+<article markdown="1"
+onclick="location.href='https://www.openstreetmap.org/user/dmfr'">
+
+### OpenStreetMap
+
+Active contributor.
+</article>
 </div>

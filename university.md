@@ -16,7 +16,7 @@ All ✔️ are clickable and redirect to the corresponding repository, except fo
 
 <img class="center" style="max-width:300px" src="https://i.imgur.com/ncnfQND.jpg" alt="FEUP logo">
 
-I am taking the [Integrated Masters in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=742&pv_ano_lectivo=2021) (3 years Bachelor + 2 years Master) at the [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/web_page.Inicial). The main focuses of this course are:
+I took the [Integrated Masters in Informatics and Computing Engineering](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_curso_id=742&pv_ano_lectivo=2021) (3 years Bachelor + 2 years Master) at the [Faculty of Engineering of the University of Porto](https://sigarra.up.pt/feup/en/web_page.Inicial). The main focuses of this course are:
 
 1. **Software Engineering** skills and tools;
 2. Knowledge of more theoretical fields like **algorithmics**, **discrete mathematics**, **number theory**, **encryption**, **distributed systems**, **compilers**, etc.
