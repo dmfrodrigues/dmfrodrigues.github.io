@@ -213,6 +213,7 @@ pre {
   @extend %clearfix;
   
   max-width: calc(#{$content-width} - (#{$spacing-unit} * 1.5));
+  width: calc(#{$content-width} - (#{$spacing-unit} * 1.5));
   padding-right: $spacing-unit * 1;
   padding-left: $spacing-unit * 1;
 }
