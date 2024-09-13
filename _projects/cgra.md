@@ -3,7 +3,7 @@ layout: project
 title: "CGRA project"
 permalink: /projects/cgra
 github: https://github.com/dmfrodrigues/feup-cgra-proj
-try-it: https://mechjm.github.io/trabalhoCGRA/proj
+try-it: https://matosjoaops.github.io/trabalhoCGRA/proj
 ---
 
 <div class="scroll" markdown="1">
